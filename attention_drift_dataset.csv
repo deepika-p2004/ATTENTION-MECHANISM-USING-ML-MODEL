@@ -1,0 +1,1021 @@
+Drift_ID,Date,Start_Time,End_Time,Duration_Minutes,Activity_Before_Drift,Activity_Type,Task_Difficulty,Task_Importance,Trigger_Type,Specific_Trigger,Distraction_Source,Energy_Level,Mood_Before,Stress_Level,Sleep_Hours_Last_Night,Caffeine/Meal_Status,Location,Noise_Level,Lighting,Temperature_Comfort,Recovery_Time_Minutes,Recovery_Method,Task_Resumed,Productivity_Impact,Cumulative_Drift_Today_Minutes,Focus_Session_Length_Before_Drift,Drift_Category
+1,01-10-2025,21:23,21:38,15,Coding,Creative,Hard,Low,Internal,Hunger,Physical,High,Happy,Low,8.0,Just Ate,Office,Moderate,Normal,Cold,3,Music,No,Major,9,23,Medium
+2,01-10-2025,08:52,09:01,9,Reading,High-Focus,Medium,Low,External,Person Talking,Physical,High,Neutral,Low,5.0,Caffeinated,Home,Quiet,Dim,Hot,7,Continued Task,Yes,Minor,49,43,Micro
+3,01-10-2025,15:01,15:16,15,Studying,Repetitive,Hard,Low,External,Noise,Physical,Medium,Happy,Medium,8.0,Hungry,Office,Moderate,Dim,Cold,10,Continued Task,Yes,Minor,29,7,Major
+4,01-10-2025,20:25,20:27,2,Meeting,High-Focus,Medium,Low,Internal,Hunger,Physical,Low,Neutral,Medium,8.0,Caffeinated,Home,Moderate,Dim,Cold,2,Music,No,Minor,53,23,Medium
+5,01-10-2025,13:34,13:36,2,Studying,High-Focus,Hard,High,External,Noise,Physical,Medium,Stressed,High,7.0,Hungry,Home,Loud,Dim,Comfortable,10,Ignored Phone,No,Minor,37,31,Medium
+6,01-10-2025,12:36,12:46,10,Reading,High-Focus,Hard,Medium,Internal,Daydreaming,Mental,Low,Neutral,High,4.0,Normal,Home,Moderate,Normal,Cold,5,Continued Task,No,Major,33,36,Major
+7,01-10-2025,10:22,10:33,11,Coding,Creative,Medium,Low,Internal,Daydreaming,Mental,Medium,Happy,Medium,4.0,Caffeinated,Office,Quiet,Bright,Comfortable,7,Ignored Phone,No,Minor,60,12,Major
+8,01-10-2025,19:59,20:03,4,Studying,Passive,Medium,Medium,Internal,Hunger,Physical,Low,Anxious,Low,6.0,Normal,Home,Quiet,Bright,Cold,2,Break,No,Minor,18,43,Micro
+9,01-10-2025,09:57,10:08,11,Reading,High-Focus,Easy,Low,Internal,Hunger,Physical,Medium,Neutral,Medium,7.0,Caffeinated,Office,Loud,Bright,Comfortable,9,Coffee,No,Minor,26,48,Major
+10,01-10-2025,14:30,14:42,12,Studying,High-Focus,Hard,Low,External,Phone Ping,Digital,Medium,Stressed,High,6.0,Normal,Outdoors,Quiet,Bright,Comfortable,7,Coffee,No,Major,26,39,Medium
+11,01-10-2025,09:03,09:12,9,Writing,Creative,Medium,High,External,Noise,Physical,High,Neutral,Low,4.0,Hungry,cafe,Loud,Dim,Hot,5,Continued Task,Yes,None,27,7,Major
+12,01-10-2025,16:21,16:32,11,Writing,Repetitive,Easy,Low,External,Noise,Physical,Medium,Happy,Low,4.0,Just Ate,Outdoors,Moderate,Bright,Cold,4,Ignored Phone,No,Minor,15,50,Medium
+13,01-10-2025,13:45,13:46,1,Writing,Passive,Easy,Low,External,Phone Ping,Digital,Low,Bored,Low,6.0,Caffeinated,Office,Loud,Dim,Cold,9,Break,Yes,Major,40,42,Micro
+14,01-10-2025,08:48,08:56,8,Reading,High-Focus,Easy,Low,External,Noise,Physical,Medium,Bored,Medium,6.0,Hungry,Outdoors,Quiet,Bright,Cold,4,Ignored Phone,No,None,32,40,Micro
+15,01-10-2025,11:12,11:17,5,Meeting,Passive,Easy,Low,Internal,Hunger,Physical,Medium,Happy,Medium,8.0,Caffeinated,Outdoors,Moderate,Bright,Comfortable,2,Ignored Phone,Yes,None,37,32,Major
+16,01-10-2025,19:46,19:55,9,Coding,Creative,Hard,Medium,External,Phone Ping,Digital,Medium,Happy,High,8.0,Normal,Outdoors,Loud,Normal,Comfortable,9,Ignored Phone,Yes,None,21,29,Major
+17,01-10-2025,15:38,15:40,2,Coding,Passive,Hard,High,Internal,Hunger,Physical,Low,Happy,Low,4.0,Hungry,Outdoors,Moderate,Bright,Comfortable,4,Continued Task,No,None,16,29,Medium
+18,01-10-2025,20:05,20:19,14,Writing,Passive,Easy,High,Internal,Hunger,Physical,High,Anxious,Low,6.0,Just Ate,Home,Moderate,Normal,Hot,8,Continued Task,No,Major,33,19,Micro
+19,01-10-2025,11:09,11:23,14,Writing,Repetitive,Medium,Medium,External,Person Talking,Physical,High,Happy,High,6.0,Just Ate,Home,Quiet,Dim,Comfortable,7,Coffee,Yes,Major,27,21,Major
+20,01-10-2025,08:38,08:47,9,Studying,Creative,Hard,Low,External,Noise,Physical,Low,Happy,Medium,7.0,Just Ate,cafe,Loud,Dim,Cold,1,Continued Task,No,Major,56,33,Major
+21,01-10-2025,17:23,17:33,10,Studying,High-Focus,Medium,High,External,Noise,Physical,Low,Happy,Medium,6.0,Caffeinated,Office,Loud,Normal,Hot,4,Music,No,Major,19,24,Medium
+22,01-10-2025,17:05,17:19,14,Meeting,Repetitive,Easy,Low,Internal,Daydreaming,Mental,Low,Anxious,High,5.0,Caffeinated,Outdoors,Moderate,Normal,Hot,2,Music,Yes,None,23,10,Medium
+23,01-10-2025,20:16,20:29,13,Writing,Creative,Easy,High,External,Social Media,Digital,Medium,Neutral,Low,5.0,Normal,Office,Moderate,Normal,Cold,8,Coffee,No,Minor,13,48,Micro
+24,01-10-2025,17:55,17:59,4,Meeting,Repetitive,Medium,High,External,Noise,Physical,Medium,Neutral,Low,4.0,Normal,Home,Quiet,Dim,Comfortable,7,Music,Yes,Minor,56,21,Medium
+25,01-10-2025,12:39,12:41,2,Coding,Repetitive,Medium,Low,External,Noise,Physical,Medium,Bored,High,7.0,Just Ate,Home,Moderate,Dim,Cold,2,Ignored Phone,Yes,Major,53,7,Major
+26,01-10-2025,16:13,16:23,10,Meeting,High-Focus,Easy,Medium,Internal,Daydreaming,Mental,Low,Bored,High,8.0,Normal,Office,Moderate,Dim,Comfortable,10,Music,No,Minor,46,40,Medium
+27,01-10-2025,14:39,14:41,2,Coding,Creative,Medium,High,External,Social Media,Digital,Medium,Stressed,High,6.0,Just Ate,Outdoors,Moderate,Normal,Cold,8,Coffee,No,Minor,27,44,Micro
+28,01-10-2025,10:09,10:22,13,Meeting,Repetitive,Easy,Low,External,Noise,Physical,Medium,Neutral,Medium,8.0,Normal,Home,Moderate,Dim,Hot,3,Music,Yes,Major,23,20,Major
+29,01-10-2025,09:38,09:45,7,Meeting,High-Focus,Medium,Low,Internal,Daydreaming,Mental,Medium,Anxious,High,4.0,Caffeinated,Office,Moderate,Normal,Cold,10,Coffee,No,Minor,10,35,Micro
+30,01-10-2025,15:00,15:13,13,Reading,Repetitive,Easy,Medium,External,Person Talking,Physical,Medium,Neutral,Low,7.0,Normal,Home,Loud,Bright,Cold,1,Coffee,Yes,Minor,46,29,Major
+31,01-10-2025,14:15,14:16,1,Reading,Passive,Easy,Medium,External,Social Media,Digital,Low,Neutral,Low,8.0,Caffeinated,Office,Loud,Bright,Comfortable,9,Music,Yes,Major,41,5,Medium
+32,01-10-2025,10:44,10:47,3,Reading,High-Focus,Hard,Low,Internal,Daydreaming,Mental,Medium,Bored,Medium,9.0,Caffeinated,Home,Loud,Dim,Comfortable,10,Ignored Phone,Yes,Minor,15,49,Micro
+33,01-10-2025,12:05,12:12,7,Coding,High-Focus,Hard,Low,External,Social Media,Digital,Low,Anxious,High,9.0,Just Ate,Home,Moderate,Dim,Hot,9,Break,Yes,Major,7,30,Major
+34,01-10-2025,10:39,10:47,8,Writing,Passive,Medium,High,Internal,Daydreaming,Mental,High,Stressed,Medium,7.0,Caffeinated,Outdoors,Moderate,Bright,Hot,3,Ignored Phone,Yes,None,14,48,Medium
+35,01-10-2025,08:45,08:54,9,Reading,Creative,Medium,High,External,Noise,Physical,High,Happy,Medium,4.0,Just Ate,Home,Loud,Dim,Hot,5,Ignored Phone,No,Minor,58,31,Micro
+36,01-10-2025,08:19,08:25,6,Meeting,High-Focus,Medium,High,External,Noise,Physical,Medium,Happy,Medium,6.0,Normal,Office,Loud,Normal,Cold,8,Ignored Phone,Yes,None,34,46,Major
+37,01-10-2025,10:43,10:58,15,Writing,High-Focus,Easy,Low,External,Noise,Physical,Low,Bored,High,6.0,Normal,cafe,Loud,Dim,Hot,1,Coffee,Yes,Major,23,48,Major
+38,01-10-2025,10:46,10:57,11,Meeting,Passive,Medium,High,External,Phone Ping,Digital,Low,Anxious,Low,5.0,Hungry,Outdoors,Loud,Bright,Cold,8,Break,No,None,18,50,Major
+39,01-10-2025,19:05,19:12,7,Meeting,High-Focus,Medium,Low,External,Phone Ping,Digital,Low,Stressed,Low,4.0,Caffeinated,Office,Quiet,Bright,Comfortable,6,Ignored Phone,Yes,Major,24,16,Major
+40,01-10-2025,17:27,17:28,1,Writing,Repetitive,Medium,Medium,Internal,Daydreaming,Mental,Medium,Stressed,High,4.0,Caffeinated,Office,Moderate,Dim,Comfortable,5,Continued Task,Yes,Minor,42,47,Micro
+41,01-10-2025,16:13,16:14,1,Coding,High-Focus,Easy,Medium,External,Noise,Physical,Low,Stressed,Low,9.0,Hungry,Office,Loud,Bright,Cold,5,Continued Task,No,Major,22,10,Major
+42,01-10-2025,21:37,21:45,8,Studying,Passive,Easy,High,External,Noise,Physical,Low,Neutral,Low,5.0,Caffeinated,Office,Quiet,Normal,Comfortable,7,Coffee,No,Minor,10,33,Medium
+43,01-10-2025,10:13,10:16,3,Studying,Repetitive,Easy,High,External,Person Talking,Physical,Low,Happy,Low,4.0,Caffeinated,Outdoors,Moderate,Dim,Comfortable,5,Ignored Phone,Yes,Minor,55,28,Major
+44,01-10-2025,08:35,08:50,15,Coding,Repetitive,Medium,Medium,External,Noise,Physical,High,Anxious,Low,4.0,Just Ate,Home,Loud,Normal,Hot,2,Ignored Phone,No,Major,21,6,Micro
+45,01-10-2025,13:49,14:04,15,Reading,Repetitive,Medium,High,External,Noise,Physical,High,Neutral,High,6.0,Just Ate,Office,Loud,Bright,Comfortable,7,Ignored Phone,Yes,Major,56,38,Major
+46,01-10-2025,09:27,09:39,12,Meeting,Repetitive,Hard,High,External,Noise,Physical,Low,Anxious,High,8.0,Caffeinated,cafe,Moderate,Normal,Cold,4,Music,Yes,None,7,5,Micro
+47,01-10-2025,15:06,15:21,15,Writing,High-Focus,Easy,Medium,Internal,Hunger,Physical,Medium,Happy,High,8.0,Just Ate,Outdoors,Quiet,Dim,Comfortable,4,Coffee,No,Major,10,31,Medium
+48,01-10-2025,14:01,14:14,13,Coding,Passive,Hard,Low,External,Phone Ping,Digital,Low,Neutral,Medium,9.0,Normal,Office,Loud,Bright,Cold,8,Music,No,Major,50,15,Major
+49,01-10-2025,17:13,17:15,2,Reading,Repetitive,Hard,Medium,Internal,Daydreaming,Mental,High,Stressed,Low,9.0,Caffeinated,Office,Quiet,Normal,Cold,5,Continued Task,Yes,None,29,49,Major
+50,01-10-2025,09:31,09:35,4,Reading,High-Focus,Easy,High,External,Noise,Physical,Low,Happy,Medium,5.0,Normal,cafe,Loud,Dim,Cold,2,Break,Yes,Minor,11,29,Major
+51,01-10-2025,08:36,08:45,9,Coding,Creative,Medium,High,External,Social Media,Digital,Low,Happy,Medium,4.0,Just Ate,cafe,Quiet,Dim,Cold,5,Break,No,None,11,14,Major
+52,01-10-2025,11:49,11:57,8,Coding,High-Focus,Medium,Low,External,Person Talking,Physical,High,Bored,High,8.0,Normal,Home,Loud,Bright,Comfortable,4,Break,No,None,52,19,Micro
+53,01-10-2025,09:14,09:22,8,Coding,Passive,Easy,High,External,Noise,Physical,Medium,Stressed,High,8.0,Hungry,Home,Loud,Normal,Cold,4,Ignored Phone,Yes,Minor,58,37,Micro
+54,01-10-2025,14:04,14:05,1,Meeting,High-Focus,Medium,High,External,Phone Ping,Digital,Medium,Anxious,High,4.0,Just Ate,Office,Moderate,Normal,Hot,9,Coffee,Yes,Minor,35,49,Major
+55,01-10-2025,21:40,21:44,4,Meeting,Creative,Easy,High,External,Phone Ping,Digital,Low,Bored,Low,4.0,Hungry,cafe,Loud,Bright,Cold,9,Continued Task,No,None,7,12,Micro
+56,01-10-2025,13:20,13:25,5,Writing,Repetitive,Hard,Low,External,Social Media,Digital,High,Stressed,High,8.0,Hungry,cafe,Moderate,Normal,Hot,6,Music,Yes,Major,11,37,Micro
+57,01-10-2025,18:43,18:58,15,Studying,High-Focus,Hard,Medium,External,Social Media,Digital,Low,Happy,Low,4.0,Hungry,Office,Quiet,Dim,Cold,9,Music,No,None,9,9,Medium
+58,01-10-2025,19:30,19:43,13,Meeting,Passive,Medium,Low,External,Phone Ping,Digital,High,Bored,Low,7.0,Normal,Home,Loud,Bright,Hot,9,Music,Yes,Major,50,41,Micro
+59,01-10-2025,09:04,09:19,15,Meeting,Repetitive,Easy,Medium,External,Person Talking,Physical,High,Happy,Medium,8.0,Just Ate,cafe,Quiet,Normal,Cold,2,Continued Task,Yes,Minor,37,42,Micro
+60,01-10-2025,20:39,20:46,7,Meeting,Passive,Medium,Medium,External,Phone Ping,Digital,High,Happy,Low,7.0,Just Ate,Home,Quiet,Bright,Comfortable,8,Music,No,Major,59,44,Medium
+61,01-10-2025,17:08,17:19,11,Studying,Passive,Hard,High,External,Social Media,Digital,High,Happy,Medium,4.0,Caffeinated,Outdoors,Moderate,Bright,Hot,6,Coffee,No,None,23,38,Micro
+62,01-10-2025,08:31,08:34,3,Meeting,Repetitive,Hard,Low,Internal,Hunger,Physical,Medium,Anxious,Medium,8.0,Normal,Outdoors,Loud,Normal,Hot,3,Coffee,Yes,Major,12,37,Major
+63,01-10-2025,11:58,11:59,1,Coding,Creative,Easy,Low,External,Noise,Physical,Medium,Neutral,High,7.0,Hungry,Home,Moderate,Bright,Cold,10,Continued Task,No,None,58,26,Medium
+64,01-10-2025,16:36,16:51,15,Reading,High-Focus,Hard,Low,External,Person Talking,Physical,Medium,Happy,Medium,6.0,Just Ate,Outdoors,Loud,Dim,Cold,10,Coffee,Yes,None,26,24,Medium
+65,01-10-2025,12:34,12:46,12,Coding,Creative,Hard,Medium,External,Social Media,Digital,Low,Stressed,High,8.0,Hungry,cafe,Moderate,Normal,Hot,8,Coffee,No,Major,16,29,Micro
+66,01-10-2025,16:50,16:54,4,Coding,Repetitive,Medium,Low,External,Social Media,Digital,Medium,Bored,High,5.0,Normal,Outdoors,Loud,Normal,Cold,5,Ignored Phone,No,None,18,23,Medium
+67,01-10-2025,21:03,21:17,14,Meeting,High-Focus,Hard,Medium,External,Noise,Physical,Low,Happy,Medium,8.0,Just Ate,cafe,Quiet,Bright,Cold,4,Ignored Phone,No,Major,21,15,Micro
+68,01-10-2025,21:49,21:52,3,Writing,Creative,Medium,High,External,Noise,Physical,Medium,Happy,Medium,7.0,Caffeinated,Office,Loud,Bright,Cold,4,Break,Yes,None,12,26,Micro
+69,01-10-2025,19:14,19:16,2,Meeting,Creative,Easy,High,External,Social Media,Digital,Medium,Anxious,High,4.0,Just Ate,Home,Quiet,Dim,Comfortable,4,Music,No,Minor,56,34,Medium
+70,01-10-2025,21:48,21:52,4,Coding,Passive,Medium,High,External,Noise,Physical,High,Neutral,High,7.0,Hungry,cafe,Moderate,Bright,Cold,8,Ignored Phone,No,None,31,50,Major
+71,01-10-2025,12:01,12:16,15,Studying,Passive,Hard,Low,External,Noise,Physical,Low,Anxious,Low,4.0,Hungry,Outdoors,Loud,Normal,Comfortable,4,Continued Task,No,None,37,44,Major
+72,01-10-2025,17:31,17:39,8,Studying,Passive,Hard,Medium,External,Social Media,Digital,High,Stressed,Low,9.0,Just Ate,Home,Moderate,Dim,Comfortable,7,Ignored Phone,No,Major,45,39,Micro
+73,01-10-2025,21:23,21:30,7,Reading,High-Focus,Hard,Low,Internal,Daydreaming,Mental,Low,Neutral,Medium,4.0,Caffeinated,Office,Moderate,Normal,Comfortable,3,Coffee,Yes,Minor,13,17,Micro
+74,01-10-2025,10:34,10:47,13,Coding,Creative,Hard,Low,Internal,Daydreaming,Mental,Medium,Neutral,Medium,8.0,Normal,Office,Quiet,Dim,Hot,8,Music,No,None,39,42,Micro
+75,01-10-2025,18:30,18:34,4,Writing,Passive,Medium,High,External,Phone Ping,Digital,Low,Bored,Medium,4.0,Normal,Home,Loud,Normal,Cold,3,Continued Task,No,None,43,22,Medium
+76,01-10-2025,10:35,10:43,8,Coding,Passive,Easy,Low,External,Noise,Physical,High,Anxious,Medium,7.0,Caffeinated,Home,Quiet,Dim,Cold,4,Continued Task,No,Minor,6,5,Micro
+77,01-10-2025,13:25,13:36,11,Reading,Passive,Easy,Low,Internal,Daydreaming,Mental,Low,Bored,High,7.0,Just Ate,Office,Loud,Dim,Comfortable,9,Continued Task,Yes,Major,38,39,Major
+78,01-10-2025,21:15,21:19,4,Coding,Creative,Easy,High,External,Phone Ping,Digital,Medium,Anxious,Low,4.0,Hungry,cafe,Quiet,Normal,Hot,10,Coffee,No,None,39,27,Major
+79,01-10-2025,11:56,12:01,5,Studying,Repetitive,Hard,High,External,Social Media,Digital,Medium,Neutral,Medium,4.0,Caffeinated,cafe,Moderate,Normal,Cold,8,Continued Task,No,None,9,20,Medium
+80,01-10-2025,19:56,20:04,8,Reading,Repetitive,Easy,Medium,External,Social Media,Digital,Low,Anxious,Medium,9.0,Normal,Outdoors,Moderate,Bright,Hot,1,Continued Task,Yes,Major,26,38,Micro
+81,01-10-2025,20:23,20:24,1,Writing,Creative,Hard,High,External,Person Talking,Physical,Low,Happy,Medium,6.0,Caffeinated,Office,Quiet,Bright,Hot,6,Coffee,No,Minor,50,40,Medium
+82,01-10-2025,11:52,11:59,7,Meeting,Passive,Easy,High,External,Person Talking,Physical,Low,Neutral,Medium,7.0,Just Ate,Home,Loud,Bright,Comfortable,3,Ignored Phone,No,None,60,32,Major
+83,01-10-2025,09:34,09:48,14,Reading,Creative,Easy,High,External,Noise,Physical,Medium,Happy,Low,8.0,Caffeinated,Office,Loud,Bright,Cold,3,Ignored Phone,No,None,35,10,Micro
+84,01-10-2025,08:10,08:11,1,Reading,Creative,Medium,Medium,Internal,Hunger,Physical,Low,Anxious,Medium,4.0,Just Ate,Outdoors,Moderate,Dim,Comfortable,5,Continued Task,No,None,9,12,Major
+85,01-10-2025,13:20,13:26,6,Studying,Passive,Hard,High,External,Phone Ping,Digital,High,Neutral,Low,4.0,Normal,Home,Loud,Normal,Comfortable,8,Coffee,Yes,Major,29,28,Medium
+86,01-10-2025,20:30,20:34,4,Writing,Passive,Hard,Medium,External,Noise,Physical,Low,Bored,High,5.0,Caffeinated,Outdoors,Quiet,Normal,Cold,2,Coffee,No,Major,45,40,Major
+87,01-10-2025,20:06,20:17,11,Studying,Passive,Hard,Medium,External,Phone Ping,Digital,High,Bored,Low,9.0,Just Ate,cafe,Quiet,Bright,Comfortable,10,Break,No,Major,14,34,Major
+88,01-10-2025,11:32,11:43,11,Coding,High-Focus,Easy,Medium,External,Person Talking,Physical,Medium,Neutral,Low,6.0,Hungry,Outdoors,Quiet,Normal,Cold,7,Coffee,Yes,Major,50,30,Micro
+89,01-10-2025,15:09,15:19,10,Writing,High-Focus,Medium,High,External,Noise,Physical,High,Anxious,Low,6.0,Normal,Office,Quiet,Bright,Hot,8,Continued Task,No,Major,16,16,Major
+90,01-10-2025,15:08,15:17,9,Studying,Passive,Easy,High,External,Person Talking,Physical,High,Bored,High,5.0,Hungry,cafe,Loud,Normal,Cold,5,Break,No,None,53,43,Major
+91,01-10-2025,20:04,20:07,3,Studying,Repetitive,Medium,High,External,Noise,Physical,High,Neutral,Medium,4.0,Normal,Home,Moderate,Normal,Cold,3,Break,No,Minor,10,22,Medium
+92,01-10-2025,13:54,14:05,11,Meeting,High-Focus,Medium,High,Internal,Hunger,Physical,High,Stressed,Medium,5.0,Hungry,Office,Moderate,Bright,Cold,9,Coffee,No,None,41,50,Medium
+93,01-10-2025,08:27,08:42,15,Writing,Repetitive,Medium,Low,Internal,Hunger,Physical,High,Anxious,Low,5.0,Just Ate,Home,Moderate,Normal,Comfortable,5,Break,Yes,None,26,8,Micro
+94,01-10-2025,08:54,09:08,14,Meeting,High-Focus,Medium,Low,External,Social Media,Digital,Low,Bored,Low,8.0,Caffeinated,Outdoors,Loud,Dim,Comfortable,3,Coffee,No,None,10,20,Micro
+95,01-10-2025,11:53,11:54,1,Reading,High-Focus,Medium,High,Internal,Hunger,Physical,Medium,Neutral,High,8.0,Caffeinated,Home,Loud,Dim,Comfortable,1,Coffee,Yes,None,6,28,Major
+96,01-10-2025,18:18,18:20,2,Studying,Creative,Medium,Low,External,Noise,Physical,Medium,Happy,Low,7.0,Normal,Home,Loud,Normal,Comfortable,7,Continued Task,No,Major,20,14,Major
+97,01-10-2025,08:13,08:26,13,Meeting,Passive,Easy,Medium,External,Person Talking,Physical,Low,Anxious,High,5.0,Just Ate,Office,Moderate,Normal,Comfortable,8,Break,Yes,Major,39,12,Micro
+98,01-10-2025,13:49,14:03,14,Writing,Repetitive,Easy,Low,External,Person Talking,Physical,High,Happy,Low,9.0,Caffeinated,Office,Loud,Bright,Comfortable,8,Continued Task,No,Major,34,31,Micro
+99,01-10-2025,11:56,12:09,13,Reading,Creative,Hard,Medium,Internal,Daydreaming,Mental,High,Anxious,High,4.0,Hungry,Office,Quiet,Bright,Cold,8,Coffee,Yes,Major,42,42,Medium
+100,01-10-2025,08:37,08:44,7,Studying,Passive,Easy,High,External,Phone Ping,Digital,Low,Neutral,Low,5.0,Normal,cafe,Quiet,Normal,Cold,10,Continued Task,Yes,Minor,48,12,Major
+101,01-10-2025,14:02,14:14,12,Meeting,Repetitive,Medium,High,External,Noise,Physical,High,Stressed,Low,7.0,Normal,Office,Quiet,Normal,Cold,9,Break,Yes,Minor,5,35,Micro
+102,01-10-2025,18:26,18:30,4,Coding,Passive,Easy,Low,Internal,Hunger,Physical,High,Stressed,Medium,5.0,Hungry,cafe,Loud,Dim,Comfortable,6,Ignored Phone,Yes,None,31,34,Medium
+103,01-10-2025,12:59,13:07,8,Studying,High-Focus,Hard,Low,Internal,Hunger,Physical,Low,Happy,High,9.0,Normal,cafe,Quiet,Bright,Cold,4,Break,No,None,31,43,Major
+104,01-10-2025,09:42,09:45,3,Studying,Creative,Easy,Medium,External,Phone Ping,Digital,Medium,Neutral,Medium,6.0,Just Ate,Office,Moderate,Dim,Hot,9,Coffee,No,None,36,50,Micro
+105,01-10-2025,09:33,09:45,12,Meeting,Passive,Easy,Low,Internal,Daydreaming,Mental,High,Anxious,Low,9.0,Just Ate,Outdoors,Quiet,Bright,Comfortable,1,Coffee,Yes,Minor,26,34,Major
+106,01-10-2025,21:52,21:56,4,Meeting,High-Focus,Medium,Medium,External,Person Talking,Physical,High,Stressed,Low,9.0,Caffeinated,Outdoors,Loud,Bright,Hot,7,Ignored Phone,No,Minor,11,8,Major
+107,01-10-2025,20:41,20:48,7,Meeting,High-Focus,Medium,Low,External,Phone Ping,Digital,Medium,Neutral,Medium,4.0,Just Ate,Outdoors,Moderate,Normal,Comfortable,5,Music,Yes,None,17,37,Major
+108,01-10-2025,14:07,14:11,4,Reading,High-Focus,Medium,Medium,External,Noise,Physical,Low,Anxious,High,7.0,Normal,Outdoors,Quiet,Bright,Comfortable,6,Coffee,No,None,45,12,Major
+109,01-10-2025,20:43,20:47,4,Meeting,High-Focus,Hard,Low,External,Person Talking,Physical,Medium,Happy,Low,6.0,Just Ate,cafe,Loud,Dim,Comfortable,5,Break,Yes,Minor,44,7,Major
+110,01-10-2025,18:47,18:56,9,Reading,Passive,Easy,High,Internal,Daydreaming,Mental,Medium,Bored,Medium,6.0,Caffeinated,Café,Loud,Normal,Cold,8,Coffee,No,Major,34,40,Major
+111,01-10-2025,19:12,19:25,13,Writing,Repetitive,Easy,High,External,Noise,Physical,High,Stressed,Low,8.0,Just Ate,Outdoors,Quiet,Dim,Comfortable,5,Music,No,None,29,34,Micro
+112,01-10-2025,10:58,11:07,9,Writing,High-Focus,Medium,Low,Internal,Hunger,Physical,High,Neutral,High,6.0,Normal,Café,Loud,Bright,Comfortable,7,Coffee,Yes,Major,50,48,Micro
+113,01-10-2025,18:35,18:36,1,Coding,Creative,Hard,Medium,Internal,Hunger,Physical,Medium,Happy,Medium,8.0,Caffeinated,Café,Moderate,Normal,Hot,9,Coffee,No,Major,49,30,Medium
+114,01-10-2025,13:29,13:37,8,Studying,High-Focus,Medium,Medium,External,Noise,Physical,High,Stressed,High,4.0,Caffeinated,Outdoors,Quiet,Normal,Hot,3,Music,Yes,Minor,10,15,Micro
+115,01-10-2025,09:10,09:22,12,Meeting,Creative,Easy,Low,External,Person Talking,Physical,Low,Happy,High,6.0,Normal,Office,Quiet,Normal,Cold,5,Coffee,Yes,Major,38,22,Micro
+116,01-10-2025,12:18,12:32,14,Writing,Creative,Medium,High,External,Phone Ping,Digital,High,Anxious,Low,5.0,Normal,Outdoors,Quiet,Dim,Hot,1,Ignored Phone,Yes,Minor,30,20,Medium
+117,01-10-2025,21:33,21:47,14,Studying,High-Focus,Hard,High,External,Social Media,Digital,Low,Anxious,High,4.0,Just Ate,Office,Loud,Dim,Hot,6,Ignored Phone,No,Minor,50,21,Major
+118,01-10-2025,20:43,20:46,3,Reading,High-Focus,Easy,High,External,Phone Ping,Digital,High,Happy,High,7.0,Just Ate,Outdoors,Loud,Normal,Hot,1,Continued Task,Yes,Minor,47,12,Micro
+119,01-10-2025,17:28,17:35,7,Studying,Passive,Hard,Medium,External,Phone Ping,Digital,Low,Stressed,High,4.0,Caffeinated,Home,Quiet,Normal,Hot,1,Coffee,No,Major,13,34,Micro
+120,01-10-2025,10:45,10:56,11,Coding,Passive,Easy,Medium,External,Noise,Physical,Low,Bored,Medium,8.0,Just Ate,Café,Moderate,Normal,Comfortable,4,Music,No,Major,29,27,Major
+121,08-10-2025,18:08,18:19,11,Studying,Repetitive,Medium,High,External,Fatigue,Physical,High,Anxious,Low,7.0,Hungry,Outdoors,Quiet,Bright,Comfortable,2,Break,Yes,None,54,24,Medium
+122,08-10-2025,06:04,06:14,10,Reading,Creative,Medium,Medium,Internal,Phone Call,Self-thoughts,High,Neutral,Medium,4.0,Normal,Café,Loud,Normal,Comfortable,5,Continued Task,No,None,35,21,Micro
+123,08-10-2025,07:47,07:57,10,Studying,Passive,Hard,High,Internal,Fatigue,Digital,Medium,Stressed,High,5.0,Hungry,Home,Loud,Normal,Hot,9,Coffee,No,None,20,55,Micro
+124,08-10-2025,22:37,22:49,12,Meeting,Repetitive,Easy,Low,External,Slack Notification,Physical,Medium,Anxious,Medium,5.0,Caffeinated,Outdoors,Moderate,Bright,Hot,14,Break,Yes,None,30,44,Medium
+125,08-10-2025,07:04,07:19,15,Meeting,Creative,Medium,Medium,External,Boredom,Colleague,Medium,Stressed,Low,4.0,Hungry,Outdoors,Quiet,Normal,Cold,11,Music,Yes,None,31,33,Micro
+126,08-10-2025,17:05,17:06,1,Meeting,Repetitive,Medium,Low,External,Boredom,Mental,Medium,Anxious,Medium,5.0,Normal,cafe,Moderate,Normal,Cold,7,Music,Yes,Minor,14,19,Major
+127,08-10-2025,07:16,07:30,14,Coding,High-Focus,Hard,Medium,Internal,Noise,Noise,Medium,Neutral,High,4.0,Just Ate,Café,Quiet,Normal,Cold,1,Coffee,Yes,None,34,6,Medium
+128,08-10-2025,08:30,08:49,19,Meeting,Creative,Medium,Medium,External,Phone Call,Colleague,Medium,Bored,Low,6.0,Just Ate,Home,Loud,Bright,Comfortable,13,Continued Task,Yes,None,18,5,Micro
+129,08-10-2025,07:37,07:45,8,Coding,Repetitive,Easy,Medium,Internal,Multitasking,Environment,High,Happy,Low,5.0,Caffeinated,cafe,Quiet,Bright,Hot,13,Break,No,Minor,46,38,Major
+130,08-10-2025,22:25,22:40,15,Coding,Repetitive,Medium,Low,External,Boredom,Colleague,Medium,Neutral,Medium,6.0,Hungry,Home,Moderate,Normal,Cold,3,Ignored Phone,No,None,44,24,Micro
+131,08-10-2025,08:35,08:43,8,Studying,Creative,Easy,Medium,External,Noise,Phone,High,Happy,Low,4.0,Hungry,Outdoors,Loud,Dim,Hot,3,Continued Task,Yes,None,28,27,Micro
+132,08-10-2025,10:11,10:21,10,Coding,Creative,Easy,High,Internal,Fatigue,Internet,Medium,Anxious,Low,6.0,Hungry,Home,Quiet,Dim,Cold,6,Continued Task,Yes,None,27,53,Major
+133,08-10-2025,19:29,19:42,13,Coding,Repetitive,Medium,High,Internal,Noise,Internet,High,Anxious,Medium,8.0,Caffeinated,Office,Loud,Dim,Comfortable,6,Break,Yes,Minor,15,23,Medium
+134,08-10-2025,15:08,15:26,18,Meeting,Creative,Easy,Low,External,Boredom,Digital,Low,Stressed,High,4.0,Caffeinated,Outdoors,Loud,Normal,Comfortable,5,Coffee,Yes,Minor,31,32,Major
+135,08-10-2025,08:28,08:36,8,Reading,Creative,Easy,Low,Internal,Notification,Noise,Medium,Bored,Medium,4.0,Normal,Café,Quiet,Normal,Comfortable,11,Continued Task,Yes,None,56,23,Micro
+136,08-10-2025,17:42,17:59,17,Studying,Passive,Hard,Low,Internal,Multitasking,Colleague,High,Bored,Low,8.0,Hungry,Café,Loud,Bright,Hot,11,Break,Yes,None,37,37,Micro
+137,08-10-2025,20:07,20:10,3,Reading,Repetitive,Medium,High,External,Noise,Noise,High,Anxious,Low,6.0,Hungry,cafe,Quiet,Bright,Comfortable,14,Ignored Phone,No,Major,15,52,Major
+138,08-10-2025,07:18,07:19,1,Reading,Creative,Medium,Low,External,Phone Ping,Colleague,High,Stressed,Medium,7.0,Normal,cafe,Quiet,Bright,Hot,3,Break,Yes,Major,34,29,Micro
+139,08-10-2025,17:34,17:43,9,Coding,High-Focus,Easy,Medium,External,Phone Vibration,Internet,Medium,Bored,Medium,8.0,Just Ate,Outdoors,Loud,Dim,Comfortable,1,Coffee,No,Major,16,6,Micro
+140,08-10-2025,14:49,14:51,2,Meeting,Creative,Medium,Medium,External,Phone Call,Physical,High,Bored,Medium,7.0,Caffeinated,Office,Quiet,Normal,Hot,9,Ignored Phone,Yes,Major,56,6,Medium
+141,08-10-2025,22:25,22:37,12,Meeting,High-Focus,Medium,Low,External,Noise,Digital,Medium,Bored,Low,7.0,Normal,Home,Loud,Dim,Hot,8,Ignored Phone,No,Minor,40,18,Micro
+142,08-10-2025,18:17,18:28,11,Studying,High-Focus,Hard,High,Internal,Noise,Phone,High,Happy,High,7.0,Normal,Café,Loud,Bright,Hot,6,Coffee,Yes,None,16,50,Micro
+143,08-10-2025,12:40,12:45,5,Writing,Repetitive,Easy,Low,External,Phone Call,Digital,Medium,Stressed,Low,6.0,Hungry,Outdoors,Quiet,Dim,Cold,14,Coffee,No,Minor,42,26,Micro
+144,08-10-2025,21:54,22:07,13,Meeting,Passive,Hard,Low,Internal,Boredom,Environment,Low,Happy,High,6.0,Hungry,Outdoors,Quiet,Dim,Cold,14,Music,Yes,None,11,48,Medium
+145,08-10-2025,19:40,19:58,18,Meeting,High-Focus,Hard,High,External,Boredom,Background Music,Low,Stressed,Medium,7.0,Caffeinated,Café,Moderate,Dim,Hot,5,Break,Yes,Minor,39,14,Medium
+146,08-10-2025,20:02,20:10,8,Reading,High-Focus,Hard,High,External,Phone Call,Background Music,Medium,Bored,Medium,8.0,Caffeinated,Café,Quiet,Dim,Comfortable,3,Continued Task,No,Minor,55,26,Micro
+147,08-10-2025,22:26,22:35,9,Reading,High-Focus,Hard,Medium,External,Boredom,Noise,Low,Stressed,High,7.0,Normal,Café,Loud,Normal,Hot,7,Ignored Phone,No,None,48,13,Major
+148,08-10-2025,17:09,17:15,6,Writing,Repetitive,Easy,Medium,External,Person Talking,Noise,Medium,Anxious,Low,7.0,Hungry,Office,Loud,Normal,Cold,9,Continued Task,No,None,46,28,Major
+149,08-10-2025,22:04,22:07,3,Writing,Repetitive,Easy,High,Internal,Social Media,Physical,Low,Stressed,Low,7.0,Normal,Outdoors,Quiet,Normal,Comfortable,1,Break,Yes,None,49,34,Micro
+150,08-10-2025,07:44,07:54,10,Meeting,Passive,Easy,High,External,Boredom,Self-thoughts,Medium,Anxious,Low,5.0,Caffeinated,Office,Moderate,Normal,Cold,10,Ignored Phone,No,None,50,30,Micro
+151,08-10-2025,15:14,15:28,14,Reading,Creative,Hard,Medium,External,Noise,Digital,Medium,Bored,Medium,4.0,Just Ate,Café,Loud,Dim,Hot,7,Music,Yes,None,24,55,Major
+152,08-10-2025,09:00,09:03,3,Reading,Repetitive,Easy,Medium,Internal,Hunger,Digital,Medium,Stressed,Medium,5.0,Normal,Home,Quiet,Normal,Cold,11,Break,No,Minor,24,46,Major
+153,08-10-2025,21:41,22:00,19,Studying,High-Focus,Easy,Medium,Internal,Hunger,Self-thoughts,Medium,Bored,High,8.0,Normal,Outdoors,Moderate,Dim,Hot,7,Ignored Phone,Yes,Minor,16,36,Medium
+154,08-10-2025,11:12,11:29,17,Coding,Passive,Medium,Low,External,Fatigue,Self-thoughts,Low,Neutral,Medium,8.0,Just Ate,Outdoors,Moderate,Normal,Hot,8,Coffee,No,None,15,55,Medium
+155,08-10-2025,18:40,18:45,5,Reading,High-Focus,Easy,High,Internal,Hunger,Phone,Low,Neutral,High,6.0,Caffeinated,Outdoors,Moderate,Bright,Hot,12,Ignored Phone,Yes,Minor,30,49,Medium
+156,08-10-2025,19:27,19:37,10,Studying,High-Focus,Easy,Medium,External,Daydreaming,Colleague,High,Neutral,High,6.0,Normal,Office,Moderate,Dim,Comfortable,8,Break,No,Major,24,42,Medium
+157,08-10-2025,13:15,13:19,4,Writing,Passive,Medium,Low,External,Daydreaming,Colleague,Low,Neutral,Low,4.0,Hungry,Office,Moderate,Normal,Cold,2,Music,No,Minor,41,31,Major
+158,08-10-2025,15:08,15:14,6,Meeting,Repetitive,Easy,High,External,Boredom,Background Music,High,Neutral,High,8.0,Just Ate,Home,Loud,Bright,Comfortable,11,Ignored Phone,Yes,Minor,21,56,Medium
+159,08-10-2025,10:33,10:46,13,Meeting,High-Focus,Medium,Medium,Internal,Noise,Environment,High,Happy,Medium,5.0,Caffeinated,cafe,Quiet,Dim,Hot,9,Music,Yes,Minor,20,13,Medium
+160,08-10-2025,15:52,15:57,5,Meeting,High-Focus,Easy,Medium,Internal,Social Media,Roommate Noise,High,Neutral,High,7.0,Hungry,Office,Moderate,Bright,Hot,13,Music,Yes,None,43,36,Micro
+161,08-10-2025,20:20,20:27,7,Writing,Passive,Medium,Medium,Internal,Phone Ping,Noise,Low,Anxious,Low,7.0,Normal,Outdoors,Moderate,Bright,Hot,4,Coffee,Yes,Major,20,12,Medium
+162,08-10-2025,13:00,13:04,4,Reading,Repetitive,Medium,Low,External,Daydreaming,Phone,Medium,Anxious,Medium,8.0,Just Ate,cafe,Loud,Dim,Hot,5,Music,No,Minor,33,32,Micro
+163,08-10-2025,22:27,22:35,8,Coding,High-Focus,Easy,High,Internal,Boredom,Environment,Medium,Bored,Low,4.0,Just Ate,Office,Loud,Bright,Cold,6,Coffee,No,Major,45,5,Major
+164,08-10-2025,11:36,11:49,13,Meeting,Creative,Easy,Medium,Internal,Person Talking,Physical,Medium,Stressed,High,4.0,Just Ate,Office,Moderate,Dim,Cold,9,Break,No,Major,31,13,Micro
+165,08-10-2025,20:46,21:04,18,Studying,Passive,Hard,High,External,Noise,Self-thoughts,Low,Neutral,High,7.0,Caffeinated,cafe,Moderate,Dim,Hot,4,Break,Yes,Major,8,24,Major
+166,08-10-2025,17:22,17:24,2,Coding,Passive,Medium,Medium,Internal,Boredom,Noise,High,Happy,Medium,7.0,Just Ate,cafe,Moderate,Bright,Hot,5,Continued Task,Yes,Minor,57,10,Medium
+167,08-10-2025,16:12,16:27,15,Coding,High-Focus,Medium,Low,Internal,Hunger,Noise,High,Neutral,Low,4.0,Hungry,Office,Moderate,Normal,Comfortable,12,Coffee,No,Major,48,37,Medium
+168,08-10-2025,09:36,09:48,12,Meeting,Passive,Hard,Low,External,Fatigue,Internet,Low,Stressed,High,4.0,Caffeinated,Office,Loud,Normal,Comfortable,3,Music,Yes,None,56,38,Medium
+169,08-10-2025,10:29,10:44,15,Writing,Passive,Easy,Medium,External,Daydreaming,Self-thoughts,Low,Happy,Low,7.0,Hungry,Office,Moderate,Dim,Comfortable,8,Continued Task,Yes,Major,48,22,Major
+170,08-10-2025,06:43,06:57,14,Coding,Repetitive,Easy,Low,Internal,Hunger,Environment,Medium,Stressed,High,4.0,Just Ate,Home,Loud,Normal,Cold,13,Break,Yes,Minor,12,32,Medium
+171,08-10-2025,09:15,09:25,10,Meeting,Passive,Hard,Low,External,Fatigue,Self-thoughts,Low,Stressed,Medium,6.0,Caffeinated,cafe,Loud,Normal,Cold,8,Ignored Phone,No,Minor,57,29,Major
+172,08-10-2025,17:54,18:00,6,Studying,Passive,Hard,Low,External,Notification,Mental,High,Stressed,Low,5.0,Normal,Office,Quiet,Dim,Hot,5,Coffee,Yes,None,43,26,Major
+173,08-10-2025,10:22,10:33,11,Meeting,High-Focus,Medium,Low,External,Multitasking,Digital,High,Happy,Medium,4.0,Caffeinated,Outdoors,Moderate,Dim,Hot,13,Coffee,No,Major,41,16,Micro
+174,08-10-2025,21:54,22:10,16,Studying,Passive,Hard,Medium,Internal,Person Talking,Physical,High,Bored,Low,7.0,Caffeinated,Home,Quiet,Bright,Hot,9,Break,No,None,44,24,Micro
+175,08-10-2025,15:07,15:12,5,Meeting,Creative,Easy,Low,Internal,Daydreaming,Digital,Low,Neutral,Low,5.0,Normal,cafe,Quiet,Normal,Cold,1,Music,Yes,Minor,23,40,Micro
+176,08-10-2025,10:57,11:13,16,Reading,Passive,Medium,High,Internal,Noise,Self-thoughts,High,Stressed,Low,8.0,Hungry,cafe,Quiet,Bright,Comfortable,7,Coffee,No,Major,34,56,Micro
+177,08-10-2025,12:46,12:58,12,Meeting,Repetitive,Medium,Medium,External,Daydreaming,Phone,High,Anxious,Low,6.0,Caffeinated,Outdoors,Quiet,Normal,Comfortable,3,Break,Yes,Minor,10,23,Micro
+178,08-10-2025,07:18,07:29,11,Coding,Passive,Easy,Low,External,Person Talking,Mental,Low,Bored,Low,4.0,Normal,cafe,Moderate,Normal,Hot,4,Continued Task,No,Minor,33,19,Medium
+179,08-10-2025,13:04,13:18,14,Reading,Creative,Medium,Medium,External,Hunger,Colleague,Medium,Anxious,High,5.0,Hungry,Office,Loud,Dim,Cold,6,Coffee,Yes,Minor,57,21,Micro
+180,08-10-2025,14:57,15:02,5,Meeting,Creative,Hard,Low,External,Boredom,Environment,Medium,Happy,Low,5.0,Caffeinated,Office,Moderate,Normal,Comfortable,8,Music,No,Minor,42,16,Major
+181,08-10-2025,13:50,14:01,11,Studying,Creative,Hard,High,Internal,Multitasking,Roommate Noise,Medium,Happy,Medium,7.0,Just Ate,Café,Moderate,Normal,Hot,8,Break,No,Minor,34,24,Major
+182,08-10-2025,22:29,22:42,13,Writing,High-Focus,Easy,Medium,Internal,Daydreaming,Colleague,Medium,Stressed,Low,6.0,Caffeinated,Café,Quiet,Dim,Comfortable,3,Break,No,Minor,34,27,Micro
+183,08-10-2025,10:32,10:39,7,Studying,High-Focus,Easy,Medium,Internal,Boredom,Physical,High,Stressed,Medium,5.0,Hungry,Outdoors,Loud,Dim,Cold,12,Ignored Phone,No,None,8,31,Medium
+184,08-10-2025,21:30,21:40,10,Coding,Passive,Easy,Low,Internal,Phone Call,Colleague,Medium,Anxious,Low,7.0,Just Ate,Outdoors,Moderate,Dim,Hot,9,Music,No,Major,38,45,Medium
+185,08-10-2025,16:29,16:44,15,Meeting,Creative,Easy,High,Internal,Notification,Internet,Medium,Anxious,Medium,6.0,Just Ate,Office,Loud,Dim,Comfortable,10,Continued Task,No,Minor,29,9,Micro
+186,08-10-2025,08:23,08:35,12,Studying,High-Focus,Easy,Medium,Internal,Slack Notification,Self-thoughts,Low,Happy,High,5.0,Caffeinated,cafe,Loud,Bright,Cold,13,Music,No,Minor,45,39,Medium
+187,08-10-2025,16:32,16:37,5,Coding,High-Focus,Medium,Medium,Internal,Hunger,Digital,Low,Bored,Medium,7.0,Normal,cafe,Loud,Normal,Comfortable,1,Break,No,None,50,59,Micro
+188,08-10-2025,10:21,10:25,4,Meeting,Passive,Medium,Low,Internal,Hunger,Digital,High,Stressed,Low,5.0,Just Ate,Home,Moderate,Normal,Hot,10,Ignored Phone,Yes,None,53,38,Micro
+189,08-10-2025,18:22,18:35,13,Meeting,Creative,Medium,Low,External,Hunger,Colleague,High,Anxious,Medium,6.0,Just Ate,Office,Loud,Bright,Comfortable,4,Music,No,None,33,46,Major
+190,08-10-2025,14:35,14:42,7,Studying,Repetitive,Hard,Medium,External,Fatigue,Colleague,Medium,Happy,Medium,8.0,Caffeinated,Office,Moderate,Normal,Cold,4,Coffee,No,Major,13,43,Medium
+191,08-10-2025,13:35,13:40,5,Meeting,Passive,Medium,Medium,External,Boredom,Internet,Medium,Bored,Low,6.0,Caffeinated,Café,Quiet,Normal,Comfortable,13,Music,Yes,Minor,18,45,Micro
+192,08-10-2025,08:11,08:19,8,Studying,Repetitive,Hard,Medium,External,Boredom,Colleague,High,Neutral,High,8.0,Normal,Home,Loud,Normal,Hot,12,Ignored Phone,No,None,31,19,Micro
+193,08-10-2025,21:09,21:28,19,Writing,Creative,Easy,Low,External,Noise,Physical,Low,Anxious,Low,6.0,Hungry,cafe,Loud,Normal,Comfortable,3,Break,Yes,Major,59,18,Major
+194,08-10-2025,13:14,13:32,18,Studying,High-Focus,Easy,Medium,External,Daydreaming,Environment,Medium,Happy,High,7.0,Normal,Café,Loud,Normal,Comfortable,13,Music,No,None,16,9,Medium
+195,08-10-2025,13:13,13:26,13,Meeting,Repetitive,Medium,Low,Internal,Notification,Background Music,High,Happy,Low,4.0,Normal,Café,Loud,Dim,Hot,5,Music,No,None,40,24,Medium
+196,08-10-2025,08:38,08:56,18,Studying,High-Focus,Medium,High,Internal,Random Thought,Physical,High,Happy,Medium,8.0,Hungry,Café,Quiet,Normal,Cold,4,Break,Yes,None,27,12,Major
+197,08-10-2025,18:47,19:03,16,Coding,Creative,Easy,Medium,Internal,Noise,Noise,High,Neutral,Low,6.0,Just Ate,Office,Quiet,Dim,Comfortable,7,Break,No,None,8,49,Micro
+198,08-10-2025,10:29,10:41,12,Meeting,Repetitive,Medium,High,Internal,Social Media Alert,Physical,High,Anxious,High,6.0,Just Ate,cafe,Loud,Dim,Hot,12,Ignored Phone,Yes,Major,42,30,Medium
+199,08-10-2025,11:30,11:31,1,Reading,Passive,Easy,Low,External,Multitasking,Phone,Low,Neutral,High,7.0,Caffeinated,Office,Loud,Bright,Comfortable,3,Music,No,None,26,49,Medium
+200,08-10-2025,11:03,11:18,15,Studying,High-Focus,Medium,Low,External,Hunger,Phone,High,Happy,Low,7.0,Caffeinated,Outdoors,Quiet,Normal,Cold,1,Ignored Phone,No,Minor,36,38,Micro
+201,08-10-2025,06:07,06:20,13,Reading,Passive,Hard,Medium,External,Noise,Colleague,Low,Anxious,Low,6.0,Just Ate,Outdoors,Moderate,Normal,Hot,9,Break,No,None,22,18,Medium
+202,08-10-2025,20:09,20:27,18,Reading,Repetitive,Medium,Low,External,Boredom,Phone,Low,Neutral,Low,4.0,Hungry,Café,Moderate,Bright,Cold,9,Continued Task,No,Minor,56,28,Medium
+203,08-10-2025,07:44,07:56,12,Writing,Creative,Medium,High,External,Person Talking,Environment,High,Bored,Medium,8.0,Just Ate,Home,Quiet,Bright,Cold,3,Coffee,No,None,46,51,Medium
+204,08-10-2025,14:10,14:24,14,Studying,Repetitive,Easy,Medium,Internal,Noise,Colleague,High,Neutral,High,4.0,Hungry,Home,Moderate,Bright,Cold,14,Ignored Phone,No,None,49,41,Micro
+205,08-10-2025,20:31,20:38,7,Coding,Creative,Medium,High,Internal,Notification,Physical,Medium,Bored,High,5.0,Caffeinated,Café,Moderate,Dim,Hot,14,Coffee,Yes,Major,38,22,Medium
+206,08-10-2025,14:16,14:25,9,Writing,High-Focus,Medium,Medium,Internal,Hunger,Colleague,High,Stressed,Medium,7.0,Hungry,cafe,Moderate,Dim,Comfortable,4,Ignored Phone,Yes,Major,14,19,Major
+207,08-10-2025,17:48,17:51,3,Meeting,Creative,Easy,Low,External,Noise,Phone,Medium,Neutral,High,7.0,Caffeinated,cafe,Loud,Bright,Cold,11,Break,Yes,Minor,58,43,Major
+208,08-10-2025,22:01,22:16,15,Reading,Passive,Medium,Low,Internal,Phone Ping,Physical,Medium,Happy,High,6.0,Just Ate,Café,Loud,Dim,Comfortable,2,Music,No,None,59,41,Micro
+209,08-10-2025,17:55,18:07,12,Studying,High-Focus,Easy,Low,External,Boredom,Internet,High,Happy,High,8.0,Just Ate,Office,Loud,Normal,Hot,14,Ignored Phone,Yes,Minor,47,42,Micro
+210,08-10-2025,21:17,21:33,16,Reading,Repetitive,Medium,Medium,Internal,Notification,Digital,Low,Bored,High,7.0,Just Ate,Home,Moderate,Dim,Comfortable,11,Music,Yes,None,50,22,Major
+211,08-10-2025,08:18,08:24,6,Reading,Creative,Easy,Medium,External,Fatigue,Phone,Low,Bored,Low,4.0,Normal,Café,Loud,Bright,Comfortable,7,Coffee,No,Major,56,38,Medium
+212,08-10-2025,19:39,19:54,15,Reading,Repetitive,Easy,Low,Internal,Boredom,Environment,High,Happy,High,8.0,Normal,Outdoors,Moderate,Dim,Hot,4,Continued Task,Yes,Major,58,51,Major
+213,08-10-2025,22:30,22:46,16,Studying,Creative,Medium,Medium,Internal,Hunger,Environment,Low,Anxious,Low,6.0,Just Ate,cafe,Loud,Normal,Hot,8,Music,Yes,None,59,49,Major
+214,08-10-2025,12:42,12:48,6,Writing,Passive,Hard,High,Internal,Phone Ping,Self-thoughts,Medium,Stressed,Medium,6.0,Just Ate,Café,Quiet,Bright,Comfortable,7,Break,No,None,25,14,Medium
+215,08-10-2025,08:00,08:09,9,Studying,Creative,Easy,Low,Internal,Notification,Environment,High,Stressed,Medium,4.0,Caffeinated,Home,Loud,Dim,Cold,5,Coffee,Yes,Minor,25,6,Major
+216,08-10-2025,18:37,18:52,15,Writing,Creative,Hard,High,External,Fatigue,Self-thoughts,Medium,Stressed,Low,8.0,Caffeinated,Office,Moderate,Dim,Comfortable,8,Music,No,Minor,39,27,Medium
+217,08-10-2025,17:20,17:33,13,Meeting,Creative,Medium,High,Internal,Social Media Alert,Colleague,High,Neutral,High,7.0,Normal,cafe,Quiet,Normal,Hot,11,Break,No,None,14,35,Medium
+218,08-10-2025,19:36,19:46,10,Writing,Passive,Hard,Medium,External,Noise,Noise,Low,Bored,Low,7.0,Caffeinated,Café,Loud,Normal,Hot,4,Music,No,Minor,16,49,Medium
+219,08-10-2025,20:10,20:12,2,Reading,Repetitive,Medium,Medium,Internal,Social Media Alert,Pet,Low,Bored,Medium,7.0,Just Ate,Office,Moderate,Dim,Hot,3,Coffee,Yes,Major,42,39,Major
+220,08-10-2025,10:42,10:56,14,Meeting,Repetitive,Medium,Medium,External,Slack Notification,Noise,Low,Anxious,Low,8.0,Normal,Office,Quiet,Bright,Comfortable,6,Music,No,Minor,58,35,Major
+221,01-10-2025,17:42,17:59,17,Writing,Repetitive,Easy,High,External,Fatigue,Colleague,Low,Stressed,Medium,5.7,Hungry,Lab,Loud,Dim,Comfortable,9,Music,Yes,Minor,118,26,Micro
+222,06-10-2025,21:05,21:14,9,Coding,Creative,Hard,Low,Internal,Boredom,Noise,Low,Calm,Low,8.5,After Meal,Lab,Moderate,Dim,Cold,15,Music,No,Minor,105,25,Medium
+223,07-10-2025,12:39,12:56,17,Planning,High-Focus,Medium,Medium,External,Notification,Phone,High,Calm,Medium,7.0,Fasting,Office,Loud,Dim,Cold,4,Short Walk,Yes,Moderate,110,18,Micro
+224,08-10-2025,21:09,21:29,20,Designing,High-Focus,Medium,Medium,Internal,Multitasking,Noise,High,Calm,Medium,6.5,Caffeinated,Café,Quiet,Dim,Hot,14,Music,Yes,Minor,38,15,Major
+225,04-10-2025,11:37,11:50,13,Reading,Repetitive,Easy,Low,Internal,Notification,Colleague,High,Tired,Low,7.5,After Meal,Home,Loud,Normal,Cold,11,Ignored Phone,No,Moderate,117,25,Major
+226,03-10-2025,16:45,16:56,11,Planning,Repetitive,Medium,Medium,External,Noise,Noise,High,Calm,High,7.7,Hungry,Home,Loud,Normal,Comfortable,9,Meditation,Yes,Moderate,57,39,Major
+227,04-10-2025,12:34,12:49,15,Reading,High-Focus,Easy,Low,External,Phone Call,Environment,Low,Stressed,Low,4.8,Hungry,Home,Moderate,Normal,Hot,4,Ignored Phone,Yes,Minor,59,14,Major
+228,07-10-2025,16:50,17:00,10,Writing,Creative,Easy,Medium,External,Noise,Colleague,Medium,Tired,Low,5.9,Hungry,Library,Loud,Bright,Comfortable,6,Continued Task,No,Minor,24,40,Micro
+229,06-10-2025,15:13,15:22,9,Browsing,Repetitive,Easy,Medium,External,Phone Call,Colleague,Low,Stressed,Low,8.1,Fasting,Lab,Quiet,Bright,Hot,11,Music,No,Minor,47,14,Major
+230,08-10-2025,07:18,07:26,8,Studying,High-Focus,Medium,High,External,Noise,Environment,High,Calm,Medium,6.0,Caffeinated,Home,Quiet,Bright,Cold,3,Ignored Phone,Yes,Major,84,31,Micro
+231,01-10-2025,10:30,10:42,12,Meeting,High-Focus,Medium,High,Internal,Notification,Colleague,Low,Happy,High,5.2,After Meal,Café,Quiet,Dim,Cold,14,Ignored Phone,Yes,Major,48,45,Major
+232,02-10-2025,12:21,12:37,16,Coding,Repetitive,Medium,Low,External,Phone Call,Phone,Medium,Tired,High,6.9,Caffeinated,Lab,Loud,Normal,Cold,10,Meditation,Yes,Minor,41,29,Medium
+233,02-10-2025,16:39,16:54,15,Studying,Repetitive,Medium,Low,Internal,Fatigue,Self-thoughts,Medium,Neutral,Low,4.6,After Meal,Office,Quiet,Normal,Comfortable,5,Short Walk,No,Moderate,53,59,Micro
+234,01-10-2025,16:03,16:15,12,Writing,Creative,Hard,Low,Internal,Phone Call,Colleague,Low,Calm,Medium,8.8,After Meal,Library,Loud,Bright,Cold,9,Short Walk,Yes,Moderate,28,34,Major
+235,04-10-2025,06:57,07:16,19,Writing,Repetitive,Hard,Low,Internal,Phone Call,Phone,Low,Calm,High,6.5,Fasting,Home,Moderate,Dim,Comfortable,4,Short Walk,No,Major,72,39,Medium
+236,04-10-2025,10:37,10:48,11,Coding,Creative,Medium,Low,Internal,Notification,Environment,High,Calm,High,7.3,Fasting,Office,Moderate,Normal,Comfortable,5,Music,Yes,Major,89,10,Micro
+237,07-10-2025,12:10,12:12,2,Coding,Repetitive,Medium,Low,External,Fatigue,Internet,High,Happy,Low,7.3,Fasting,Home,Moderate,Bright,Cold,10,Ignored Phone,Yes,Minor,110,43,Medium
+238,07-10-2025,08:37,08:52,15,Writing,Creative,Hard,Medium,External,Hunger,Environment,Medium,Neutral,Medium,7.9,Fasting,Café,Moderate,Normal,Comfortable,5,Ignored Phone,Yes,Moderate,82,40,Major
+239,07-10-2025,09:03,09:09,6,Designing,Repetitive,Hard,High,External,Boredom,Internet,Low,Calm,Low,8.3,After Meal,Library,Loud,Dim,Cold,12,Meditation,Yes,Minor,81,18,Medium
+240,04-10-2025,22:36,22:50,14,Designing,Creative,Hard,Medium,External,Fatigue,Internet,Medium,Neutral,Low,5.0,Fasting,Café,Loud,Normal,Comfortable,11,Meditation,Yes,Minor,25,27,Micro
+241,01-10-2025,15:37,15:52,15,Planning,High-Focus,Hard,High,Internal,Hunger,Phone,Medium,Happy,Medium,8.0,Caffeinated,Lab,Moderate,Dim,Comfortable,7,Short Walk,No,Minor,101,46,Micro
+242,03-10-2025,19:46,20:04,18,Studying,Creative,Easy,Medium,External,Notification,Colleague,Medium,Tired,High,7.1,Caffeinated,Café,Quiet,Normal,Hot,9,Short Walk,No,Major,87,40,Medium
+243,01-10-2025,14:49,15:02,13,Designing,Repetitive,Hard,Medium,Internal,Notification,Environment,High,Happy,Medium,7.1,Caffeinated,Lab,Quiet,Dim,Comfortable,15,Music,Yes,Minor,65,46,Major
+244,01-10-2025,17:46,17:54,8,Writing,High-Focus,Hard,Low,Internal,Fatigue,Colleague,Low,Calm,Low,5.4,Caffeinated,Library,Quiet,Bright,Cold,9,Meditation,Yes,Minor,75,47,Medium
+245,05-10-2025,17:03,17:22,19,Designing,High-Focus,Easy,High,Internal,Noise,Noise,Low,Neutral,Medium,6.8,Caffeinated,Home,Quiet,Bright,Hot,1,Ignored Phone,No,Minor,48,27,Major
+246,08-10-2025,20:23,20:35,12,Designing,High-Focus,Medium,High,External,Notification,Internet,Low,Stressed,High,5.1,Fasting,Café,Quiet,Normal,Cold,12,Continued Task,Yes,Minor,91,37,Micro
+247,06-10-2025,13:06,13:23,17,Planning,High-Focus,Easy,Medium,Internal,Boredom,Environment,Medium,Stressed,Medium,4.5,Hungry,Lab,Quiet,Dim,Comfortable,7,Ignored Phone,No,Major,16,46,Micro
+248,08-10-2025,11:26,11:31,5,Studying,Creative,Medium,Low,External,Noise,Self-thoughts,Low,Happy,Medium,6.0,Hungry,Lab,Loud,Bright,Cold,13,Music,Yes,Major,83,32,Micro
+249,07-10-2025,20:40,20:42,2,Writing,High-Focus,Hard,Low,Internal,Hunger,Environment,Medium,Stressed,Medium,6.1,Caffeinated,Library,Loud,Normal,Comfortable,12,Short Walk,No,Minor,93,34,Micro
+250,03-10-2025,12:29,12:43,14,Coding,Repetitive,Hard,High,External,Noise,Colleague,Low,Stressed,High,5.2,Fasting,Café,Moderate,Dim,Hot,4,Music,No,Moderate,85,7,Major
+251,08-10-2025,17:30,17:46,16,Designing,Creative,Medium,Medium,External,Fatigue,Colleague,Medium,Stressed,Medium,7.3,After Meal,Café,Quiet,Normal,Cold,13,Ignored Phone,No,Major,102,39,Major
+252,08-10-2025,07:31,07:42,11,Studying,Creative,Medium,High,Internal,Fatigue,Noise,Low,Calm,High,7.0,Hungry,Office,Loud,Bright,Comfortable,8,Music,No,Moderate,14,20,Medium
+253,08-10-2025,21:33,21:38,5,Writing,Creative,Hard,High,Internal,Fatigue,Self-thoughts,Low,Neutral,Low,6.4,After Meal,Home,Quiet,Bright,Hot,9,Meditation,No,Minor,95,41,Major
+254,08-10-2025,13:34,13:51,17,Browsing,Creative,Medium,High,External,Fatigue,Self-thoughts,Low,Happy,High,4.8,Caffeinated,Office,Quiet,Bright,Comfortable,9,Ignored Phone,Yes,Moderate,88,33,Medium
+255,03-10-2025,07:24,07:34,10,Meeting,Creative,Medium,High,External,Fatigue,Environment,Low,Stressed,High,5.5,After Meal,Library,Quiet,Normal,Hot,7,Meditation,No,Moderate,49,54,Micro
+256,06-10-2025,07:00,07:08,8,Studying,Creative,Easy,Low,Internal,Hunger,Noise,High,Neutral,High,5.8,After Meal,Office,Loud,Bright,Comfortable,5,Short Walk,No,Major,19,12,Micro
+257,07-10-2025,10:49,10:53,4,Planning,High-Focus,Hard,High,External,Multitasking,Internet,Low,Tired,High,6.3,After Meal,Lab,Quiet,Dim,Cold,6,Music,No,Minor,28,32,Major
+258,08-10-2025,17:26,17:43,17,Reading,Repetitive,Hard,Low,Internal,Phone Call,Phone,High,Stressed,High,7.4,Caffeinated,Home,Moderate,Dim,Cold,3,Ignored Phone,No,Moderate,110,32,Major
+259,05-10-2025,08:51,09:06,15,Studying,Creative,Medium,High,External,Hunger,Phone,Low,Happy,High,4.1,Caffeinated,Café,Loud,Dim,Cold,3,Meditation,Yes,Moderate,59,46,Major
+260,02-10-2025,11:40,11:50,10,Coding,Creative,Hard,Medium,External,Boredom,Colleague,High,Tired,Medium,7.1,Fasting,Home,Quiet,Bright,Comfortable,2,Ignored Phone,No,Moderate,44,58,Micro
+261,07-10-2025,16:35,16:53,18,Studying,Repetitive,Hard,Medium,Internal,Multitasking,Noise,Low,Tired,High,4.3,After Meal,Lab,Moderate,Normal,Hot,1,Meditation,No,Major,7,38,Medium
+262,02-10-2025,19:22,19:28,6,Browsing,High-Focus,Medium,Medium,External,Boredom,Noise,High,Tired,High,6.6,Caffeinated,Home,Moderate,Dim,Comfortable,15,Meditation,Yes,Minor,13,26,Major
+263,02-10-2025,10:01,10:13,12,Coding,High-Focus,Easy,Low,Internal,Multitasking,Colleague,High,Tired,Low,5.5,Caffeinated,Office,Loud,Normal,Comfortable,11,Continued Task,Yes,Moderate,13,60,Major
+264,01-10-2025,08:31,08:49,18,Designing,High-Focus,Medium,High,External,Hunger,Colleague,Low,Stressed,High,5.3,Hungry,Library,Loud,Normal,Hot,4,Short Walk,No,Minor,18,20,Micro
+265,01-10-2025,16:32,16:37,5,Planning,Repetitive,Hard,Medium,Internal,Fatigue,Phone,Low,Calm,High,4.4,Caffeinated,Office,Moderate,Bright,Cold,12,Meditation,Yes,Moderate,30,46,Micro
+266,02-10-2025,14:42,14:53,11,Designing,Creative,Easy,Medium,Internal,Notification,Self-thoughts,Low,Calm,High,8.0,Hungry,Office,Loud,Bright,Hot,15,Ignored Phone,No,Moderate,45,41,Medium
+267,06-10-2025,07:57,08:03,6,Studying,High-Focus,Medium,High,External,Multitasking,Noise,High,Neutral,Low,4.0,Hungry,Café,Loud,Dim,Cold,11,Continued Task,Yes,Moderate,97,32,Major
+268,02-10-2025,08:20,08:27,7,Reading,High-Focus,Easy,Medium,External,Multitasking,Noise,Low,Happy,Medium,8.7,After Meal,Library,Moderate,Normal,Hot,8,Ignored Phone,Yes,Minor,49,41,Micro
+269,08-10-2025,20:42,20:53,11,Reading,Repetitive,Easy,Low,External,Notification,Self-thoughts,High,Happy,High,5.2,After Meal,Office,Loud,Bright,Hot,13,Short Walk,Yes,Major,68,58,Major
+270,02-10-2025,17:13,17:16,3,Meeting,High-Focus,Medium,Medium,External,Notification,Colleague,High,Happy,High,6.1,Caffeinated,Lab,Loud,Dim,Cold,3,Ignored Phone,Yes,Moderate,105,55,Medium
+271,02-10-2025,11:39,11:41,2,Coding,Repetitive,Hard,Low,Internal,Notification,Self-thoughts,Medium,Stressed,Low,5.0,After Meal,Café,Quiet,Dim,Cold,15,Continued Task,No,Minor,29,48,Medium
+272,05-10-2025,10:32,10:51,19,Coding,Creative,Easy,Low,Internal,Hunger,Colleague,Low,Stressed,Low,8.4,Hungry,Lab,Quiet,Normal,Comfortable,8,Ignored Phone,No,Moderate,88,6,Micro
+273,06-10-2025,19:09,19:26,17,Browsing,Repetitive,Easy,Medium,Internal,Noise,Environment,Medium,Calm,Low,6.4,Hungry,Library,Loud,Bright,Comfortable,3,Short Walk,No,Moderate,13,47,Major
+274,04-10-2025,09:39,09:57,18,Coding,High-Focus,Hard,Low,External,Noise,Environment,Low,Neutral,Medium,8.2,Caffeinated,Library,Loud,Dim,Cold,5,Music,Yes,Minor,93,26,Medium
+275,04-10-2025,09:55,10:04,9,Coding,High-Focus,Hard,Medium,Internal,Phone Call,Internet,Medium,Calm,Low,4.3,Caffeinated,Library,Moderate,Dim,Comfortable,1,Music,Yes,Minor,35,51,Major
+276,02-10-2025,16:36,16:53,17,Browsing,Repetitive,Hard,Medium,Internal,Notification,Phone,Low,Happy,Low,6.9,Hungry,Lab,Moderate,Normal,Cold,12,Short Walk,Yes,Moderate,24,53,Major
+277,04-10-2025,09:52,09:55,3,Writing,Creative,Easy,High,Internal,Notification,Self-thoughts,High,Neutral,Medium,8.6,Caffeinated,Library,Loud,Bright,Comfortable,8,Ignored Phone,Yes,Minor,62,29,Medium
+278,03-10-2025,13:04,13:16,12,Designing,High-Focus,Hard,High,Internal,Boredom,Self-thoughts,Medium,Calm,Low,7.9,After Meal,Home,Moderate,Dim,Hot,15,Ignored Phone,Yes,Moderate,28,14,Medium
+279,02-10-2025,16:33,16:52,19,Designing,High-Focus,Easy,High,External,Multitasking,Phone,Medium,Neutral,High,6.9,Caffeinated,Café,Loud,Normal,Hot,13,Ignored Phone,No,Major,36,14,Medium
+280,02-10-2025,19:55,20:10,15,Planning,High-Focus,Easy,Medium,Internal,Noise,Colleague,Medium,Happy,Medium,6.2,Fasting,Office,Moderate,Dim,Hot,4,Short Walk,Yes,Major,9,50,Micro
+281,03-10-2025,17:23,17:39,16,Planning,Creative,Easy,Low,Internal,Boredom,Environment,Low,Happy,High,5.8,After Meal,Home,Moderate,Dim,Cold,9,Continued Task,Yes,Moderate,35,21,Micro
+282,02-10-2025,19:27,19:30,3,Reading,Repetitive,Medium,Medium,External,Boredom,Colleague,High,Stressed,High,5.3,Caffeinated,Café,Loud,Normal,Hot,1,Continued Task,Yes,Major,41,20,Major
+283,03-10-2025,12:34,12:45,11,Designing,High-Focus,Hard,Medium,External,Phone Call,Phone,High,Neutral,High,5.8,Hungry,Library,Moderate,Dim,Comfortable,11,Ignored Phone,Yes,Minor,7,30,Micro
+284,07-10-2025,19:12,19:21,9,Reading,High-Focus,Medium,Low,External,Fatigue,Environment,Low,Tired,Medium,7.4,Fasting,Café,Loud,Normal,Comfortable,7,Ignored Phone,No,Minor,52,44,Major
+285,07-10-2025,17:00,17:20,20,Designing,Repetitive,Medium,Low,Internal,Multitasking,Phone,Medium,Tired,Low,8.0,Fasting,Home,Moderate,Bright,Cold,1,Short Walk,No,Moderate,99,41,Major
+286,07-10-2025,09:24,09:37,13,Coding,High-Focus,Hard,High,Internal,Phone Call,Noise,Medium,Happy,High,9.0,Hungry,Home,Moderate,Dim,Comfortable,7,Music,No,Major,33,41,Major
+287,06-10-2025,20:33,20:53,20,Reading,Repetitive,Hard,Medium,Internal,Multitasking,Colleague,Low,Happy,Medium,4.6,Hungry,Lab,Loud,Bright,Hot,8,Continued Task,No,Major,15,21,Medium
+288,06-10-2025,09:28,09:41,13,Coding,Creative,Easy,High,External,Fatigue,Phone,Medium,Calm,Medium,5.2,Caffeinated,Home,Loud,Normal,Cold,5,Music,No,Moderate,78,35,Medium
+289,01-10-2025,20:14,20:19,5,Coding,Creative,Easy,Low,External,Boredom,Internet,Medium,Neutral,Low,9.0,Fasting,Home,Moderate,Normal,Hot,3,Short Walk,No,Moderate,93,56,Medium
+290,01-10-2025,22:46,22:51,5,Browsing,Repetitive,Easy,Medium,External,Noise,Self-thoughts,Medium,Happy,Medium,6.4,Hungry,Café,Moderate,Bright,Hot,4,Continued Task,No,Moderate,27,25,Medium
+291,01-10-2025,19:50,20:05,15,Studying,High-Focus,Easy,Low,External,Hunger,Environment,Medium,Calm,Medium,8.6,Hungry,Café,Moderate,Normal,Cold,2,Short Walk,Yes,Moderate,19,11,Micro
+292,02-10-2025,12:04,12:13,9,Planning,Creative,Hard,Medium,Internal,Phone Call,Noise,High,Happy,Low,7.6,Fasting,Library,Moderate,Dim,Cold,14,Meditation,Yes,Minor,116,43,Medium
+293,06-10-2025,16:22,16:37,15,Browsing,High-Focus,Hard,High,External,Fatigue,Colleague,High,Calm,High,7.8,After Meal,Lab,Loud,Normal,Cold,5,Short Walk,No,Major,25,40,Medium
+294,06-10-2025,15:32,15:51,19,Browsing,Repetitive,Medium,Medium,Internal,Boredom,Environment,High,Neutral,High,6.7,Caffeinated,Library,Quiet,Bright,Cold,13,Short Walk,No,Major,91,14,Medium
+295,07-10-2025,09:36,09:54,18,Writing,Repetitive,Medium,Medium,Internal,Hunger,Noise,Medium,Tired,Low,5.9,Caffeinated,Café,Loud,Bright,Hot,8,Meditation,Yes,Moderate,84,14,Medium
+296,04-10-2025,14:13,14:23,10,Designing,Creative,Easy,Medium,Internal,Hunger,Noise,Low,Neutral,High,7.8,Fasting,Lab,Loud,Normal,Hot,2,Continued Task,No,Moderate,72,31,Micro
+297,07-10-2025,16:59,17:12,13,Planning,High-Focus,Hard,Low,Internal,Hunger,Phone,High,Stressed,Medium,4.8,Caffeinated,Lab,Loud,Normal,Hot,15,Short Walk,No,Minor,70,39,Major
+298,05-10-2025,12:15,12:26,11,Browsing,Creative,Medium,Low,External,Multitasking,Self-thoughts,Low,Happy,High,6.3,After Meal,Lab,Loud,Normal,Cold,15,Music,Yes,Major,45,31,Micro
+299,04-10-2025,08:38,08:49,11,Planning,Repetitive,Hard,Medium,External,Multitasking,Noise,Medium,Neutral,Medium,7.5,Caffeinated,Café,Moderate,Normal,Hot,12,Continued Task,No,Minor,89,32,Major
+300,07-10-2025,14:56,15:16,20,Reading,Repetitive,Medium,Medium,External,Phone Call,Noise,Medium,Stressed,Medium,4.4,After Meal,Lab,Loud,Dim,Cold,15,Music,No,Minor,56,55,Micro
+301,08-10-2025,18:24,18:42,18,Studying,Creative,Medium,Medium,External,Hunger,Environment,Low,Calm,High,5.0,Hungry,Café,Moderate,Bright,Hot,4,Music,Yes,Major,28,37,Medium
+302,05-10-2025,15:18,15:37,19,Designing,Creative,Easy,Low,Internal,Fatigue,Self-thoughts,High,Tired,High,5.9,Caffeinated,Library,Loud,Bright,Hot,12,Meditation,No,Moderate,23,54,Micro
+303,02-10-2025,07:42,07:57,15,Studying,Repetitive,Medium,Medium,External,Fatigue,Environment,High,Tired,Low,7.3,After Meal,Office,Moderate,Normal,Hot,14,Continued Task,No,Minor,97,50,Medium
+304,03-10-2025,07:02,07:06,4,Browsing,Repetitive,Easy,Low,Internal,Phone Call,Phone,Medium,Happy,Medium,8.6,After Meal,Home,Quiet,Normal,Comfortable,14,Ignored Phone,No,Minor,5,42,Major
+305,04-10-2025,15:39,15:44,5,Meeting,Creative,Hard,High,Internal,Hunger,Colleague,Low,Neutral,High,4.2,Caffeinated,Café,Quiet,Dim,Cold,2,Ignored Phone,Yes,Minor,67,48,Major
+306,08-10-2025,22:58,23:14,16,Meeting,Creative,Hard,Low,Internal,Boredom,Internet,Medium,Neutral,Low,6.9,After Meal,Lab,Moderate,Normal,Hot,11,Meditation,Yes,Moderate,83,60,Major
+307,06-10-2025,22:54,22:56,2,Browsing,Repetitive,Easy,High,Internal,Notification,Self-thoughts,Medium,Tired,Low,7.5,Hungry,Library,Quiet,Dim,Comfortable,11,Music,No,Major,46,19,Micro
+308,02-10-2025,13:03,13:12,9,Planning,Repetitive,Hard,Medium,Internal,Boredom,Internet,Low,Happy,Medium,4.6,Caffeinated,Lab,Loud,Normal,Cold,14,Ignored Phone,Yes,Major,18,34,Major
+309,04-10-2025,13:16,13:31,15,Writing,Repetitive,Hard,Low,Internal,Noise,Self-thoughts,Low,Calm,Low,5.8,Fasting,Library,Quiet,Bright,Hot,7,Continued Task,No,Minor,23,60,Medium
+310,04-10-2025,22:38,22:54,16,Meeting,Repetitive,Hard,Low,External,Noise,Self-thoughts,Medium,Tired,Low,5.0,After Meal,Library,Moderate,Normal,Hot,4,Continued Task,No,Moderate,18,37,Major
+311,04-10-2025,13:37,13:42,5,Designing,Creative,Easy,Medium,External,Multitasking,Environment,Medium,Happy,High,7.9,Caffeinated,Library,Moderate,Normal,Cold,15,Ignored Phone,No,Minor,10,25,Medium
+312,08-10-2025,11:45,12:03,18,Writing,High-Focus,Medium,Medium,External,Phone Call,Noise,Low,Neutral,Medium,4.3,Caffeinated,Café,Quiet,Bright,Comfortable,13,Continued Task,No,Major,69,32,Medium
+313,08-10-2025,09:45,10:01,16,Planning,Creative,Medium,Low,Internal,Fatigue,Phone,Medium,Tired,High,4.1,Fasting,Library,Quiet,Bright,Cold,13,Meditation,No,Moderate,110,24,Medium
+314,01-10-2025,10:06,10:24,18,Studying,Repetitive,Easy,High,Internal,Fatigue,Phone,Low,Calm,Medium,7.7,Hungry,Office,Quiet,Normal,Comfortable,15,Meditation,Yes,Major,103,39,Micro
+315,02-10-2025,21:17,21:35,18,Planning,Repetitive,Easy,Medium,Internal,Fatigue,Noise,High,Neutral,High,6.2,After Meal,Café,Quiet,Dim,Cold,8,Continued Task,Yes,Moderate,78,50,Medium
+316,06-10-2025,22:15,22:18,3,Browsing,High-Focus,Medium,Medium,Internal,Notification,Self-thoughts,Medium,Tired,Low,6.5,Hungry,Home,Quiet,Normal,Comfortable,7,Meditation,Yes,Minor,109,39,Micro
+317,08-10-2025,19:52,19:59,7,Browsing,Creative,Hard,Low,Internal,Hunger,Environment,Low,Happy,High,7.2,After Meal,Café,Loud,Dim,Comfortable,8,Meditation,Yes,Minor,86,39,Micro
+318,05-10-2025,14:00,14:19,19,Writing,Repetitive,Hard,Medium,External,Noise,Internet,Low,Tired,High,5.5,After Meal,Office,Moderate,Dim,Cold,9,Meditation,No,Minor,81,54,Major
+319,07-10-2025,06:29,06:33,4,Coding,High-Focus,Easy,High,Internal,Phone Call,Colleague,Medium,Neutral,High,8.8,Fasting,Lab,Loud,Dim,Cold,15,Ignored Phone,No,Major,89,32,Major
+320,07-10-2025,16:43,16:49,6,Designing,High-Focus,Medium,Low,Internal,Boredom,Self-thoughts,High,Happy,High,7.1,Hungry,Library,Moderate,Dim,Comfortable,6,Music,No,Major,119,22,Micro
+321,08-10-2025,06:28,06:38,10,Meeting,Creative,Hard,Low,External,Boredom,Colleague,Medium,Calm,High,8.1,Caffeinated,Café,Loud,Normal,Hot,10,Short Walk,No,Moderate,111,24,Micro
+322,01-10-2025,13:34,13:50,16,Writing,High-Focus,Medium,High,Internal,Fatigue,Self-thoughts,High,Tired,Low,6.4,Caffeinated,Café,Quiet,Bright,Comfortable,8,Ignored Phone,No,Minor,12,12,Major
+323,08-10-2025,08:26,08:32,6,Browsing,Repetitive,Easy,Medium,Internal,Noise,Environment,Medium,Tired,Low,7.5,Caffeinated,Office,Loud,Dim,Comfortable,8,Continued Task,Yes,Minor,32,25,Major
+324,04-10-2025,06:26,06:30,4,Designing,Creative,Easy,Medium,Internal,Hunger,Self-thoughts,High,Tired,Medium,4.1,Caffeinated,Library,Quiet,Normal,Cold,15,Ignored Phone,No,Moderate,105,33,Medium
+325,05-10-2025,15:22,15:29,7,Reading,Repetitive,Easy,Low,Internal,Boredom,Internet,Low,Happy,High,4.5,Hungry,Office,Loud,Dim,Hot,2,Ignored Phone,Yes,Moderate,38,40,Micro
+326,04-10-2025,16:34,16:51,17,Designing,High-Focus,Medium,Medium,External,Boredom,Colleague,High,Calm,Low,4.0,After Meal,Library,Quiet,Bright,Hot,7,Continued Task,No,Major,77,29,Major
+327,03-10-2025,17:34,17:54,20,Writing,High-Focus,Easy,Medium,External,Fatigue,Self-thoughts,High,Calm,High,5.2,Fasting,Library,Loud,Bright,Cold,14,Short Walk,Yes,Major,77,31,Medium
+328,06-10-2025,09:40,09:42,2,Meeting,Repetitive,Medium,High,Internal,Boredom,Colleague,High,Happy,Medium,6.7,Caffeinated,Office,Loud,Dim,Cold,4,Ignored Phone,Yes,Major,89,44,Major
+329,06-10-2025,21:27,21:29,2,Designing,High-Focus,Hard,High,Internal,Notification,Phone,Medium,Neutral,Medium,5.6,Fasting,Library,Quiet,Dim,Comfortable,15,Music,No,Minor,91,5,Medium
+330,08-10-2025,20:07,20:26,19,Coding,Creative,Easy,High,External,Boredom,Phone,High,Happy,High,7.8,Hungry,Lab,Moderate,Normal,Cold,3,Music,Yes,Minor,94,49,Major
+331,05-10-2025,17:42,17:47,5,Coding,Repetitive,Easy,Medium,External,Boredom,Phone,Medium,Stressed,Low,5.6,Caffeinated,Library,Moderate,Dim,Cold,12,Meditation,Yes,Major,44,23,Micro
+332,03-10-2025,06:42,06:44,2,Designing,Repetitive,Hard,High,External,Phone Call,Environment,Low,Stressed,Medium,6.7,Hungry,Home,Quiet,Dim,Hot,2,Short Walk,No,Major,16,40,Major
+333,05-10-2025,08:04,08:17,13,Designing,Creative,Hard,Medium,External,Hunger,Noise,Low,Neutral,Low,6.9,Hungry,Café,Moderate,Bright,Hot,9,Meditation,Yes,Major,102,12,Major
+334,05-10-2025,21:43,21:58,15,Reading,Creative,Hard,Low,Internal,Notification,Internet,Medium,Tired,Medium,4.2,Caffeinated,Home,Moderate,Bright,Comfortable,12,Continued Task,No,Major,42,8,Micro
+335,04-10-2025,18:32,18:50,18,Planning,Repetitive,Easy,High,External,Fatigue,Environment,High,Happy,Medium,5.9,Hungry,Office,Quiet,Normal,Comfortable,3,Short Walk,No,Moderate,14,53,Major
+336,07-10-2025,09:09,09:16,7,Browsing,Creative,Medium,Medium,External,Noise,Environment,Low,Calm,Low,7.3,After Meal,Lab,Quiet,Dim,Cold,6,Music,No,Major,58,31,Major
+337,02-10-2025,12:47,12:53,6,Browsing,Creative,Medium,High,External,Noise,Colleague,Low,Happy,Medium,6.3,Caffeinated,Home,Quiet,Dim,Cold,10,Music,No,Major,70,51,Medium
+338,05-10-2025,22:03,22:07,4,Planning,High-Focus,Medium,Low,External,Noise,Phone,High,Calm,High,5.6,After Meal,Café,Quiet,Normal,Cold,7,Music,No,Minor,32,16,Medium
+339,01-10-2025,15:26,15:46,20,Meeting,Repetitive,Hard,High,External,Multitasking,Self-thoughts,Low,Neutral,Medium,4.1,Fasting,Library,Quiet,Normal,Cold,1,Ignored Phone,Yes,Major,76,36,Major
+340,06-10-2025,06:02,06:18,16,Studying,Creative,Easy,Low,Internal,Multitasking,Self-thoughts,High,Neutral,Medium,4.1,Hungry,Home,Quiet,Bright,Cold,7,Short Walk,No,Moderate,90,13,Micro
+341,01-10-2025,11:00,11:18,18,Planning,Repetitive,Medium,Medium,Internal,Fatigue,Noise,High,Calm,Low,8.7,Caffeinated,Café,Moderate,Normal,Hot,2,Short Walk,No,Major,66,20,Micro
+342,04-10-2025,10:46,11:05,19,Planning,Creative,Hard,High,External,Fatigue,Noise,Medium,Calm,Medium,7.1,After Meal,Library,Loud,Normal,Hot,4,Continued Task,No,Minor,67,9,Medium
+343,03-10-2025,15:34,15:41,7,Meeting,High-Focus,Easy,Medium,External,Fatigue,Internet,Medium,Tired,Low,5.3,Caffeinated,Café,Quiet,Dim,Hot,11,Continued Task,No,Major,26,7,Micro
+344,03-10-2025,19:35,19:42,7,Browsing,Creative,Medium,High,External,Fatigue,Internet,High,Stressed,High,4.6,Fasting,Library,Loud,Normal,Hot,1,Continued Task,Yes,Major,55,8,Micro
+345,04-10-2025,09:03,09:19,16,Planning,Creative,Medium,Low,Internal,Hunger,Internet,High,Calm,High,5.1,After Meal,Office,Moderate,Dim,Comfortable,9,Music,Yes,Major,32,9,Micro
+346,06-10-2025,14:07,14:15,8,Designing,High-Focus,Easy,Medium,External,Notification,Colleague,High,Calm,High,7.9,Fasting,Lab,Loud,Normal,Cold,10,Short Walk,Yes,Minor,117,15,Medium
+347,02-10-2025,21:26,21:39,13,Designing,Repetitive,Medium,High,Internal,Boredom,Noise,Medium,Neutral,Low,8.6,Hungry,Café,Loud,Dim,Comfortable,9,Music,Yes,Moderate,16,14,Micro
+348,02-10-2025,13:10,13:17,7,Writing,Repetitive,Hard,Medium,External,Multitasking,Colleague,High,Stressed,High,8.7,Fasting,Café,Loud,Normal,Hot,11,Meditation,Yes,Moderate,103,18,Medium
+349,02-10-2025,08:04,08:24,20,Studying,Repetitive,Easy,Medium,Internal,Boredom,Environment,High,Happy,Low,4.8,Fasting,Lab,Moderate,Dim,Cold,7,Short Walk,No,Moderate,37,17,Micro
+350,01-10-2025,19:32,19:44,12,Planning,Repetitive,Medium,Medium,External,Noise,Phone,Low,Tired,Low,5.9,After Meal,Library,Quiet,Normal,Comfortable,3,Short Walk,Yes,Minor,12,31,Medium
+351,03-10-2025,11:07,11:12,5,Writing,Repetitive,Medium,Medium,External,Phone Call,Phone,High,Stressed,High,6.5,Caffeinated,Office,Loud,Dim,Cold,6,Meditation,Yes,Moderate,111,50,Major
+352,07-10-2025,18:28,18:30,2,Coding,High-Focus,Hard,Medium,External,Phone Call,Environment,Low,Stressed,High,7.5,After Meal,Library,Quiet,Bright,Hot,12,Continued Task,Yes,Major,52,55,Medium
+353,02-10-2025,14:30,14:38,8,Planning,High-Focus,Medium,High,External,Notification,Internet,Low,Neutral,High,5.4,After Meal,Library,Moderate,Bright,Cold,11,Ignored Phone,No,Moderate,97,13,Medium
+354,01-10-2025,22:18,22:31,13,Studying,Creative,Hard,High,External,Fatigue,Colleague,Medium,Neutral,Medium,8.3,Caffeinated,Library,Quiet,Bright,Hot,1,Short Walk,No,Minor,102,55,Medium
+355,03-10-2025,13:28,13:45,17,Designing,Repetitive,Easy,Low,Internal,Noise,Self-thoughts,Medium,Neutral,Medium,7.0,After Meal,Café,Moderate,Dim,Comfortable,14,Music,No,Minor,13,10,Medium
+356,02-10-2025,09:10,09:29,19,Coding,Repetitive,Hard,High,External,Phone Call,Phone,Low,Stressed,High,7.8,After Meal,Lab,Loud,Bright,Comfortable,3,Music,Yes,Major,31,33,Medium
+357,03-10-2025,09:08,09:28,20,Planning,Creative,Easy,Low,External,Multitasking,Self-thoughts,Low,Happy,Low,6.4,After Meal,Library,Quiet,Bright,Cold,4,Ignored Phone,Yes,Major,43,19,Micro
+358,04-10-2025,20:04,20:17,13,Meeting,High-Focus,Medium,Low,Internal,Noise,Noise,Medium,Tired,Low,4.7,Hungry,Café,Quiet,Normal,Hot,10,Ignored Phone,Yes,Minor,31,27,Major
+359,04-10-2025,07:03,07:09,6,Writing,Repetitive,Hard,Low,Internal,Multitasking,Phone,High,Happy,High,8.0,After Meal,Lab,Loud,Dim,Comfortable,9,Continued Task,Yes,Major,7,14,Major
+360,08-10-2025,13:52,14:02,10,Designing,Creative,Hard,Medium,External,Hunger,Colleague,Medium,Neutral,Medium,4.2,Hungry,Office,Moderate,Dim,Cold,14,Ignored Phone,Yes,Moderate,104,27,Micro
+361,07-10-2025,13:56,14:08,12,Planning,Creative,Hard,Medium,External,Multitasking,Self-thoughts,High,Stressed,Low,7.0,After Meal,Home,Moderate,Normal,Cold,1,Meditation,Yes,Minor,35,8,Major
+362,06-10-2025,15:02,15:13,11,Reading,Repetitive,Medium,Low,Internal,Multitasking,Environment,Medium,Happy,Low,4.3,After Meal,Café,Moderate,Bright,Cold,7,Meditation,Yes,Moderate,46,53,Medium
+363,02-10-2025,15:03,15:06,3,Reading,Creative,Hard,High,External,Phone Call,Internet,Low,Tired,High,8.2,Hungry,Library,Quiet,Bright,Cold,6,Ignored Phone,Yes,Moderate,31,42,Medium
+364,05-10-2025,10:30,10:44,14,Meeting,High-Focus,Easy,Low,External,Boredom,Colleague,Low,Happy,Low,6.5,Caffeinated,Lab,Quiet,Normal,Comfortable,1,Music,Yes,Moderate,72,39,Micro
+365,07-10-2025,08:14,08:21,7,Reading,Repetitive,Medium,High,External,Multitasking,Colleague,Medium,Tired,High,4.1,Caffeinated,Library,Quiet,Dim,Hot,10,Music,Yes,Moderate,104,28,Major
+366,02-10-2025,15:14,15:32,18,Studying,Repetitive,Medium,Low,External,Notification,Phone,Low,Tired,Low,6.7,Hungry,Office,Moderate,Normal,Comfortable,4,Meditation,Yes,Moderate,73,38,Major
+367,06-10-2025,16:18,16:20,2,Planning,Creative,Hard,Medium,Internal,Fatigue,Environment,Medium,Neutral,Medium,7.3,Fasting,Home,Quiet,Normal,Cold,11,Short Walk,Yes,Minor,93,14,Medium
+368,04-10-2025,13:56,14:11,15,Planning,Creative,Medium,Low,External,Notification,Internet,Low,Neutral,Low,7.5,After Meal,Home,Moderate,Dim,Comfortable,10,Continued Task,No,Major,99,56,Micro
+369,02-10-2025,07:34,07:45,11,Planning,Repetitive,Hard,Medium,External,Notification,Self-thoughts,High,Happy,Medium,7.6,Caffeinated,Lab,Quiet,Dim,Cold,9,Short Walk,Yes,Minor,115,6,Micro
+370,06-10-2025,19:47,19:57,10,Coding,High-Focus,Easy,Medium,Internal,Notification,Internet,Medium,Happy,Low,5.9,Fasting,Library,Quiet,Bright,Hot,5,Continued Task,Yes,Major,77,28,Major
+371,05-10-2025,07:45,08:03,18,Designing,Repetitive,Medium,High,Internal,Fatigue,Self-thoughts,High,Stressed,Medium,6.7,Fasting,Office,Moderate,Bright,Cold,10,Ignored Phone,No,Moderate,51,12,Medium
+372,04-10-2025,10:41,10:55,14,Coding,Creative,Hard,Low,Internal,Notification,Internet,Medium,Calm,Low,4.9,Fasting,Library,Moderate,Bright,Cold,5,Continued Task,Yes,Minor,30,38,Micro
+373,07-10-2025,07:02,07:12,10,Writing,Repetitive,Medium,Medium,External,Fatigue,Phone,Medium,Calm,High,8.4,Hungry,Library,Moderate,Bright,Cold,8,Meditation,Yes,Major,113,51,Major
+374,08-10-2025,16:11,16:17,6,Designing,Repetitive,Hard,High,Internal,Noise,Internet,Medium,Happy,High,7.8,Fasting,Lab,Quiet,Normal,Cold,5,Continued Task,Yes,Moderate,69,44,Medium
+375,02-10-2025,13:16,13:21,5,Designing,High-Focus,Medium,Medium,Internal,Boredom,Internet,Low,Stressed,Low,5.2,Fasting,Library,Moderate,Dim,Cold,5,Meditation,Yes,Moderate,103,53,Medium
+376,01-10-2025,17:41,17:49,8,Designing,Creative,Easy,Low,External,Notification,Self-thoughts,Medium,Stressed,Medium,5.0,Hungry,Library,Moderate,Normal,Comfortable,6,Ignored Phone,Yes,Minor,94,53,Micro
+377,08-10-2025,20:33,20:35,2,Browsing,Repetitive,Easy,Low,External,Fatigue,Environment,High,Tired,High,5.6,Fasting,Home,Loud,Bright,Comfortable,5,Short Walk,No,Moderate,97,54,Medium
+378,06-10-2025,20:29,20:40,11,Browsing,Repetitive,Hard,High,Internal,Fatigue,Colleague,High,Neutral,Low,7.0,After Meal,Library,Moderate,Normal,Cold,6,Short Walk,Yes,Minor,51,52,Medium
+379,07-10-2025,19:56,20:02,6,Meeting,Creative,Hard,High,Internal,Boredom,Self-thoughts,Low,Calm,Low,6.7,Fasting,Library,Loud,Dim,Comfortable,7,Music,No,Minor,12,41,Micro
+380,05-10-2025,07:17,07:21,4,Coding,Creative,Medium,High,External,Fatigue,Environment,Low,Neutral,Low,5.8,Fasting,Office,Moderate,Bright,Comfortable,1,Short Walk,Yes,Minor,36,50,Medium
+381,05-10-2025,16:59,17:15,16,Writing,Creative,Easy,High,Internal,Noise,Phone,Low,Tired,High,8.1,Fasting,Café,Moderate,Dim,Comfortable,4,Short Walk,No,Minor,92,38,Medium
+382,03-10-2025,21:54,22:09,15,Meeting,Repetitive,Easy,Medium,External,Multitasking,Phone,Low,Tired,Low,4.9,Fasting,Home,Loud,Bright,Comfortable,5,Continued Task,No,Minor,6,56,Medium
+383,08-10-2025,08:05,08:14,9,Planning,High-Focus,Medium,Low,Internal,Hunger,Colleague,Medium,Calm,Medium,8.8,Hungry,Café,Quiet,Bright,Cold,5,Music,No,Minor,44,59,Major
+384,03-10-2025,08:31,08:38,7,Writing,High-Focus,Medium,Low,External,Hunger,Phone,Low,Stressed,High,5.8,After Meal,Office,Loud,Normal,Hot,12,Meditation,Yes,Major,38,19,Medium
+385,07-10-2025,10:06,10:15,9,Browsing,High-Focus,Medium,Medium,Internal,Phone Call,Noise,Medium,Calm,High,8.2,Hungry,Home,Quiet,Bright,Comfortable,6,Meditation,Yes,Major,108,35,Micro
+386,04-10-2025,19:00,19:13,13,Meeting,High-Focus,Hard,Medium,Internal,Boredom,Environment,High,Happy,Medium,6.4,Caffeinated,Office,Loud,Normal,Cold,10,Short Walk,Yes,Major,96,43,Micro
+387,04-10-2025,20:50,20:54,4,Browsing,Creative,Hard,Low,Internal,Multitasking,Self-thoughts,Low,Neutral,High,7.1,After Meal,Office,Moderate,Normal,Cold,8,Meditation,Yes,Minor,10,36,Medium
+388,03-10-2025,17:53,17:57,4,Planning,High-Focus,Hard,High,Internal,Multitasking,Colleague,High,Stressed,Low,6.4,After Meal,Home,Loud,Dim,Comfortable,1,Short Walk,Yes,Moderate,98,27,Micro
+389,05-10-2025,19:03,19:07,4,Reading,Creative,Easy,High,Internal,Noise,Self-thoughts,Medium,Tired,Medium,4.7,Hungry,Library,Loud,Normal,Comfortable,13,Continued Task,Yes,Minor,86,25,Medium
+390,05-10-2025,14:07,14:27,20,Designing,High-Focus,Easy,High,Internal,Hunger,Phone,High,Calm,Low,6.9,Caffeinated,Library,Moderate,Dim,Cold,14,Short Walk,No,Major,82,49,Medium
+391,04-10-2025,20:52,21:01,9,Designing,Repetitive,Easy,Medium,Internal,Hunger,Environment,High,Tired,High,5.1,Fasting,Café,Moderate,Normal,Hot,9,Meditation,No,Minor,60,32,Medium
+392,02-10-2025,10:32,10:51,19,Browsing,Repetitive,Medium,High,External,Hunger,Self-thoughts,High,Happy,High,6.4,Hungry,Café,Quiet,Normal,Comfortable,11,Ignored Phone,Yes,Moderate,44,19,Major
+393,02-10-2025,21:50,21:58,8,Planning,High-Focus,Hard,Low,External,Noise,Colleague,Medium,Neutral,Low,9.0,Caffeinated,Office,Moderate,Bright,Hot,5,Meditation,No,Major,64,47,Medium
+394,05-10-2025,19:26,19:40,14,Planning,Creative,Hard,Medium,External,Multitasking,Colleague,Medium,Stressed,Medium,7.1,Fasting,Library,Quiet,Dim,Cold,2,Meditation,No,Moderate,52,60,Medium
+395,01-10-2025,11:38,11:45,7,Designing,Repetitive,Medium,Low,Internal,Hunger,Self-thoughts,Low,Happy,Low,8.6,Caffeinated,Office,Loud,Bright,Comfortable,1,Music,No,Minor,119,25,Medium
+396,07-10-2025,11:55,12:03,8,Planning,High-Focus,Easy,Low,Internal,Noise,Environment,Low,Calm,High,5.3,Hungry,Lab,Quiet,Dim,Hot,2,Continued Task,Yes,Minor,15,18,Micro
+397,02-10-2025,10:12,10:28,16,Coding,High-Focus,Easy,Medium,Internal,Hunger,Self-thoughts,Medium,Neutral,Medium,7.2,Hungry,Lab,Loud,Dim,Comfortable,5,Meditation,Yes,Major,84,15,Medium
+398,04-10-2025,13:47,14:05,18,Planning,Creative,Medium,High,Internal,Phone Call,Internet,Low,Calm,Low,5.7,Hungry,Home,Moderate,Dim,Hot,11,Music,Yes,Minor,40,7,Micro
+399,04-10-2025,06:11,06:17,6,Studying,Creative,Easy,Medium,External,Boredom,Self-thoughts,Medium,Calm,Low,5.6,Hungry,Café,Loud,Bright,Comfortable,8,Meditation,Yes,Minor,13,10,Medium
+400,06-10-2025,06:23,06:33,10,Coding,Repetitive,Medium,Low,External,Multitasking,Internet,High,Tired,Medium,4.1,Fasting,Café,Moderate,Normal,Comfortable,2,Short Walk,No,Major,79,56,Micro
+401,08-10-2025,15:57,16:08,11,Studying,Creative,Medium,Medium,External,Multitasking,Noise,Low,Happy,Low,7.4,Caffeinated,Library,Loud,Bright,Comfortable,7,Ignored Phone,No,Major,13,16,Major
+402,04-10-2025,12:59,13:19,20,Reading,Creative,Medium,High,Internal,Hunger,Self-thoughts,Medium,Neutral,Medium,9.0,Caffeinated,Office,Moderate,Dim,Hot,3,Ignored Phone,No,Minor,7,54,Medium
+403,04-10-2025,10:31,10:34,3,Writing,Creative,Medium,Medium,External,Boredom,Environment,High,Happy,Low,4.9,Fasting,Lab,Quiet,Normal,Cold,6,Ignored Phone,Yes,Moderate,47,44,Major
+404,01-10-2025,10:23,10:39,16,Designing,Creative,Easy,High,Internal,Fatigue,Internet,Low,Calm,High,7.5,Hungry,Café,Loud,Dim,Comfortable,9,Short Walk,Yes,Major,96,26,Micro
+405,01-10-2025,16:45,17:03,18,Writing,High-Focus,Easy,Medium,Internal,Fatigue,Noise,Medium,Neutral,Medium,6.6,Hungry,Café,Quiet,Normal,Hot,13,Continued Task,Yes,Moderate,76,9,Major
+406,05-10-2025,15:22,15:40,18,Studying,Creative,Medium,Low,External,Phone Call,Noise,Low,Stressed,Medium,7.2,Fasting,Library,Quiet,Normal,Hot,14,Music,No,Moderate,98,19,Major
+407,07-10-2025,07:42,07:51,9,Reading,High-Focus,Hard,Low,Internal,Hunger,Colleague,Low,Neutral,Low,6.6,Caffeinated,Lab,Moderate,Dim,Cold,6,Continued Task,No,Major,30,12,Micro
+408,02-10-2025,21:12,21:22,10,Designing,High-Focus,Medium,Low,External,Fatigue,Colleague,Low,Stressed,Medium,7.9,Fasting,Office,Quiet,Normal,Comfortable,4,Ignored Phone,Yes,Major,71,56,Medium
+409,05-10-2025,12:19,12:35,16,Studying,Creative,Hard,High,Internal,Fatigue,Colleague,Medium,Stressed,Medium,7.1,After Meal,Café,Loud,Bright,Hot,14,Meditation,Yes,Moderate,61,7,Medium
+410,05-10-2025,16:13,16:31,18,Meeting,Repetitive,Medium,Medium,Internal,Notification,Noise,Low,Calm,Medium,5.0,Caffeinated,Home,Quiet,Normal,Cold,5,Meditation,Yes,Minor,61,56,Major
+411,08-10-2025,17:47,17:51,4,Planning,High-Focus,Medium,Medium,External,Fatigue,Self-thoughts,Low,Stressed,High,4.8,Hungry,Home,Quiet,Bright,Comfortable,11,Short Walk,No,Major,39,46,Micro
+412,04-10-2025,07:39,07:49,10,Writing,Repetitive,Medium,Low,Internal,Boredom,Noise,High,Happy,High,6.1,Fasting,Library,Quiet,Normal,Comfortable,14,Music,No,Moderate,7,33,Medium
+413,06-10-2025,09:27,09:46,19,Browsing,Repetitive,Easy,High,External,Notification,Noise,High,Calm,Low,4.7,After Meal,Office,Moderate,Dim,Hot,7,Ignored Phone,Yes,Major,104,33,Micro
+414,06-10-2025,09:15,09:33,18,Designing,Creative,Easy,Low,Internal,Boredom,Noise,Low,Tired,High,4.4,Hungry,Home,Quiet,Dim,Hot,13,Music,Yes,Minor,51,29,Major
+415,06-10-2025,14:06,14:19,13,Studying,Repetitive,Easy,Low,Internal,Boredom,Colleague,High,Neutral,Medium,6.9,Caffeinated,Library,Moderate,Dim,Cold,1,Meditation,Yes,Moderate,108,56,Medium
+416,08-10-2025,17:11,17:26,15,Browsing,High-Focus,Medium,Low,External,Boredom,Colleague,Low,Happy,High,8.5,Hungry,Library,Loud,Normal,Cold,12,Meditation,No,Minor,43,30,Micro
+417,02-10-2025,09:17,09:28,11,Designing,High-Focus,Medium,Medium,Internal,Notification,Self-thoughts,High,Calm,Low,8.5,After Meal,Home,Loud,Dim,Comfortable,12,Continued Task,Yes,Minor,96,60,Medium
+418,08-10-2025,18:31,18:50,19,Studying,High-Focus,Medium,Low,External,Notification,Phone,Low,Neutral,Medium,8.2,Hungry,Home,Loud,Normal,Cold,2,Music,Yes,Moderate,19,22,Medium
+419,02-10-2025,20:38,20:53,15,Meeting,High-Focus,Easy,Low,External,Boredom,Noise,Medium,Neutral,Low,4.6,Caffeinated,Library,Quiet,Bright,Hot,1,Meditation,No,Moderate,51,47,Medium
+420,01-10-2025,06:08,06:11,3,Designing,Creative,Hard,High,External,Notification,Environment,High,Stressed,High,6.9,After Meal,Office,Loud,Normal,Hot,3,Ignored Phone,Yes,Major,24,51,Micro
+421,04-10-2025,08:04,08:16,12,Planning,High-Focus,Medium,High,External,Phone Ping,Environment,Low,Stressed,High,5.9,Caffeinated,Home,Quiet,Dim,Cold,1,Break,Yes,Moderate,56,39,Medium
+422,02-10-2025,22:24,22:32,8,Planning,Creative,Medium,Low,External,Person Talking,Self-thoughts,Medium,Tired,Low,6.5,Caffeinated,Café,Loud,Normal,Cold,8,Continued Task,Yes,Minor,50,57,Major
+423,04-10-2025,15:34,15:35,1,Studying,Passive,Easy,Low,Internal,Phone Call,Self-thoughts,Medium,Stressed,High,5.3,Just Ate,Office,Moderate,Normal,Hot,9,Short Walk,Yes,Major,51,1,Micro
+424,04-10-2025,18:44,18:53,9,Browsing,High-Focus,Medium,Medium,External,Fatigue,Background Music,High,Stressed,Low,3.6,Normal,Home,Quiet,Normal,Hot,10,Coffee,Yes,Major,84,29,Major
+425,10-10-2025,11:31,11:45,14,Coding,Creative,Medium,Low,External,Notification,Digital,Low,Neutral,Medium,6.3,Caffeinated,Library,Loud,Dim,Cold,2,Ignored Phone,Yes,None,101,27,Micro
+426,07-10-2025,13:52,14:02,10,Studying,Repetitive,Medium,Medium,External,Fatigue,Phone,Medium,Bored,Medium,4.4,Fasting,Home,Quiet,Bright,Hot,1,Music,No,None,63,26,Micro
+427,10-10-2025,10:19,10:33,14,Coding,Creative,Medium,Low,External,Noise,Digital,Medium,Calm,Low,6.8,After Meal,Office,Quiet,Normal,Cold,5,Music,No,Major,60,27,Major
+428,06-10-2025,19:15,19:25,10,Meeting,High-Focus,Hard,Medium,Internal,Phone Call,Physical,Medium,Bored,Medium,8.3,Caffeinated,Café,Quiet,Dim,Cold,6,Short Walk,Yes,Minor,75,42,Micro
+429,10-10-2025,18:58,19:06,8,Reading,Repetitive,Easy,Low,External,Noise,Phone,Low,Happy,Low,4.5,Hungry,Office,Moderate,Dim,Cold,12,Break,No,None,42,54,Major
+430,04-10-2025,21:55,21:58,3,Meeting,Repetitive,Easy,High,External,Noise,Noise,High,Calm,Medium,5.8,Fasting,Home,Quiet,Bright,Cold,7,Music,Yes,Moderate,51,20,Medium
+431,09-10-2025,19:55,20:05,10,Meeting,Creative,Easy,Low,External,Multitasking,Noise,Medium,Bored,High,7.6,Hungry,Library,Loud,Normal,Cold,4,Coffee,Yes,Moderate,32,37,Major
+432,02-10-2025,17:23,17:30,7,Meeting,High-Focus,Easy,High,External,Social Media,Self-thoughts,High,Stressed,High,3.3,Hungry,Lab,Loud,Normal,Cold,14,Break,No,Moderate,0,26,Major
+433,04-10-2025,21:05,21:25,20,Reading,Repetitive,Medium,Medium,External,Social Media,Physical,Medium,Calm,High,7.8,Caffeinated,Café,Loud,Dim,Hot,11,Continued Task,No,Major,21,27,Major
+434,05-10-2025,17:39,17:48,9,Reading,Creative,Hard,High,External,Person Talking,Mental,High,Calm,Medium,6.6,Normal,Café,Loud,Bright,Hot,1,Continued Task,Yes,Minor,68,26,Micro
+435,04-10-2025,11:01,11:10,9,Studying,Repetitive,Easy,Low,Internal,Hunger,Colleague,Low,Anxious,Medium,5.4,Caffeinated,Home,Loud,Bright,Comfortable,1,Coffee,Yes,None,79,32,Micro
+436,09-10-2025,16:36,16:46,10,Writing,Repetitive,Medium,Low,Internal,Multitasking,Colleague,High,Stressed,Low,5.4,Caffeinated,Library,Loud,Dim,Comfortable,3,Continued Task,No,Moderate,58,19,Major
+437,06-10-2025,07:05,07:15,10,Designing,High-Focus,Hard,Medium,Internal,Notification,Environment,Low,Tired,High,5.2,Just Ate,Café,Moderate,Bright,Hot,4,Short Walk,No,Minor,27,15,Major
+438,02-10-2025,16:19,16:20,1,Studying,Creative,Easy,Low,External,Multitasking,Self-thoughts,Medium,Happy,Low,5.6,After Meal,Office,Loud,Normal,Hot,9,Coffee,No,Minor,6,36,Micro
+439,09-10-2025,14:56,15:10,14,Planning,High-Focus,Medium,High,External,Boredom,Colleague,Medium,Neutral,High,7.6,Fasting,Outdoors,Quiet,Dim,Hot,8,Music,No,Minor,49,1,Micro
+440,05-10-2025,11:05,11:15,10,Reading,Creative,Medium,Medium,Internal,Hunger,Noise,Medium,Anxious,High,6.6,Hungry,Office,Loud,Dim,Hot,8,Continued Task,No,Minor,65,55,Major
+441,09-10-2025,08:21,08:35,14,Studying,Creative,Medium,Medium,Internal,Boredom,Internet,Medium,Anxious,Medium,5.0,Normal,Café,Loud,Dim,Cold,10,Short Walk,No,None,43,79,Major
+442,09-10-2025,18:53,19:03,10,Coding,Creative,Hard,Low,Internal,Boredom,Digital,Low,Stressed,Low,8.8,Normal,cafe,Quiet,Dim,Hot,6,Short Walk,Yes,Major,51,32,Medium
+443,09-10-2025,21:16,21:37,21,Reading,High-Focus,Easy,Low,External,Boredom,Physical,Low,Happy,High,7.3,Normal,Office,Moderate,Dim,Comfortable,7,Music,No,Moderate,50,47,Micro
+444,07-10-2025,14:57,15:09,12,Writing,Passive,Easy,Low,External,Random Thought,Noise,Medium,Stressed,High,5.7,Hungry,Office,Loud,Dim,Comfortable,9,Continued Task,Yes,Major,36,27,Micro
+445,02-10-2025,18:15,18:28,13,Studying,Passive,Easy,Medium,External,Hunger,Digital,Low,Bored,Medium,3.9,Just Ate,Café,Moderate,Bright,Cold,8,Break,No,Major,56,21,Micro
+446,11-10-2025,10:05,10:07,2,Meeting,Creative,Hard,Medium,External,Noise,Digital,High,Happy,Low,3.6,Fasting,Home,Quiet,Dim,Cold,5,Short Walk,No,Minor,79,43,Medium
+447,11-10-2025,22:58,23:07,9,Writing,High-Focus,Medium,High,Internal,Boredom,Self-thoughts,High,Bored,Medium,5.1,Normal,Café,Loud,Normal,Comfortable,14,Music,No,Major,8,16,Micro
+448,09-10-2025,15:08,15:14,6,Planning,Repetitive,Medium,High,Internal,Person Talking,Self-thoughts,Medium,Neutral,Low,6.3,After Meal,Outdoors,Quiet,Bright,Cold,15,Continued Task,No,None,0,46,Micro
+449,02-10-2025,19:58,20:11,13,Planning,High-Focus,Hard,Medium,External,Social Media,Self-thoughts,Low,Stressed,High,6.1,Fasting,Office,Loud,Bright,Hot,11,Music,No,Minor,46,14,Medium
+450,07-10-2025,20:32,20:40,8,Coding,Repetitive,Hard,Low,External,Boredom,Environment,Medium,Happy,Low,4.1,Hungry,Lab,Loud,Normal,Cold,9,Short Walk,No,Moderate,49,25,Micro
+451,07-10-2025,22:29,22:42,13,Studying,Passive,Medium,Low,External,Noise,Physical,Low,Stressed,Low,6.6,Hungry,Café,Moderate,Normal,Cold,3,Ignored Phone,Yes,None,30,20,Medium
+452,04-10-2025,07:02,07:14,12,Reading,Repetitive,Easy,Medium,Internal,Hunger,Self-thoughts,Low,Stressed,Medium,7.5,After Meal,Café,Moderate,Normal,Comfortable,1,Ignored Phone,No,Minor,51,24,Medium
+453,03-10-2025,21:57,22:12,15,Writing,Creative,Easy,High,External,Multitasking,Colleague,High,Happy,Medium,4.9,Hungry,Office,Quiet,Dim,Cold,10,Coffee,Yes,Major,35,24,Medium
+454,06-10-2025,15:34,15:53,19,Reading,High-Focus,Medium,Low,External,Social Media,Colleague,Medium,Calm,Low,4.5,Normal,Café,Quiet,Normal,Hot,9,Break,No,Minor,3,10,Medium
+455,11-10-2025,11:14,11:21,7,Writing,Repetitive,Hard,High,External,Phone Ping,Colleague,Medium,Bored,Medium,5.8,Normal,Office,Loud,Bright,Hot,1,Ignored Phone,Yes,None,29,24,Major
+456,11-10-2025,16:37,16:47,10,Studying,Repetitive,Easy,Medium,Internal,Notification,Noise,Low,Anxious,Medium,5.0,Caffeinated,Home,Moderate,Dim,Comfortable,6,Continued Task,No,Major,55,14,Medium
+457,04-10-2025,07:40,07:47,7,Writing,Creative,Easy,High,Internal,Hunger,Noise,Medium,Neutral,High,8.0,Normal,Lab,Loud,Dim,Cold,8,Break,Yes,Minor,37,43,Major
+458,02-10-2025,17:14,17:33,19,Studying,Creative,Easy,Low,External,Notification,Digital,Low,Bored,High,6.3,Hungry,Office,Moderate,Dim,Cold,8,Ignored Phone,No,None,44,44,Micro
+459,05-10-2025,06:36,06:54,18,Browsing,Repetitive,Easy,High,Internal,Daydreaming,Self-thoughts,Low,Stressed,Medium,5.0,Normal,Lab,Moderate,Bright,Cold,4,Continued Task,No,Moderate,6,22,Medium
+460,07-10-2025,17:10,17:24,14,Meeting,Creative,Easy,High,External,Noise,Colleague,Low,Bored,Medium,4.5,Normal,Lab,Quiet,Normal,Comfortable,10,Music,Yes,None,0,40,Major
+461,07-10-2025,07:05,07:24,19,Meeting,High-Focus,Medium,Medium,External,Phone Call,Internet,Medium,Calm,Low,7.8,Caffeinated,Office,Quiet,Normal,Hot,14,Meditation,Yes,Major,46,37,Micro
+462,04-10-2025,11:31,11:49,18,Browsing,Repetitive,Hard,Low,Internal,Noise,Digital,Low,Bored,Medium,4.4,After Meal,Lab,Loud,Bright,Comfortable,4,Coffee,No,Major,25,61,Medium
+463,09-10-2025,19:38,19:49,11,Coding,Repetitive,Hard,Low,External,Multitasking,Mental,High,Calm,High,4.1,Caffeinated,Office,Moderate,Bright,Hot,6,Music,No,Major,89,45,Micro
+464,06-10-2025,20:15,20:26,11,Studying,High-Focus,Medium,Medium,External,Fatigue,Digital,High,Calm,Low,7.8,Hungry,Home,Moderate,Normal,Comfortable,4,Break,No,None,66,40,Micro
+465,07-10-2025,23:10,23:23,13,Meeting,Passive,Easy,High,External,Notification,Digital,Medium,Stressed,Low,5.2,Just Ate,Lab,Moderate,Bright,Hot,6,Short Walk,No,Minor,44,54,Medium
+466,08-10-2025,13:48,13:57,9,Coding,High-Focus,Medium,Medium,External,Social Media Alert,Internet,High,Happy,High,6.2,Hungry,cafe,Moderate,Dim,Cold,16,Coffee,No,Major,20,34,Micro
+467,04-10-2025,21:04,21:20,16,Meeting,Repetitive,Hard,Medium,Internal,Phone Ping,Mental,High,Calm,Medium,5.2,Normal,Office,Loud,Normal,Comfortable,12,Coffee,Yes,Minor,37,56,Major
+468,10-10-2025,23:14,23:36,22,Writing,Creative,Medium,Medium,Internal,Daydreaming,Physical,Medium,Anxious,Low,6.7,Normal,Outdoors,Loud,Normal,Cold,5,Break,No,Minor,2,31,Major
+469,04-10-2025,08:39,08:54,15,Reading,Repetitive,Medium,Medium,Internal,Noise,Internet,Low,Anxious,Medium,4.9,Just Ate,Café,Moderate,Dim,Cold,15,Ignored Phone,No,Major,32,16,Medium
+470,04-10-2025,21:52,22:10,18,Browsing,Repetitive,Easy,Low,External,Notification,Internet,High,Stressed,Medium,3.8,Normal,Office,Quiet,Dim,Hot,9,Short Walk,Yes,Minor,13,27,Medium
+471,09-10-2025,18:02,18:21,19,Reading,High-Focus,Easy,Low,External,Boredom,Environment,Low,Happy,High,3.6,After Meal,Library,Loud,Normal,Cold,15,Break,Yes,Minor,55,34,Medium
+472,03-10-2025,13:29,13:41,12,Designing,High-Focus,Easy,Medium,External,Notification,Physical,Medium,Calm,High,5.6,Hungry,Library,Loud,Normal,Cold,8,Music,No,Moderate,93,44,Micro
+473,04-10-2025,21:08,21:14,6,Designing,Creative,Hard,Low,Internal,Fatigue,Internet,High,Bored,High,4.3,Caffeinated,Café,Quiet,Bright,Cold,6,Meditation,No,None,26,47,Micro
+474,06-10-2025,17:24,17:40,16,Coding,Repetitive,Hard,High,Internal,Social Media,Digital,Medium,Happy,High,3.2,Caffeinated,Office,Loud,Normal,Hot,6,Ignored Phone,Yes,None,18,26,Micro
+475,09-10-2025,16:05,16:06,1,Studying,High-Focus,Easy,Low,Internal,Boredom,Environment,Low,Calm,High,5.6,Hungry,Café,Quiet,Normal,Comfortable,15,Continued Task,No,None,48,30,Major
+476,08-10-2025,17:52,18:02,10,Meeting,Repetitive,Medium,Low,Internal,Notification,Colleague,Low,Bored,High,4.4,After Meal,Library,Moderate,Dim,Hot,10,Coffee,No,Major,12,35,Major
+477,09-10-2025,15:47,15:57,10,Writing,Repetitive,Medium,High,External,Multitasking,Environment,Medium,Calm,Low,7.9,Fasting,Home,Loud,Normal,Hot,10,Coffee,Yes,Major,41,53,Major
+478,04-10-2025,17:21,17:37,16,Meeting,High-Focus,Medium,High,External,Daydreaming,Internet,Low,Neutral,High,7.0,Just Ate,Library,Quiet,Normal,Hot,3,Coffee,Yes,Minor,12,44,Medium
+479,05-10-2025,20:45,20:49,4,Studying,Creative,Easy,High,External,Social Media,Physical,Low,Anxious,Low,10.0,Just Ate,Library,Quiet,Bright,Hot,8,Continued Task,Yes,Major,60,36,Medium
+480,09-10-2025,10:59,11:09,10,Writing,Repetitive,Hard,Low,Internal,Hunger,Physical,Medium,Neutral,High,5.1,After Meal,Home,Moderate,Normal,Comfortable,6,Music,No,None,73,4,Micro
+481,02-10-2025,19:09,19:16,7,Reading,Repetitive,Hard,High,Internal,Notification,Colleague,Low,Happy,High,10.5,Just Ate,Outdoors,Moderate,Normal,Cold,6,Continued Task,Yes,None,46,40,Micro
+482,09-10-2025,12:29,12:37,8,Meeting,High-Focus,Hard,Medium,External,Daydreaming,Noise,High,Anxious,Medium,6.3,Just Ate,Home,Loud,Normal,Hot,9,Coffee,Yes,Minor,55,22,Medium
+483,07-10-2025,08:22,08:31,9,Designing,Repetitive,Easy,High,Internal,Person Talking,Environment,Low,Neutral,High,7.2,Caffeinated,Home,Moderate,Dim,Hot,12,Continued Task,Yes,Minor,24,48,Micro
+484,08-10-2025,18:48,19:06,18,Meeting,High-Focus,Easy,Low,External,Phone Ping,Physical,Medium,Tired,Medium,6.9,After Meal,Outdoors,Quiet,Dim,Hot,5,Continued Task,Yes,Minor,32,30,Micro
+485,04-10-2025,11:13,11:30,17,Designing,Creative,Easy,Medium,External,Social Media,Self-thoughts,Low,Neutral,High,5.7,Caffeinated,Office,Loud,Dim,Hot,8,Ignored Phone,Yes,Major,52,60,Major
+486,11-10-2025,13:15,13:21,6,Designing,Passive,Hard,High,External,Hunger,Internet,Low,Anxious,Low,5.4,Normal,Home,Quiet,Dim,Hot,5,Meditation,Yes,None,35,15,Medium
+487,02-10-2025,17:33,17:39,6,Browsing,Creative,Medium,High,Internal,Phone Ping,Phone,Medium,Anxious,Low,10.6,Fasting,Home,Loud,Dim,Hot,2,Music,No,Minor,19,22,Major
+488,02-10-2025,17:13,17:27,14,Writing,Passive,Easy,High,External,Person Talking,Phone,Medium,Anxious,Low,6.6,Just Ate,Café,Loud,Normal,Cold,13,Ignored Phone,No,Major,12,42,Major
+489,10-10-2025,16:35,16:36,1,Meeting,Repetitive,Easy,Medium,Internal,Daydreaming,Digital,Medium,Tired,Low,5.3,Fasting,Home,Quiet,Normal,Cold,4,Continued Task,Yes,None,42,55,Major
+490,06-10-2025,12:45,12:50,5,Coding,Repetitive,Medium,High,Internal,Multitasking,Colleague,Medium,Stressed,Low,5.3,Caffeinated,Library,Quiet,Normal,Cold,12,Music,Yes,Minor,71,38,Major
+491,11-10-2025,15:16,15:29,13,Planning,Creative,Medium,High,Internal,Hunger,Environment,Low,Tired,Medium,7.5,Caffeinated,Office,Loud,Normal,Hot,11,Music,No,None,55,19,Micro
+492,07-10-2025,18:33,18:44,11,Coding,High-Focus,Medium,Medium,External,Noise,Noise,High,Anxious,Low,6.1,Just Ate,Outdoors,Loud,Bright,Comfortable,4,Short Walk,No,Minor,49,6,Medium
+493,08-10-2025,10:19,10:30,11,Designing,Creative,Medium,High,External,Phone Call,Internet,High,Stressed,Low,7.8,Hungry,Office,Quiet,Normal,Cold,9,Coffee,Yes,Minor,61,41,Medium
+494,05-10-2025,20:52,21:04,12,Designing,Creative,Easy,Medium,External,Hunger,Internet,Low,Neutral,Low,7.7,Caffeinated,Outdoors,Moderate,Dim,Cold,8,Break,Yes,Minor,42,31,Major
+495,09-10-2025,17:33,17:37,4,Meeting,Creative,Easy,High,External,Phone Call,Environment,Medium,Tired,High,8.4,After Meal,Office,Quiet,Bright,Cold,9,Music,Yes,None,40,14,Micro
+496,08-10-2025,19:46,19:48,2,Planning,Creative,Easy,Medium,Internal,Phone Ping,Environment,Medium,Neutral,Low,4.8,Hungry,Library,Moderate,Normal,Cold,2,Continued Task,No,None,82,19,Major
+497,06-10-2025,10:25,10:31,6,Writing,High-Focus,Easy,High,External,Hunger,Self-thoughts,High,Stressed,Low,7.6,Hungry,Home,Moderate,Bright,Comfortable,6,Meditation,No,Moderate,89,18,Major
+498,04-10-2025,21:43,21:58,15,Studying,High-Focus,Medium,Medium,External,Noise,Noise,Medium,Neutral,Low,6.6,After Meal,Office,Loud,Dim,Hot,5,Break,Yes,Moderate,46,28,Micro
+499,11-10-2025,09:15,09:25,10,Designing,Creative,Easy,High,External,Multitasking,Internet,Medium,Happy,High,7.2,Caffeinated,Home,Quiet,Bright,Comfortable,5,Meditation,Yes,Moderate,45,1,Micro
+500,03-10-2025,18:06,18:16,10,Writing,Creative,Hard,Medium,Internal,Multitasking,Colleague,High,Calm,Medium,6.7,Caffeinated,Outdoors,Loud,Dim,Hot,11,Ignored Phone,Yes,Moderate,87,39,Major
+501,10-10-2025,14:49,14:54,5,Browsing,Passive,Easy,High,External,Noise,Mental,High,Happy,Low,7.0,Caffeinated,Office,Loud,Dim,Hot,6,Short Walk,No,None,19,36,Medium
+502,05-10-2025,08:27,08:41,14,Designing,Creative,Medium,Medium,External,Hunger,Self-thoughts,High,Neutral,Medium,3.4,Just Ate,Outdoors,Loud,Dim,Cold,7,Continued Task,No,Major,46,20,Micro
+503,05-10-2025,12:25,12:32,7,Writing,High-Focus,Medium,High,External,Fatigue,Mental,Medium,Happy,High,6.8,Hungry,Lab,Loud,Dim,Hot,5,Music,Yes,Major,53,24,Medium
+504,06-10-2025,07:44,07:56,12,Meeting,Repetitive,Hard,Medium,Internal,Person Talking,Internet,High,Neutral,Low,7.2,Normal,Café,Quiet,Dim,Hot,9,Coffee,No,Minor,68,32,Medium
+505,07-10-2025,10:07,10:21,14,Planning,Repetitive,Easy,Medium,External,Notification,Environment,High,Neutral,Medium,8.0,Fasting,Lab,Moderate,Bright,Hot,10,Music,No,None,81,33,Micro
+506,07-10-2025,13:44,13:57,13,Writing,Repetitive,Hard,Low,Internal,Phone Call,Noise,Medium,Bored,High,4.2,Just Ate,Café,Moderate,Normal,Cold,12,Short Walk,No,None,19,14,Micro
+507,06-10-2025,13:03,13:16,13,Designing,Creative,Hard,High,External,Noise,Mental,Low,Happy,Medium,6.5,Caffeinated,Office,Loud,Normal,Comfortable,5,Music,Yes,Major,57,57,Medium
+508,04-10-2025,20:58,21:07,9,Meeting,High-Focus,Medium,Medium,Internal,Phone Ping,Mental,Medium,Bored,Medium,7.6,Hungry,Home,Loud,Normal,Comfortable,7,Music,Yes,Moderate,53,38,Micro
+509,11-10-2025,20:02,20:08,6,Studying,Creative,Easy,Medium,External,Boredom,Digital,Medium,Anxious,Low,5.6,Normal,Home,Loud,Bright,Cold,10,Coffee,No,None,59,7,Major
+510,09-10-2025,08:10,08:22,12,Studying,Creative,Medium,High,Internal,Boredom,Self-thoughts,Medium,Happy,Low,5.8,Normal,Office,Moderate,Bright,Cold,6,Continued Task,No,Major,36,29,Major
+511,10-10-2025,20:45,20:57,12,Studying,Passive,Medium,Low,External,Noise,Environment,Low,Stressed,High,4.6,Normal,Home,Moderate,Bright,Comfortable,12,Ignored Phone,No,Moderate,14,31,Medium
+512,11-10-2025,18:30,18:44,14,Designing,High-Focus,Easy,Low,Internal,Phone Call,Digital,High,Happy,Low,7.2,Just Ate,Office,Moderate,Bright,Cold,6,Meditation,Yes,Moderate,45,48,Major
+513,10-10-2025,08:09,08:17,8,Designing,Repetitive,Medium,High,Internal,Noise,Environment,Medium,Bored,Medium,5.6,Hungry,Café,Moderate,Dim,Comfortable,10,Ignored Phone,No,Minor,43,32,Major
+514,02-10-2025,13:03,13:19,16,Studying,Repetitive,Easy,Low,External,Person Talking,Physical,Low,Happy,Low,5.2,Fasting,Home,Loud,Normal,Comfortable,1,Continued Task,Yes,Minor,34,14,Major
+515,07-10-2025,06:31,06:42,11,Studying,Creative,Hard,Medium,External,Fatigue,Mental,Low,Happy,Low,6.0,Just Ate,Lab,Moderate,Bright,Comfortable,7,Music,Yes,Minor,43,32,Micro
+516,08-10-2025,12:08,12:20,12,Coding,Creative,Hard,Low,External,Person Talking,Mental,High,Happy,High,5.5,Fasting,cafe,Quiet,Normal,Hot,7,Music,Yes,None,34,20,Major
+517,10-10-2025,23:32,23:34,2,Studying,Creative,Medium,Low,Internal,Phone Ping,Noise,Medium,Stressed,Medium,4.6,Caffeinated,Café,Loud,Bright,Cold,8,Ignored Phone,Yes,Major,58,27,Micro
+518,04-10-2025,09:09,09:10,1,Writing,High-Focus,Medium,Medium,Internal,Notification,Colleague,High,Happy,Low,6.2,Just Ate,Café,Moderate,Normal,Hot,10,Continued Task,No,Minor,78,64,Major
+519,09-10-2025,19:33,19:40,7,Meeting,Repetitive,Easy,Low,External,Fatigue,Physical,Low,Neutral,Low,4.9,Just Ate,Outdoors,Quiet,Dim,Cold,6,Continued Task,Yes,Major,90,35,Medium
+520,10-10-2025,07:47,07:49,2,Meeting,Repetitive,Hard,Medium,External,Person Talking,Environment,Low,Bored,High,6.6,After Meal,Library,Quiet,Normal,Cold,6,Continued Task,No,Major,30,50,Micro
+521,02-10-2025,11:02,11:09,7,Reading,Creative,Hard,High,Internal,Noise,Self-thoughts,Low,Stressed,Medium,5.8,Just Ate,Café,Moderate,Dim,Cold,6,Ignored Phone,Yes,Major,17,52,Micro
+522,08-10-2025,06:14,06:29,15,Coding,High-Focus,Hard,Low,Internal,Boredom,Colleague,Medium,Stressed,High,5.1,Caffeinated,Library,Loud,Dim,Hot,3,Continued Task,No,Minor,9,23,Micro
+523,11-10-2025,16:03,16:04,1,Writing,High-Focus,Hard,Medium,External,Noise,Internet,Medium,Happy,High,4.5,Just Ate,Home,Quiet,Normal,Hot,5,Continued Task,Yes,Major,0,4,Micro
+524,10-10-2025,09:10,09:12,2,Coding,Repetitive,Easy,Medium,External,Boredom,Physical,High,Happy,High,5.8,Caffeinated,Home,Quiet,Bright,Cold,6,Meditation,No,Minor,9,23,Medium
+525,02-10-2025,07:21,07:36,15,Coding,Creative,Medium,Medium,Internal,Person Talking,Colleague,High,Happy,High,7.9,Just Ate,Outdoors,Quiet,Normal,Cold,1,Music,No,None,63,10,Micro
+526,11-10-2025,08:19,08:33,14,Coding,Passive,Easy,High,External,Phone Call,Internet,Medium,Happy,Low,6.2,Caffeinated,Café,Moderate,Dim,Hot,1,Meditation,No,Moderate,53,47,Micro
+527,08-10-2025,07:35,07:36,1,Coding,High-Focus,Easy,Medium,Internal,Boredom,Noise,Low,Happy,Medium,6.3,Hungry,cafe,Moderate,Dim,Hot,8,Ignored Phone,No,Minor,12,25,Medium
+528,11-10-2025,08:53,09:00,7,Reading,Repetitive,Medium,Low,Internal,Multitasking,Noise,High,Neutral,Low,5.1,Hungry,cafe,Moderate,Bright,Hot,5,Coffee,No,Minor,91,35,Micro
+529,07-10-2025,10:40,10:48,8,Writing,High-Focus,Medium,High,External,Social Media,Physical,High,Happy,Medium,6.0,Caffeinated,Outdoors,Loud,Dim,Cold,11,Coffee,No,None,70,29,Major
+530,04-10-2025,21:05,21:14,9,Reading,Passive,Hard,High,External,Noise,Environment,Medium,Bored,Medium,3.8,Just Ate,Café,Loud,Normal,Cold,5,Music,Yes,Minor,26,1,Micro
+531,11-10-2025,08:17,08:18,1,Designing,Repetitive,Easy,Medium,Internal,Boredom,Self-thoughts,Low,Tired,Medium,6.8,Just Ate,Lab,Loud,Normal,Hot,9,Continued Task,Yes,Major,17,24,Micro
+532,03-10-2025,15:38,15:46,8,Studying,Creative,Easy,High,External,Person Talking,Roommate Noise,Low,Tired,Low,5.4,Just Ate,Outdoors,Loud,Dim,Comfortable,1,Music,No,Major,37,27,Major
+533,11-10-2025,12:58,13:12,14,Coding,Repetitive,Medium,Low,External,Daydreaming,Physical,Medium,Tired,Low,8.2,Just Ate,Café,Moderate,Dim,Hot,1,Music,No,Major,37,18,Major
+534,06-10-2025,07:48,08:02,14,Planning,Passive,Hard,Medium,External,Phone Ping,Environment,Low,Calm,Low,6.4,Caffeinated,Café,Loud,Dim,Hot,6,Meditation,No,Minor,37,35,Micro
+535,10-10-2025,08:37,08:46,9,Studying,Repetitive,Hard,Medium,Internal,Notification,Mental,Low,Bored,Medium,6.1,Caffeinated,Café,Loud,Dim,Comfortable,8,Break,No,Minor,12,22,Medium
+536,06-10-2025,18:13,18:30,17,Designing,Passive,Medium,Low,External,Phone Call,Noise,Low,Calm,Low,5.5,Hungry,Home,Moderate,Bright,Comfortable,5,Short Walk,Yes,Minor,0,25,Medium
+537,10-10-2025,13:52,13:58,6,Designing,Passive,Easy,Low,External,Phone Call,Phone,High,Anxious,High,3.2,Caffeinated,Office,Moderate,Dim,Comfortable,11,Break,Yes,None,59,21,Medium
+538,09-10-2025,06:55,07:10,15,Reading,Passive,Easy,Low,External,Phone Call,Noise,High,Tired,Low,3.2,Caffeinated,Office,Quiet,Dim,Cold,10,Short Walk,Yes,Moderate,103,63,Micro
+539,04-10-2025,13:07,13:24,17,Coding,Repetitive,Easy,Medium,External,Daydreaming,Self-thoughts,High,Calm,High,5.6,Hungry,Lab,Loud,Bright,Cold,6,Break,No,None,3,48,Micro
+540,05-10-2025,10:26,10:48,22,Writing,High-Focus,Easy,Medium,External,Person Talking,Digital,Medium,Happy,High,5.6,Caffeinated,Library,Loud,Normal,Hot,2,Short Walk,Yes,Major,82,46,Micro
+541,09-10-2025,14:01,14:02,1,Writing,Repetitive,Hard,Medium,External,Social Media,Digital,High,Calm,Medium,5.0,Caffeinated,Outdoors,Loud,Normal,Comfortable,11,Coffee,No,Minor,26,19,Major
+542,05-10-2025,15:59,16:09,10,Coding,Repetitive,Medium,Medium,Internal,Boredom,Mental,Medium,Stressed,Low,7.0,Caffeinated,Library,Quiet,Normal,Comfortable,1,Coffee,No,Minor,79,25,Medium
+543,11-10-2025,09:42,09:48,6,Meeting,Passive,Hard,Low,External,Fatigue,Colleague,Medium,Happy,Low,5.5,Normal,cafe,Moderate,Dim,Cold,1,Break,Yes,Minor,41,12,Medium
+544,11-10-2025,22:43,22:47,4,Writing,Creative,Medium,High,Internal,Noise,Physical,Low,Happy,Medium,5.1,Fasting,Outdoors,Loud,Dim,Hot,10,Coffee,No,None,28,32,Micro
+545,05-10-2025,12:48,12:56,8,Reading,Creative,Medium,Low,Internal,Phone Ping,Phone,High,Neutral,Low,5.6,Just Ate,Office,Moderate,Dim,Comfortable,7,Ignored Phone,No,Major,35,45,Major
+546,11-10-2025,20:36,20:53,17,Writing,Creative,Easy,High,External,Notification,Colleague,Medium,Calm,Medium,7.7,Caffeinated,Café,Quiet,Bright,Cold,16,Break,No,Major,54,36,Medium
+547,06-10-2025,12:49,13:01,12,Studying,High-Focus,Easy,Low,External,Phone Call,Noise,Medium,Calm,High,7.3,Just Ate,Café,Loud,Dim,Hot,2,Break,Yes,Minor,23,45,Micro
+548,05-10-2025,18:54,18:58,4,Reading,High-Focus,Medium,High,External,Phone Ping,Digital,High,Happy,Medium,6.2,After Meal,Home,Loud,Dim,Cold,2,Music,Yes,Moderate,23,52,Medium
+549,10-10-2025,07:15,07:28,13,Meeting,High-Focus,Hard,Low,External,Notification,Mental,Medium,Neutral,Low,3.4,Caffeinated,Library,Loud,Normal,Hot,5,Coffee,No,Minor,49,54,Major
+550,05-10-2025,16:10,16:31,21,Studying,Passive,Medium,Medium,Internal,Phone Ping,Noise,High,Bored,High,5.5,Hungry,Lab,Quiet,Bright,Cold,8,Coffee,No,Major,56,44,Medium
+551,02-10-2025,19:58,20:10,12,Meeting,Repetitive,Medium,Medium,External,Phone Call,Environment,High,Calm,Low,5.1,Hungry,Lab,Quiet,Normal,Comfortable,15,Music,Yes,Major,18,42,Medium
+552,04-10-2025,07:30,07:37,7,Meeting,High-Focus,Easy,Medium,External,Notification,Roommate Noise,Medium,Calm,Medium,6.5,After Meal,Lab,Loud,Dim,Comfortable,1,Continued Task,Yes,None,5,31,Medium
+553,02-10-2025,07:49,08:01,12,Writing,Creative,Hard,Medium,Internal,Fatigue,Noise,Low,Happy,High,5.0,Just Ate,Home,Moderate,Bright,Hot,2,Continued Task,Yes,Minor,16,14,Micro
+554,09-10-2025,20:54,21:09,15,Coding,High-Focus,Medium,High,Internal,Phone Ping,Mental,High,Bored,High,5.6,Normal,Office,Loud,Bright,Comfortable,1,Break,Yes,Moderate,69,24,Medium
+555,03-10-2025,23:27,23:28,1,Meeting,High-Focus,Easy,Medium,Internal,Multitasking,Internet,Low,Calm,High,7.4,Just Ate,Home,Quiet,Bright,Cold,13,Music,Yes,Major,49,35,Medium
+556,02-10-2025,12:14,12:17,3,Planning,High-Focus,Medium,Medium,External,Phone Ping,Colleague,High,Stressed,Low,6.5,Fasting,Home,Moderate,Normal,Cold,7,Continued Task,Yes,None,39,40,Micro
+557,10-10-2025,12:22,12:30,8,Planning,High-Focus,Easy,High,External,Daydreaming,Physical,Low,Bored,High,8.3,After Meal,Outdoors,Moderate,Normal,Hot,16,Continued Task,Yes,Moderate,75,32,Medium
+558,02-10-2025,20:37,20:48,11,Meeting,High-Focus,Medium,Low,External,Noise,Physical,High,Happy,Medium,6.5,After Meal,Café,Moderate,Normal,Comfortable,9,Ignored Phone,No,Moderate,61,47,Micro
+559,02-10-2025,20:54,20:59,5,Reading,Creative,Medium,Medium,External,Hunger,Noise,Low,Stressed,Medium,8.7,Just Ate,Home,Loud,Dim,Cold,5,Meditation,Yes,Minor,80,43,Major
+560,07-10-2025,13:33,13:44,11,Meeting,High-Focus,Easy,Medium,Internal,Hunger,Colleague,Low,Happy,High,7.2,Caffeinated,Home,Moderate,Bright,Comfortable,8,Music,No,Moderate,22,7,Major
+561,08-10-2025,13:05,13:22,17,Writing,Creative,Easy,Low,External,Boredom,Internet,High,Happy,Low,6.1,Caffeinated,Library,Moderate,Dim,Hot,8,Music,No,Major,51,41,Medium
+562,09-10-2025,17:56,18:03,7,Meeting,High-Focus,Easy,High,Internal,Phone Ping,Colleague,Medium,Happy,Medium,7.9,After Meal,Outdoors,Loud,Normal,Hot,1,Short Walk,No,Minor,69,49,Micro
+563,10-10-2025,06:33,06:41,8,Writing,Passive,Easy,Medium,External,Daydreaming,Noise,Medium,Calm,Low,7.2,Caffeinated,Lab,Moderate,Normal,Hot,3,Continued Task,No,Minor,98,37,Major
+564,07-10-2025,11:46,11:55,9,Writing,Creative,Medium,Medium,External,Noise,Mental,Low,Happy,High,5.3,Hungry,Lab,Quiet,Dim,Comfortable,1,Coffee,Yes,Major,69,1,Medium
+565,08-10-2025,16:04,16:11,7,Reading,Repetitive,Easy,Low,Internal,Boredom,Self-thoughts,High,Stressed,High,6.4,Hungry,Library,Moderate,Normal,Cold,14,Continued Task,No,Major,69,47,Micro
+566,06-10-2025,06:33,06:37,4,Planning,Passive,Medium,Low,External,Noise,Environment,Low,Neutral,High,3.0,Just Ate,Library,Moderate,Normal,Comfortable,6,Music,No,Major,27,25,Micro
+567,02-10-2025,08:18,08:25,7,Studying,Creative,Hard,Medium,External,Noise,Digital,Low,Neutral,Low,4.4,Fasting,Home,Loud,Normal,Comfortable,1,Break,No,Moderate,19,14,Medium
+568,02-10-2025,08:36,08:43,7,Studying,Creative,Hard,Low,Internal,Notification,Phone,Medium,Stressed,Medium,4.6,Just Ate,Home,Quiet,Normal,Cold,5,Ignored Phone,No,Minor,0,27,Major
+569,08-10-2025,21:44,21:46,2,Coding,Creative,Medium,Medium,Internal,Social Media,Self-thoughts,High,Anxious,Low,5.5,Hungry,Lab,Moderate,Bright,Comfortable,3,Coffee,No,Moderate,79,55,Micro
+570,04-10-2025,22:11,22:19,8,Designing,Repetitive,Medium,Low,Internal,Fatigue,Phone,Low,Stressed,High,4.5,Caffeinated,Café,Moderate,Bright,Cold,12,Music,No,None,46,47,Major
+571,08-10-2025,06:49,06:55,6,Designing,Creative,Easy,Medium,External,Phone Call,Noise,High,Tired,Low,5.3,Fasting,Outdoors,Moderate,Normal,Cold,5,Music,Yes,Major,16,32,Micro
+572,08-10-2025,22:24,22:37,13,Designing,Passive,Medium,High,External,Daydreaming,Noise,High,Neutral,High,6.8,Hungry,Library,Moderate,Normal,Hot,9,Ignored Phone,No,None,50,39,Micro
+573,02-10-2025,12:12,12:23,11,Coding,Repetitive,Easy,Medium,Internal,Fatigue,Digital,High,Stressed,Medium,7.3,Caffeinated,Office,Quiet,Normal,Cold,6,Ignored Phone,Yes,None,153,33,Medium
+574,05-10-2025,21:44,21:54,10,Designing,Passive,Hard,Medium,Internal,Social Media,Digital,Low,Stressed,Medium,6.3,Caffeinated,Lab,Loud,Dim,Hot,6,Coffee,No,None,42,24,Micro
+575,10-10-2025,07:18,07:43,25,Writing,Repetitive,Medium,Low,External,Daydreaming,Self-thoughts,Low,Neutral,High,5.2,Hungry,Library,Quiet,Bright,Cold,6,Ignored Phone,Yes,Minor,0,79,Medium
+576,10-10-2025,16:28,16:38,10,Writing,Repetitive,Easy,Medium,External,Phone Ping,Physical,High,Neutral,Low,6.5,Caffeinated,Office,Loud,Normal,Comfortable,8,Coffee,Yes,Major,49,34,Major
+577,07-10-2025,21:40,21:52,12,Meeting,Repetitive,Hard,Low,Internal,Phone Call,Environment,Low,Neutral,Low,6.7,Caffeinated,cafe,Quiet,Bright,Comfortable,9,Music,Yes,Minor,40,38,Medium
+578,04-10-2025,15:30,15:45,15,Writing,Passive,Easy,High,External,Notification,Environment,Low,Stressed,High,5.8,Fasting,Outdoors,Quiet,Dim,Hot,4,Meditation,Yes,Major,64,45,Major
+579,10-10-2025,09:46,09:56,10,Writing,High-Focus,Easy,Medium,Internal,Person Talking,Physical,Low,Happy,Medium,5.1,Fasting,Café,Loud,Normal,Cold,4,Short Walk,Yes,Minor,20,30,Medium
+580,10-10-2025,23:22,23:27,5,Browsing,Creative,Easy,Low,External,Fatigue,Noise,Low,Neutral,High,8.9,Hungry,Library,Quiet,Bright,Hot,11,Coffee,No,Minor,48,24,Micro
+581,05-10-2025,08:31,08:33,2,Browsing,High-Focus,Hard,Medium,Internal,Noise,Mental,Medium,Stressed,High,6.9,Caffeinated,Lab,Loud,Normal,Hot,1,Short Walk,No,Moderate,60,34,Major
+582,07-10-2025,06:38,06:43,5,Studying,Repetitive,Easy,High,Internal,Phone Ping,Environment,Medium,Tired,Medium,6.4,Fasting,Library,Loud,Normal,Cold,13,Short Walk,No,None,23,22,Major
+583,10-10-2025,15:35,15:43,8,Meeting,Repetitive,Easy,High,External,Notification,Noise,Medium,Anxious,Low,4.2,Fasting,cafe,Moderate,Bright,Cold,8,Music,Yes,Minor,35,40,Major
+584,03-10-2025,17:13,17:31,18,Writing,High-Focus,Medium,High,External,Phone Ping,Phone,Medium,Anxious,High,7.8,Fasting,Café,Moderate,Dim,Cold,13,Coffee,Yes,Minor,21,45,Major
+585,10-10-2025,19:16,19:19,3,Coding,Repetitive,Hard,High,Internal,Phone Ping,Colleague,Low,Happy,Low,3.0,Normal,Lab,Moderate,Bright,Cold,3,Ignored Phone,No,Major,23,31,Micro
+586,10-10-2025,13:41,13:49,8,Planning,High-Focus,Medium,Low,External,Social Media,Colleague,Low,Happy,Low,5.8,Just Ate,Library,Quiet,Dim,Hot,5,Meditation,Yes,Major,95,38,Medium
+587,10-10-2025,12:14,12:24,10,Studying,Creative,Hard,Medium,External,Phone Ping,Internet,Low,Neutral,Medium,7.5,Fasting,cafe,Loud,Dim,Hot,8,Continued Task,Yes,Major,33,29,Major
+588,04-10-2025,07:07,07:20,13,Reading,High-Focus,Easy,High,External,Social Media,Digital,High,Anxious,Medium,8.9,After Meal,Library,Loud,Normal,Comfortable,6,Ignored Phone,No,Minor,0,15,Medium
+589,07-10-2025,16:16,16:26,10,Reading,Passive,Hard,High,Internal,Multitasking,Internet,High,Stressed,Low,4.4,Hungry,Home,Quiet,Dim,Cold,12,Meditation,No,Major,60,32,Micro
+590,04-10-2025,09:43,09:51,8,Designing,Passive,Hard,High,Internal,Boredom,Environment,Low,Happy,Low,3.0,Caffeinated,Library,Moderate,Normal,Hot,1,Meditation,No,None,49,45,Major
+591,07-10-2025,15:25,15:38,13,Studying,Creative,Medium,Low,Internal,Phone Call,Self-thoughts,High,Neutral,Medium,5.8,Just Ate,Office,Quiet,Dim,Cold,6,Music,Yes,Major,50,38,Major
+592,02-10-2025,19:07,19:14,7,Studying,Repetitive,Hard,Medium,External,Phone Ping,Self-thoughts,High,Happy,High,4.0,Caffeinated,Home,Quiet,Dim,Hot,1,Break,No,Minor,65,12,Medium
+593,05-10-2025,07:47,07:55,8,Coding,Repetitive,Medium,Low,External,Boredom,Colleague,High,Neutral,Medium,8.8,Caffeinated,Home,Quiet,Normal,Comfortable,2,Short Walk,Yes,Major,8,31,Major
+594,11-10-2025,08:53,08:57,4,Writing,Creative,Medium,High,External,Daydreaming,Physical,Medium,Stressed,Low,5.6,Caffeinated,Outdoors,Moderate,Bright,Hot,5,Ignored Phone,Yes,Moderate,35,7,Major
+595,06-10-2025,16:00,16:11,11,Coding,High-Focus,Medium,Medium,External,Hunger,Environment,High,Calm,Low,7.4,Caffeinated,Library,Quiet,Bright,Cold,4,Short Walk,Yes,Minor,36,7,Medium
+596,03-10-2025,11:23,11:34,11,Meeting,High-Focus,Medium,High,Internal,Phone Ping,Physical,Low,Neutral,High,7.1,Normal,Outdoors,Quiet,Normal,Cold,9,Coffee,Yes,Minor,62,16,Micro
+597,03-10-2025,13:43,13:51,8,Meeting,Creative,Medium,Medium,External,Phone Call,Digital,Medium,Bored,Low,7.2,Fasting,Outdoors,Quiet,Normal,Hot,16,Coffee,No,Minor,68,42,Major
+598,04-10-2025,07:53,08:05,12,Writing,High-Focus,Easy,Medium,External,Daydreaming,Self-thoughts,Medium,Calm,Low,3.7,Hungry,Library,Quiet,Dim,Comfortable,9,Meditation,Yes,Minor,26,25,Micro
+599,06-10-2025,18:20,18:33,13,Reading,High-Focus,Medium,Medium,Internal,Phone Call,Digital,Medium,Calm,Medium,7.0,Hungry,Café,Quiet,Bright,Hot,6,Continued Task,Yes,None,44,32,Medium
+600,02-10-2025,09:44,09:56,12,Meeting,Passive,Easy,High,External,Notification,Mental,High,Stressed,Medium,3.4,After Meal,Home,Loud,Bright,Comfortable,7,Continued Task,Yes,Minor,32,22,Medium
+601,03-10-2025,11:16,11:24,8,Meeting,Creative,Hard,High,External,Noise,Mental,Medium,Bored,Low,7.9,Caffeinated,cafe,Loud,Normal,Hot,4,Short Walk,No,None,59,30,Medium
+602,04-10-2025,14:00,14:12,12,Meeting,High-Focus,Easy,High,External,Phone Call,Phone,Medium,Neutral,Low,8.4,Hungry,Library,Moderate,Normal,Hot,10,Coffee,Yes,Major,43,34,Major
+603,08-10-2025,14:05,14:17,12,Coding,High-Focus,Easy,Medium,Internal,Social Media,Self-thoughts,High,Calm,High,7.1,After Meal,Home,Loud,Bright,Hot,7,Break,Yes,Minor,45,7,Medium
+604,07-10-2025,12:16,12:37,21,Coding,High-Focus,Hard,Low,Internal,Boredom,Phone,Low,Happy,High,4.8,Normal,Café,Loud,Dim,Hot,13,Music,No,Major,40,25,Major
+605,08-10-2025,18:12,18:19,7,Planning,Repetitive,Easy,Low,External,Notification,Mental,High,Bored,High,7.4,Caffeinated,Outdoors,Moderate,Dim,Cold,13,Ignored Phone,Yes,None,48,34,Micro
+606,11-10-2025,19:20,19:30,10,Reading,Creative,Easy,Medium,Internal,Boredom,Phone,Low,Calm,High,7.8,Normal,Outdoors,Moderate,Bright,Cold,7,Ignored Phone,No,Minor,77,27,Micro
+607,05-10-2025,17:51,18:03,12,Writing,Creative,Medium,Low,Internal,Boredom,Colleague,Medium,Happy,High,5.0,Hungry,Café,Moderate,Dim,Cold,12,Coffee,No,None,12,21,Major
+608,04-10-2025,22:52,22:57,5,Meeting,Creative,Easy,High,Internal,Boredom,Noise,High,Neutral,Medium,6.6,After Meal,Home,Quiet,Normal,Comfortable,11,Coffee,Yes,Major,55,4,Micro
+609,10-10-2025,22:59,23:10,11,Browsing,High-Focus,Hard,Low,Internal,Hunger,Noise,High,Neutral,High,5.6,Just Ate,Lab,Loud,Dim,Hot,6,Coffee,No,Minor,43,37,Major
+610,06-10-2025,09:23,09:32,9,Browsing,Passive,Easy,Medium,Internal,Multitasking,Digital,High,Neutral,High,3.6,Caffeinated,Office,Moderate,Bright,Cold,8,Ignored Phone,Yes,Moderate,44,35,Major
+611,04-10-2025,16:29,16:45,16,Designing,High-Focus,Easy,High,External,Phone Call,Internet,Low,Bored,Medium,8.3,Caffeinated,Home,Loud,Bright,Cold,6,Music,Yes,Moderate,0,31,Major
+612,03-10-2025,21:03,21:24,21,Designing,Creative,Hard,High,External,Person Talking,Phone,Medium,Happy,Low,6.6,After Meal,Library,Quiet,Dim,Comfortable,9,Ignored Phone,Yes,None,26,38,Micro
+613,04-10-2025,12:49,13:03,14,Meeting,High-Focus,Medium,High,Internal,Notification,Internet,Medium,Neutral,Medium,8.9,Caffeinated,Café,Moderate,Normal,Comfortable,1,Ignored Phone,No,Minor,91,40,Major
+614,07-10-2025,11:33,11:43,10,Reading,Passive,Medium,Medium,External,Phone Ping,Physical,Medium,Stressed,Medium,4.8,After Meal,Home,Quiet,Bright,Comfortable,4,Short Walk,Yes,Major,73,22,Major
+615,03-10-2025,20:04,20:26,22,Studying,Repetitive,Hard,High,External,Phone Call,Mental,Low,Anxious,High,4.7,Caffeinated,Lab,Loud,Normal,Comfortable,11,Ignored Phone,No,None,10,63,Major
+616,05-10-2025,17:33,17:48,15,Reading,Repetitive,Medium,High,External,Multitasking,Internet,High,Calm,High,5.6,After Meal,cafe,Loud,Normal,Hot,6,Break,Yes,None,43,40,Micro
+617,11-10-2025,10:24,10:37,13,Coding,High-Focus,Easy,Medium,Internal,Fatigue,Physical,Medium,Anxious,High,8.5,Fasting,Café,Quiet,Dim,Hot,1,Meditation,Yes,Moderate,21,34,Major
+618,07-10-2025,17:39,17:50,11,Reading,High-Focus,Medium,Low,Internal,Hunger,Phone,High,Neutral,Medium,5.3,Caffeinated,Office,Loud,Bright,Cold,8,Meditation,No,Minor,39,22,Micro
+619,10-10-2025,15:15,15:23,8,Writing,Passive,Hard,Low,External,Notification,Physical,Low,Neutral,Low,4.2,Fasting,Office,Moderate,Bright,Cold,7,Meditation,No,Minor,24,44,Major
+620,11-10-2025,16:34,16:49,15,Designing,High-Focus,Medium,Low,Internal,Hunger,Environment,Medium,Stressed,High,5.5,Hungry,Café,Quiet,Dim,Comfortable,6,Break,Yes,None,20,33,Major
+621,12-10-2025,08:58,09:05,7,Planning,Creative,Medium,Low,External,Random Thought,Pet,Low,Bored,High,4.5,After Meal,Library,Moderate,Normal,Hot,4,Meditation,Yes,Minor,20,39,Major
+622,21-10-2025,12:19,12:20,1,Reading,Passive,Hard,Medium,Internal,Notification,Environment,High,Tired,Low,8.6,Fasting,Office,Loud,Normal,Cold,10,Continued Task,Yes,Minor,79,58,Major
+623,14-10-2025,07:28,07:30,2,Browsing,Creative,Hard,High,External,Boredom,Phone,Medium,Tired,Low,6.3,Hungry,Lab,Loud,Normal,Hot,10,Break,Yes,Minor,0,32,Micro
+624,12-10-2025,17:23,17:32,9,Designing,Repetitive,Medium,Low,Internal,Multitasking,Colleague,High,Calm,Medium,7.4,Normal,Outdoors,Moderate,Dim,Comfortable,2,Music,No,Minor,0,67,Medium
+625,21-10-2025,15:11,15:23,12,Studying,Repetitive,Easy,Low,External,Multitasking,Physical,Medium,Stressed,Medium,6.4,After Meal,Outdoors,Quiet,Bright,Hot,3,Coffee,No,Minor,99,23,Major
+626,18-10-2025,22:54,23:09,15,Meeting,Creative,Hard,Low,Internal,Notification,Noise,High,Stressed,High,5.4,After Meal,Café,Quiet,Normal,Comfortable,12,Coffee,No,Major,41,48,Medium
+627,15-10-2025,10:14,10:22,8,Planning,Repetitive,Easy,Medium,Internal,Daydreaming,Environment,Medium,Bored,Medium,7.9,Just Ate,Library,Quiet,Bright,Hot,12,Meditation,No,Minor,0,22,Medium
+628,14-10-2025,18:15,18:26,11,Studying,Repetitive,Medium,Medium,External,Social Media,Internet,Low,Neutral,Medium,3.0,Normal,Home,Moderate,Normal,Cold,11,Continued Task,Yes,Major,54,36,Medium
+629,21-10-2025,22:44,22:53,9,Coding,Repetitive,Medium,Low,Internal,Boredom,Background Music,High,Calm,Low,3.9,Caffeinated,Office,Moderate,Bright,Comfortable,10,Short Walk,No,Minor,129,1,Major
+630,23-10-2025,13:23,13:37,14,Reading,High-Focus,Easy,Low,External,Random Thought,Environment,High,Neutral,Medium,6.9,After Meal,Outdoors,Moderate,Bright,Cold,5,Coffee,Yes,Minor,106,7,Major
+631,15-10-2025,14:58,15:09,11,Coding,Passive,Easy,High,Internal,Phone Call,Mental,High,Tired,Medium,9.0,Just Ate,Outdoors,Quiet,Bright,Comfortable,17,Meditation,Yes,None,70,61,Medium
+632,18-10-2025,20:09,20:13,4,Reading,High-Focus,Easy,Low,Internal,Hunger,Environment,High,Happy,High,6.4,After Meal,Home,Quiet,Normal,Hot,1,Music,Yes,Major,0,16,Micro
+633,18-10-2025,07:56,08:17,21,Reading,Passive,Medium,Low,External,Hunger,Colleague,High,Happy,Medium,6.1,Caffeinated,Office,Loud,Normal,Hot,5,Break,No,Moderate,76,33,Medium
+634,16-10-2025,15:32,15:41,9,Writing,Creative,Easy,Medium,Internal,Daydreaming,Roommate Noise,High,Tired,Medium,3.0,After Meal,cafe,Loud,Normal,Cold,2,Coffee,Yes,Major,114,28,Major
+635,20-10-2025,16:45,16:54,9,Designing,Repetitive,Medium,High,External,Person Talking,Roommate Noise,Low,Bored,High,5.7,Fasting,Outdoors,Quiet,Dim,Cold,5,Meditation,Yes,Minor,49,1,Micro
+636,12-10-2025,11:07,11:20,13,Designing,Repetitive,Easy,Medium,External,Phone Call,Digital,Medium,Calm,Low,4.2,Fasting,Library,Quiet,Bright,Comfortable,1,Break,No,Major,98,18,Major
+637,22-10-2025,12:17,12:18,1,Coding,Passive,Hard,Medium,External,Multitasking,Colleague,Medium,Tired,High,7.0,Fasting,Outdoors,Quiet,Bright,Comfortable,6,Coffee,Yes,Moderate,66,52,Medium
+638,21-10-2025,09:01,09:21,20,Designing,Repetitive,Hard,Low,External,Fatigue,Environment,Low,Anxious,Low,3.9,Normal,Office,Loud,Dim,Comfortable,1,Short Walk,No,Moderate,80,29,Medium
+639,25-10-2025,21:05,21:17,12,Reading,Passive,Hard,High,Internal,Social Media Alert,Environment,Low,Bored,Medium,6.1,Just Ate,Home,Loud,Bright,Comfortable,16,Short Walk,No,Minor,49,1,Medium
+640,12-10-2025,18:50,19:05,15,Coding,Repetitive,Easy,High,Internal,Random Thought,Digital,Low,Bored,Medium,6.3,Normal,Café,Moderate,Bright,Cold,8,Short Walk,Yes,Minor,25,50,Major
+641,18-10-2025,09:22,09:39,17,Browsing,Repetitive,Easy,Low,Internal,Random Thought,Phone,High,Calm,Medium,3.0,Caffeinated,Café,Moderate,Bright,Hot,1,Break,Yes,Major,60,42,Micro
+642,25-10-2025,20:05,20:16,11,Planning,High-Focus,Medium,High,External,Multitasking,Roommate Noise,Low,Happy,Low,6.0,Hungry,Café,Quiet,Bright,Hot,7,Short Walk,No,Major,85,31,Micro
+643,17-10-2025,17:27,17:38,11,Studying,Passive,Hard,Low,External,Phone Call,Phone,Low,Calm,Low,3.4,Normal,cafe,Loud,Normal,Cold,3,Break,Yes,Minor,53,14,Medium
+644,18-10-2025,10:52,11:11,19,Reading,Creative,Medium,High,Internal,Slack Notification,Phone,High,Anxious,Low,7.5,Fasting,Home,Loud,Dim,Cold,15,Continued Task,No,None,59,14,Major
+645,14-10-2025,19:32,19:37,5,Designing,Passive,Easy,Medium,External,Fatigue,Colleague,High,Tired,Low,3.3,Fasting,Library,Loud,Bright,Comfortable,7,Continued Task,Yes,None,0,66,Micro
+646,17-10-2025,06:39,06:44,5,Planning,Repetitive,Medium,Medium,External,Phone Call,Self-thoughts,Medium,Anxious,High,5.8,Normal,Lab,Loud,Bright,Hot,3,Ignored Phone,Yes,None,94,30,Micro
+647,21-10-2025,21:01,21:12,11,Designing,Passive,Easy,Low,External,Notification,Phone,Medium,Happy,Medium,3.8,Caffeinated,Home,Moderate,Bright,Hot,3,Ignored Phone,No,Major,45,52,Major
+648,20-10-2025,20:51,21:13,22,Coding,Passive,Hard,Low,Internal,Notification,Background Music,High,Calm,Low,4.9,Normal,Café,Moderate,Bright,Comfortable,7,Continued Task,Yes,None,28,42,Micro
+649,22-10-2025,23:06,23:14,8,Planning,Repetitive,Medium,Medium,External,Notification,Digital,High,Happy,Medium,6.4,Caffeinated,Outdoors,Loud,Bright,Cold,1,Continued Task,No,Minor,84,52,Major
+650,22-10-2025,08:07,08:17,10,Browsing,Creative,Medium,High,External,Hunger,Roommate Noise,High,Neutral,Low,4.2,Normal,Office,Moderate,Normal,Cold,1,Coffee,Yes,Minor,71,39,Medium
+651,23-10-2025,23:22,23:25,3,Studying,Passive,Medium,Low,Internal,Person Talking,Self-thoughts,Low,Calm,Low,4.6,After Meal,Home,Loud,Dim,Hot,14,Meditation,Yes,None,69,49,Micro
+652,13-10-2025,17:17,17:25,8,Studying,Repetitive,Medium,Medium,Internal,Social Media,Environment,High,Calm,High,6.3,Normal,cafe,Moderate,Bright,Cold,10,Continued Task,No,None,27,27,Micro
+653,13-10-2025,15:18,15:25,7,Writing,Passive,Hard,Low,External,Phone Ping,Colleague,Medium,Anxious,Low,7.0,Normal,Café,Loud,Bright,Hot,8,Coffee,Yes,Minor,10,22,Micro
+654,14-10-2025,07:18,07:31,13,Reading,Repetitive,Easy,Medium,Internal,Slack Notification,Noise,Medium,Happy,Medium,7.2,Hungry,Home,Loud,Normal,Cold,1,Coffee,Yes,None,0,43,Medium
+655,15-10-2025,13:34,13:44,10,Writing,Creative,Easy,High,External,Social Media Alert,Background Music,Low,Happy,High,7.0,Just Ate,Lab,Moderate,Dim,Comfortable,11,Coffee,Yes,Major,95,15,Micro
+656,21-10-2025,10:39,10:49,10,Coding,Repetitive,Easy,Low,External,Phone Ping,Roommate Noise,Low,Calm,Medium,5.0,After Meal,Lab,Moderate,Bright,Cold,8,Coffee,No,Moderate,78,4,Micro
+657,24-10-2025,11:05,11:13,8,Reading,High-Focus,Easy,Medium,Internal,Phone Vibration,Noise,Medium,Bored,High,7.3,Normal,cafe,Loud,Normal,Comfortable,3,Break,Yes,Major,19,37,Major
+658,23-10-2025,10:35,10:44,9,Browsing,Passive,Hard,High,Internal,Fatigue,Noise,Low,Bored,Medium,7.7,Hungry,Office,Quiet,Normal,Hot,6,Continued Task,Yes,None,30,29,Medium
+659,13-10-2025,19:22,19:32,10,Browsing,High-Focus,Hard,Low,External,Daydreaming,Background Music,Medium,Tired,Low,4.6,Just Ate,Home,Moderate,Normal,Hot,8,Meditation,No,Moderate,55,18,Major
+660,13-10-2025,08:43,08:54,11,Planning,High-Focus,Hard,Low,External,Person Talking,Mental,Low,Calm,High,12.0,Fasting,Home,Quiet,Dim,Comfortable,1,Music,No,Major,20,44,Micro
+661,17-10-2025,19:09,19:18,9,Planning,Repetitive,Hard,Low,Internal,Phone Ping,Background Music,High,Stressed,High,6.8,Hungry,Library,Loud,Dim,Comfortable,4,Meditation,No,Minor,52,50,Micro
+662,23-10-2025,13:12,13:27,15,Writing,High-Focus,Medium,Low,External,Multitasking,Internet,High,Happy,Low,7.6,Normal,Library,Loud,Bright,Cold,12,Continued Task,No,Major,26,22,Medium
+663,17-10-2025,12:19,12:20,1,Writing,Repetitive,Medium,High,Internal,Fatigue,Digital,High,Bored,Medium,6.2,Just Ate,Office,Moderate,Dim,Comfortable,10,Short Walk,No,Minor,58,17,Medium
+664,25-10-2025,21:43,21:50,7,Planning,Passive,Easy,Medium,Internal,Notification,Environment,High,Bored,Low,6.2,After Meal,Outdoors,Moderate,Normal,Comfortable,8,Short Walk,Yes,Major,122,35,Micro
+665,12-10-2025,23:35,23:41,6,Studying,Repetitive,Easy,High,External,Phone Call,Internet,Medium,Bored,Low,6.1,Normal,cafe,Quiet,Dim,Hot,11,Coffee,Yes,Minor,19,7,Medium
+666,14-10-2025,09:55,09:58,3,Studying,Repetitive,Easy,Low,External,Random Thought,Environment,High,Calm,High,7.7,Caffeinated,Lab,Loud,Normal,Cold,10,Meditation,No,Major,49,17,Medium
+667,13-10-2025,15:59,16:17,18,Coding,Repetitive,Easy,Medium,Internal,Hunger,Internet,Medium,Calm,Low,9.3,Hungry,Office,Quiet,Dim,Hot,4,Music,Yes,None,56,13,Medium
+668,14-10-2025,21:13,21:20,7,Studying,Creative,Easy,Medium,Internal,Boredom,Mental,High,Calm,Low,5.8,Just Ate,Café,Moderate,Normal,Comfortable,12,Coffee,No,Major,22,38,Micro
+669,17-10-2025,10:47,11:13,26,Writing,Creative,Hard,High,Internal,Phone Vibration,Pet,Medium,Tired,High,8.1,Caffeinated,Outdoors,Quiet,Dim,Hot,14,Short Walk,Yes,Minor,50,41,Major
+670,17-10-2025,09:43,10:00,17,Browsing,Creative,Medium,High,Internal,Phone Call,Phone,Low,Calm,Low,5.2,After Meal,Library,Loud,Normal,Hot,10,Break,Yes,None,90,28,Major
+671,21-10-2025,19:09,19:21,12,Meeting,Creative,Easy,Low,External,Social Media Alert,Roommate Noise,Low,Happy,High,4.9,Hungry,Café,Loud,Normal,Comfortable,11,Break,Yes,Moderate,53,22,Major
+672,25-10-2025,09:53,09:57,4,Meeting,Passive,Medium,High,Internal,Fatigue,Internal Worry,Low,Neutral,Low,3.8,Just Ate,Office,Moderate,Normal,Cold,11,Meditation,Yes,Moderate,88,66,Micro
+673,21-10-2025,22:34,22:38,4,Designing,Passive,Medium,Medium,External,Fatigue,Internet,Low,Bored,Medium,7.0,After Meal,Home,Quiet,Dim,Cold,3,Music,Yes,Major,80,36,Micro
+674,16-10-2025,15:01,15:10,9,Reading,Creative,Hard,High,External,Social Media Alert,Digital,Medium,Calm,Medium,5.0,Hungry,Office,Loud,Dim,Comfortable,4,Continued Task,No,Moderate,25,30,Micro
+675,24-10-2025,11:20,11:37,17,Meeting,High-Focus,Hard,Low,Internal,Daydreaming,Background Music,Low,Stressed,Low,5.8,After Meal,Café,Moderate,Normal,Cold,15,Ignored Phone,No,Major,37,29,Medium
+676,16-10-2025,09:40,09:52,12,Designing,Creative,Easy,Low,External,Slack Notification,Phone,Low,Calm,Medium,6.4,Just Ate,Home,Quiet,Bright,Cold,1,Music,Yes,Major,75,6,Major
+677,25-10-2025,10:40,10:49,9,Designing,Passive,Hard,High,Internal,Phone Ping,Self-thoughts,Low,Happy,Low,6.4,After Meal,Office,Quiet,Bright,Hot,8,Music,Yes,Major,75,7,Medium
+678,12-10-2025,17:25,17:38,13,Designing,High-Focus,Easy,Low,Internal,Random Thought,Physical,Low,Bored,Low,4.7,Normal,Outdoors,Quiet,Bright,Hot,5,Coffee,Yes,Moderate,28,24,Major
+679,18-10-2025,06:38,07:02,24,Browsing,High-Focus,Hard,Low,External,Notification,Internet,High,Bored,Low,4.6,Just Ate,Café,Moderate,Bright,Hot,2,Meditation,Yes,Major,0,71,Medium
+680,16-10-2025,07:53,08:08,15,Coding,Repetitive,Hard,Low,Internal,Phone Vibration,Background Music,High,Anxious,High,5.2,After Meal,Outdoors,Loud,Bright,Hot,7,Break,No,Major,32,1,Major
+681,22-10-2025,15:56,16:16,20,Coding,High-Focus,Hard,Medium,External,Multitasking,Roommate Noise,Medium,Anxious,Low,7.5,Fasting,Outdoors,Loud,Bright,Hot,6,Ignored Phone,No,Moderate,60,56,Micro
+682,19-10-2025,18:53,19:07,14,Planning,Repetitive,Medium,Low,Internal,Phone Ping,Colleague,Medium,Happy,Medium,3.0,Fasting,Home,Moderate,Dim,Hot,5,Continued Task,Yes,Minor,47,32,Micro
+683,24-10-2025,10:16,10:23,7,Meeting,Passive,Easy,Low,External,Fatigue,Internet,High,Happy,High,8.5,Caffeinated,Outdoors,Quiet,Dim,Hot,2,Music,No,Minor,28,21,Major
+684,25-10-2025,20:23,20:41,18,Designing,High-Focus,Hard,High,Internal,Random Thought,Background Music,High,Neutral,Medium,5.0,Just Ate,Lab,Quiet,Bright,Hot,8,Coffee,No,None,7,21,Major
+685,20-10-2025,17:11,17:17,6,Reading,Passive,Hard,Medium,Internal,Random Thought,Noise,High,Tired,Low,6.2,After Meal,Library,Quiet,Normal,Cold,4,Meditation,No,Major,3,53,Major
+686,14-10-2025,08:37,08:51,14,Designing,Creative,Easy,Low,Internal,Person Talking,Self-thoughts,High,Tired,Medium,8.0,Caffeinated,Office,Moderate,Bright,Comfortable,5,Break,Yes,Minor,60,41,Micro
+687,21-10-2025,12:37,12:48,11,Studying,High-Focus,Medium,Medium,Internal,Daydreaming,Physical,High,Stressed,Low,5.0,Hungry,Library,Quiet,Bright,Comfortable,12,Ignored Phone,No,Moderate,58,36,Medium
+688,14-10-2025,18:22,18:34,12,Writing,Passive,Hard,Medium,Internal,Daydreaming,Mental,High,Stressed,High,7.0,Fasting,Library,Loud,Dim,Comfortable,4,Music,No,Major,13,19,Medium
+689,15-10-2025,11:46,12:01,15,Planning,Repetitive,Hard,Low,External,Phone Call,Background Music,Medium,Bored,Low,6.6,Just Ate,Lab,Moderate,Normal,Cold,5,Meditation,Yes,Major,55,38,Major
+690,23-10-2025,16:04,16:07,3,Studying,High-Focus,Medium,Medium,External,Noise,Phone,Low,Tired,High,3.0,Normal,Home,Loud,Dim,Hot,11,Break,No,Minor,0,33,Major
+691,21-10-2025,11:45,11:51,6,Studying,Repetitive,Medium,Low,Internal,Fatigue,Physical,Low,Calm,Medium,4.0,Fasting,Office,Loud,Dim,Cold,3,Continued Task,Yes,Major,50,13,Medium
+692,17-10-2025,14:51,15:15,24,Designing,High-Focus,Medium,Low,External,Social Media Alert,Colleague,Medium,Happy,High,5.2,Caffeinated,Home,Moderate,Bright,Comfortable,12,Music,Yes,Moderate,54,5,Micro
+693,21-10-2025,07:05,07:16,11,Meeting,Repetitive,Easy,Low,Internal,Noise,Mental,High,Happy,Medium,4.0,Hungry,Office,Moderate,Normal,Hot,3,Music,Yes,Major,17,29,Micro
+694,23-10-2025,15:03,15:09,6,Planning,Passive,Hard,Medium,Internal,Boredom,Colleague,High,Happy,High,6.5,Normal,Café,Loud,Normal,Comfortable,12,Music,No,Moderate,52,45,Medium
+695,20-10-2025,23:03,23:12,9,Studying,Repetitive,Hard,Medium,External,Multitasking,Colleague,Low,Calm,High,9.2,Just Ate,Outdoors,Loud,Normal,Cold,5,Short Walk,No,Minor,63,70,Medium
+696,15-10-2025,09:13,09:29,16,Planning,Repetitive,Easy,Medium,Internal,Phone Call,Colleague,Medium,Happy,Medium,7.8,Just Ate,cafe,Moderate,Dim,Comfortable,1,Short Walk,No,None,90,10,Micro
+697,15-10-2025,17:32,17:33,1,Designing,Creative,Hard,Medium,External,Hunger,Phone,Medium,Happy,Medium,6.3,Just Ate,Home,Moderate,Bright,Cold,11,Ignored Phone,No,None,58,35,Medium
+698,21-10-2025,23:33,23:44,11,Browsing,Passive,Easy,High,Internal,Social Media Alert,Colleague,Low,Happy,Medium,6.4,Hungry,cafe,Quiet,Bright,Hot,15,Short Walk,No,Major,88,32,Medium
+699,20-10-2025,22:15,22:29,14,Planning,Passive,Hard,Low,Internal,Daydreaming,Internet,Low,Bored,Low,7.4,After Meal,Office,Loud,Dim,Hot,3,Break,Yes,Minor,17,24,Medium
+700,14-10-2025,09:34,09:40,6,Browsing,Repetitive,Easy,Medium,External,Social Media,Self-thoughts,High,Calm,High,6.1,Caffeinated,Café,Quiet,Dim,Cold,6,Continued Task,Yes,None,46,37,Micro
+701,18-10-2025,17:14,17:24,10,Planning,Creative,Easy,High,Internal,Noise,Background Music,Medium,Tired,High,3.5,Normal,Library,Moderate,Normal,Comfortable,10,Meditation,Yes,Minor,93,30,Major
+702,24-10-2025,18:05,18:13,8,Coding,High-Focus,Hard,High,External,Hunger,Environment,High,Calm,Medium,3.9,Just Ate,Home,Moderate,Bright,Comfortable,3,Coffee,Yes,Minor,80,1,Micro
+703,21-10-2025,20:45,20:52,7,Studying,Passive,Medium,Medium,External,Random Thought,Phone,Low,Happy,Medium,5.5,Hungry,Lab,Loud,Bright,Cold,4,Short Walk,No,Moderate,0,33,Medium
+704,25-10-2025,10:53,11:02,9,Reading,Creative,Hard,Low,External,Slack Notification,Noise,Medium,Neutral,Low,3.0,Caffeinated,Lab,Moderate,Bright,Cold,11,Continued Task,Yes,Moderate,50,21,Micro
+705,12-10-2025,20:39,20:45,6,Planning,Creative,Medium,High,External,Multitasking,Digital,Low,Bored,Low,4.1,After Meal,Lab,Moderate,Bright,Comfortable,8,Music,No,Minor,55,6,Medium
+706,19-10-2025,12:51,12:52,1,Writing,Creative,Medium,Medium,External,Notification,Roommate Noise,Low,Anxious,High,5.1,Caffeinated,Outdoors,Loud,Normal,Comfortable,5,Break,No,Major,42,41,Medium
+707,22-10-2025,16:05,16:12,7,Coding,Creative,Hard,Low,Internal,Social Media Alert,Environment,Medium,Anxious,Medium,6.4,After Meal,Office,Loud,Dim,Hot,13,Ignored Phone,No,None,64,45,Micro
+708,24-10-2025,22:18,22:27,9,Meeting,Passive,Medium,Low,Internal,Notification,Colleague,Medium,Calm,Medium,9.1,Fasting,Office,Loud,Dim,Cold,1,Break,Yes,None,4,8,Micro
+709,13-10-2025,06:40,06:41,1,Browsing,High-Focus,Medium,Low,Internal,Fatigue,Pet,Medium,Bored,High,3.6,After Meal,Home,Moderate,Normal,Hot,7,Ignored Phone,No,Moderate,76,18,Major
+710,18-10-2025,19:34,19:53,19,Writing,Creative,Easy,High,Internal,Boredom,Colleague,Low,Anxious,Low,6.8,Just Ate,Home,Loud,Bright,Cold,7,Continued Task,No,None,30,15,Medium
+711,13-10-2025,09:39,09:51,12,Designing,Repetitive,Easy,Low,Internal,Slack Notification,Background Music,High,Calm,High,4.5,Fasting,Outdoors,Moderate,Bright,Cold,7,Short Walk,No,Major,43,12,Micro
+712,18-10-2025,11:50,11:52,2,Coding,Repetitive,Easy,Medium,External,Person Talking,Colleague,Low,Stressed,Low,6.8,Normal,Home,Loud,Bright,Cold,1,Coffee,Yes,Major,89,50,Major
+713,12-10-2025,22:14,22:36,22,Reading,Creative,Easy,High,External,Social Media,Internal Worry,Medium,Tired,High,9.8,Hungry,Lab,Loud,Dim,Comfortable,9,Short Walk,No,Major,35,72,Micro
+714,15-10-2025,11:23,11:24,1,Browsing,Creative,Hard,Low,External,Daydreaming,Phone,High,Calm,Low,6.8,Caffeinated,Outdoors,Moderate,Bright,Cold,1,Continued Task,Yes,None,0,48,Medium
+715,15-10-2025,14:09,14:12,3,Planning,Creative,Medium,Low,External,Boredom,Noise,High,Stressed,Medium,7.8,Caffeinated,Library,Quiet,Normal,Cold,1,Music,No,Moderate,0,35,Micro
+716,25-10-2025,10:15,10:33,18,Coding,High-Focus,Easy,High,External,Slack Notification,Internal Worry,Medium,Anxious,Low,6.4,Fasting,Outdoors,Quiet,Bright,Hot,6,Coffee,No,Moderate,27,28,Major
+717,17-10-2025,18:14,18:25,11,Writing,Repetitive,Medium,Low,Internal,Person Talking,Pet,Medium,Happy,High,6.6,Just Ate,Library,Moderate,Dim,Hot,5,Music,Yes,Minor,29,7,Micro
+718,25-10-2025,19:34,19:39,5,Designing,Repetitive,Medium,Low,Internal,Social Media Alert,Pet,High,Neutral,High,7.1,After Meal,Library,Moderate,Dim,Hot,1,Ignored Phone,No,Minor,7,41,Medium
+719,19-10-2025,16:41,16:59,18,Designing,High-Focus,Medium,Medium,External,Multitasking,Colleague,High,Anxious,Medium,3.8,Caffeinated,Café,Loud,Dim,Comfortable,14,Continued Task,Yes,Moderate,149,11,Micro
+720,12-10-2025,21:48,21:53,5,Designing,Creative,Easy,Low,External,Noise,Digital,High,Stressed,Low,8.1,Hungry,Library,Quiet,Normal,Comfortable,5,Continued Task,No,Major,85,43,Major
+721,19-10-2025,19:50,19:55,5,Writing,Passive,Easy,High,External,Notification,Pet,Medium,Stressed,Low,5.8,Hungry,Library,Loud,Dim,Hot,9,Ignored Phone,Yes,Minor,91,1,Medium
+722,24-10-2025,08:08,08:17,9,Meeting,Passive,Hard,High,Internal,Noise,Noise,High,Anxious,Medium,5.5,After Meal,Library,Quiet,Bright,Hot,1,Break,Yes,Moderate,8,27,Major
+723,17-10-2025,17:34,17:42,8,Browsing,Passive,Medium,High,Internal,Boredom,Mental,Medium,Calm,Medium,6.3,Caffeinated,Lab,Quiet,Normal,Cold,6,Short Walk,No,Major,53,19,Medium
+724,24-10-2025,15:38,15:47,9,Meeting,High-Focus,Hard,Medium,External,Social Media,Mental,Medium,Stressed,Medium,4.6,Fasting,cafe,Moderate,Normal,Cold,3,Coffee,Yes,Major,60,43,Micro
+725,24-10-2025,21:50,21:52,2,Meeting,High-Focus,Medium,High,Internal,Phone Vibration,Noise,High,Anxious,Low,5.1,Hungry,Library,Moderate,Dim,Hot,6,Coffee,Yes,Minor,60,44,Medium
+726,15-10-2025,14:46,14:59,13,Studying,Passive,Easy,High,External,Phone Call,Physical,High,Anxious,Low,3.8,Normal,Home,Loud,Dim,Comfortable,11,Ignored Phone,Yes,None,4,1,Micro
+727,21-10-2025,10:32,10:43,11,Browsing,Passive,Medium,Medium,External,Multitasking,Background Music,Low,Calm,High,7.4,Hungry,Home,Moderate,Bright,Hot,7,Continued Task,Yes,Major,54,21,Micro
+728,21-10-2025,06:54,07:06,12,Browsing,High-Focus,Medium,Medium,External,Multitasking,Pet,Medium,Stressed,Low,6.2,Normal,Lab,Moderate,Normal,Hot,11,Break,No,None,24,34,Medium
+729,24-10-2025,22:50,23:02,12,Meeting,Creative,Medium,High,External,Phone Ping,Internal Worry,High,Calm,High,6.6,Just Ate,Lab,Quiet,Dim,Cold,4,Music,Yes,Major,0,6,Major
+730,14-10-2025,10:06,10:20,14,Reading,Repetitive,Medium,Low,External,Phone Vibration,Colleague,Low,Anxious,Low,8.1,Just Ate,Lab,Loud,Dim,Cold,13,Coffee,No,Major,27,1,Medium
+731,20-10-2025,08:34,08:45,11,Coding,Passive,Medium,Medium,Internal,Multitasking,Roommate Noise,High,Bored,Low,8.2,Normal,Outdoors,Loud,Bright,Hot,3,Coffee,Yes,Moderate,0,57,Medium
+732,13-10-2025,07:50,08:06,16,Designing,Repetitive,Medium,High,External,Social Media,Colleague,Medium,Stressed,High,5.5,Caffeinated,Café,Moderate,Bright,Cold,7,Coffee,Yes,None,15,17,Medium
+733,12-10-2025,08:22,08:34,12,Meeting,High-Focus,Easy,Low,Internal,Notification,Phone,High,Anxious,Medium,6.4,Hungry,Café,Moderate,Bright,Comfortable,2,Coffee,No,Moderate,31,54,Micro
+734,12-10-2025,06:54,07:06,12,Studying,Passive,Easy,High,Internal,Notification,Phone,Low,Stressed,Medium,4.5,Normal,Home,Moderate,Bright,Comfortable,7,Music,No,None,38,20,Micro
+735,16-10-2025,10:05,10:14,9,Browsing,Repetitive,Medium,High,Internal,Daydreaming,Digital,High,Neutral,High,5.4,Normal,Café,Moderate,Dim,Cold,2,Music,Yes,Major,38,61,Major
+736,25-10-2025,16:19,16:27,8,Writing,Creative,Hard,High,External,Daydreaming,Phone,Low,Stressed,Medium,6.0,Normal,Library,Moderate,Bright,Cold,2,Short Walk,Yes,Minor,8,41,Medium
+737,20-10-2025,20:44,21:08,24,Meeting,Passive,Hard,Medium,Internal,Social Media Alert,Internal Worry,Low,Tired,Low,4.2,Caffeinated,Office,Loud,Bright,Comfortable,1,Music,No,Minor,57,50,Micro
+738,20-10-2025,16:49,16:53,4,Browsing,High-Focus,Easy,Medium,External,Notification,Noise,High,Tired,Medium,5.8,Hungry,Outdoors,Quiet,Normal,Hot,8,Ignored Phone,Yes,Moderate,0,53,Medium
+739,18-10-2025,09:13,09:16,3,Planning,High-Focus,Hard,Low,External,Phone Ping,Mental,Low,Calm,Low,3.0,Just Ate,Library,Loud,Bright,Hot,10,Break,No,None,33,40,Micro
+740,21-10-2025,07:46,08:02,16,Browsing,Passive,Medium,High,External,Person Talking,Environment,Medium,Calm,Low,4.1,After Meal,Office,Moderate,Bright,Comfortable,1,Music,Yes,None,62,1,Medium
+741,20-10-2025,07:44,08:00,16,Writing,Repetitive,Medium,High,Internal,Phone Call,Digital,Low,Tired,Low,9.4,Hungry,Outdoors,Quiet,Normal,Comfortable,9,Meditation,No,Minor,46,37,Major
+742,12-10-2025,20:16,20:22,6,Studying,Creative,Hard,Low,Internal,Notification,Noise,Low,Neutral,Low,7.1,Fasting,Café,Quiet,Normal,Hot,1,Music,No,Moderate,34,26,Major
+743,24-10-2025,09:15,09:24,9,Writing,High-Focus,Easy,High,Internal,Phone Call,Mental,Low,Neutral,Low,3.7,Hungry,cafe,Loud,Bright,Hot,6,Ignored Phone,Yes,Minor,43,39,Medium
+744,22-10-2025,09:28,09:43,15,Meeting,Passive,Medium,High,External,Multitasking,Self-thoughts,Medium,Bored,High,5.5,Caffeinated,cafe,Moderate,Normal,Comfortable,8,Ignored Phone,Yes,None,69,26,Micro
+745,17-10-2025,16:27,16:36,9,Planning,High-Focus,Hard,High,Internal,Daydreaming,Roommate Noise,Medium,Anxious,Medium,5.2,Caffeinated,Café,Loud,Bright,Hot,10,Music,Yes,Major,48,10,Micro
+746,19-10-2025,13:19,13:30,11,Browsing,Passive,Easy,Low,External,Boredom,Phone,Low,Calm,High,5.0,Just Ate,Lab,Loud,Normal,Cold,1,Short Walk,No,Major,30,30,Medium
+747,25-10-2025,11:14,11:24,10,Planning,High-Focus,Easy,Medium,External,Phone Ping,Mental,High,Stressed,High,4.4,Caffeinated,Library,Loud,Dim,Hot,4,Continued Task,No,None,8,38,Medium
+748,25-10-2025,07:17,07:23,6,Writing,Passive,Medium,High,Internal,Hunger,Environment,High,Tired,Medium,4.5,Just Ate,Lab,Quiet,Bright,Hot,1,Continued Task,No,Major,98,1,Micro
+749,14-10-2025,16:11,16:22,11,Browsing,Creative,Easy,High,Internal,Slack Notification,Self-thoughts,High,Happy,Medium,3.0,Just Ate,Home,Loud,Dim,Cold,2,Music,No,Moderate,10,18,Medium
+750,22-10-2025,16:33,16:39,6,Designing,Creative,Medium,Low,External,Phone Ping,Colleague,Low,Calm,Low,7.9,Normal,Library,Loud,Bright,Cold,1,Coffee,Yes,Moderate,105,23,Medium
+751,18-10-2025,11:31,11:38,7,Meeting,High-Focus,Hard,Medium,External,Hunger,Self-thoughts,Medium,Happy,Medium,8.9,After Meal,Lab,Loud,Dim,Comfortable,6,Break,No,Minor,46,45,Medium
+752,14-10-2025,09:09,09:23,14,Reading,Repetitive,Easy,Low,External,Social Media,Internet,High,Bored,High,7.0,After Meal,Office,Moderate,Bright,Hot,13,Ignored Phone,Yes,None,41,48,Major
+753,21-10-2025,18:24,18:41,17,Meeting,Repetitive,Hard,High,External,Fatigue,Pet,High,Bored,Medium,5.8,Just Ate,Lab,Quiet,Normal,Comfortable,2,Continued Task,Yes,Minor,68,28,Micro
+754,13-10-2025,20:35,20:43,8,Writing,Creative,Easy,High,Internal,Random Thought,Environment,Low,Stressed,High,5.1,Fasting,Library,Moderate,Normal,Hot,13,Break,Yes,Major,57,12,Medium
+755,24-10-2025,20:08,20:28,20,Studying,Repetitive,Easy,Medium,Internal,Boredom,Environment,Low,Tired,Low,8.0,Hungry,Office,Moderate,Normal,Cold,5,Ignored Phone,Yes,Major,6,17,Micro
+756,22-10-2025,15:45,16:00,15,Studying,Repetitive,Medium,Low,Internal,Social Media,Environment,High,Bored,High,5.9,Caffeinated,Home,Moderate,Dim,Comfortable,3,Ignored Phone,Yes,None,39,53,Major
+757,20-10-2025,18:29,18:41,12,Designing,Passive,Medium,Medium,External,Hunger,Self-thoughts,Low,Tired,Medium,4.5,Caffeinated,Lab,Quiet,Bright,Hot,9,Coffee,Yes,Minor,59,61,Major
+758,16-10-2025,20:07,20:25,18,Designing,High-Focus,Easy,Low,Internal,Noise,Mental,Medium,Stressed,High,8.5,After Meal,Café,Moderate,Dim,Comfortable,1,Music,Yes,Major,69,53,Micro
+759,15-10-2025,13:46,13:55,9,Reading,Passive,Medium,Medium,External,Notification,Digital,Low,Calm,High,7.1,Fasting,cafe,Quiet,Normal,Cold,6,Music,No,Minor,9,57,Micro
+760,20-10-2025,17:32,17:42,10,Writing,High-Focus,Hard,Low,External,Person Talking,Internet,Low,Anxious,Low,7.3,Normal,Lab,Loud,Normal,Hot,6,Music,No,None,6,44,Medium
+761,16-10-2025,07:17,07:19,2,Coding,Creative,Easy,High,External,Social Media,Background Music,Medium,Calm,High,6.6,Hungry,cafe,Quiet,Bright,Comfortable,8,Music,No,Major,69,32,Medium
+762,22-10-2025,14:03,14:14,11,Browsing,Repetitive,Easy,High,Internal,Person Talking,Mental,Low,Stressed,High,4.0,Hungry,Library,Loud,Dim,Comfortable,8,Break,No,None,72,34,Major
+763,21-10-2025,07:01,07:22,21,Reading,Creative,Medium,Low,Internal,Multitasking,Mental,Medium,Bored,Medium,6.6,Just Ate,Library,Quiet,Bright,Cold,8,Coffee,Yes,Major,51,16,Major
+764,13-10-2025,17:21,17:24,3,Reading,Repetitive,Easy,Medium,Internal,Person Talking,Internet,Low,Stressed,High,8.4,Caffeinated,cafe,Moderate,Bright,Hot,1,Ignored Phone,No,Moderate,64,59,Major
+765,14-10-2025,14:57,15:00,3,Coding,Repetitive,Easy,Low,External,Phone Vibration,Digital,Medium,Tired,Low,8.0,After Meal,Café,Quiet,Normal,Hot,4,Meditation,Yes,Moderate,41,15,Micro
+766,23-10-2025,19:17,19:20,3,Designing,Creative,Medium,Medium,Internal,Fatigue,Internet,High,Bored,Low,6.1,Just Ate,Lab,Loud,Dim,Comfortable,2,Meditation,No,Minor,53,34,Major
+767,21-10-2025,10:46,10:55,9,Designing,Creative,Easy,High,Internal,Social Media Alert,Roommate Noise,High,Neutral,High,5.0,Hungry,Library,Loud,Normal,Hot,8,Continued Task,No,Moderate,41,60,Medium
+768,12-10-2025,13:19,13:35,16,Reading,Repetitive,Hard,High,External,Fatigue,Environment,Medium,Happy,Low,4.3,Caffeinated,Library,Quiet,Dim,Hot,8,Coffee,Yes,Moderate,61,31,Micro
+769,25-10-2025,12:11,12:23,12,Writing,Repetitive,Hard,Medium,Internal,Hunger,Environment,Medium,Calm,Low,6.5,After Meal,Café,Moderate,Bright,Cold,11,Continued Task,Yes,Minor,38,32,Major
+770,19-10-2025,18:13,18:14,1,Planning,Creative,Medium,High,External,Boredom,Mental,High,Neutral,Low,5.3,Hungry,Lab,Moderate,Dim,Comfortable,1,Break,Yes,Moderate,68,28,Major
+771,12-10-2025,11:38,11:39,1,Designing,High-Focus,Hard,Medium,External,Noise,Digital,High,Bored,Medium,4.9,Hungry,Outdoors,Loud,Dim,Hot,13,Ignored Phone,No,Major,0,9,Major
+772,22-10-2025,09:41,09:53,12,Browsing,High-Focus,Hard,High,Internal,Slack Notification,Mental,Medium,Tired,High,7.4,Hungry,Home,Loud,Normal,Cold,8,Continued Task,Yes,None,105,18,Medium
+773,19-10-2025,11:43,11:52,9,Studying,Repetitive,Hard,High,Internal,Noise,Internet,High,Stressed,Low,4.9,Fasting,Library,Quiet,Dim,Comfortable,7,Music,No,Moderate,0,62,Medium
+774,14-10-2025,08:08,08:24,16,Writing,Repetitive,Medium,Low,External,Phone Vibration,Roommate Noise,Low,Bored,High,5.4,Fasting,cafe,Quiet,Normal,Comfortable,9,Break,No,Major,52,33,Micro
+775,25-10-2025,11:16,11:22,6,Browsing,High-Focus,Medium,High,External,Daydreaming,Pet,Medium,Happy,Medium,6.3,Normal,Library,Moderate,Bright,Cold,8,Break,Yes,Moderate,51,14,Medium
+776,16-10-2025,13:47,14:02,15,Coding,High-Focus,Hard,High,Internal,Social Media Alert,Phone,Low,Bored,Medium,5.9,Normal,Lab,Moderate,Dim,Comfortable,8,Continued Task,Yes,Minor,77,40,Medium
+777,20-10-2025,13:14,13:19,5,Coding,High-Focus,Hard,Low,Internal,Daydreaming,Noise,Medium,Neutral,Low,8.1,Normal,cafe,Moderate,Dim,Comfortable,4,Continued Task,No,Minor,62,1,Major
+778,24-10-2025,17:52,18:09,17,Reading,Creative,Medium,Medium,External,Daydreaming,Self-thoughts,Medium,Neutral,Medium,6.1,Normal,cafe,Loud,Normal,Cold,6,Short Walk,No,Major,12,44,Medium
+779,21-10-2025,07:50,07:51,1,Studying,Passive,Easy,Medium,External,Noise,Digital,Medium,Happy,High,6.3,After Meal,Library,Moderate,Bright,Comfortable,10,Ignored Phone,No,Minor,58,24,Medium
+780,25-10-2025,17:08,17:12,4,Studying,Repetitive,Medium,High,External,Notification,Physical,Low,Neutral,Medium,5.6,Caffeinated,cafe,Moderate,Bright,Comfortable,4,Meditation,No,Minor,82,59,Major
+781,13-10-2025,15:08,15:09,1,Studying,Repetitive,Hard,Low,External,Hunger,Background Music,Medium,Anxious,Low,8.0,Fasting,Office,Loud,Dim,Comfortable,6,Music,Yes,None,78,22,Micro
+782,15-10-2025,11:23,11:41,18,Browsing,High-Focus,Medium,Medium,External,Boredom,Phone,High,Bored,Low,8.6,Just Ate,Home,Moderate,Normal,Cold,7,Meditation,No,None,43,16,Micro
+783,22-10-2025,07:50,07:51,1,Designing,Repetitive,Medium,Low,External,Hunger,Physical,Medium,Happy,Low,8.5,Normal,Office,Quiet,Normal,Comfortable,5,Short Walk,No,Moderate,39,40,Micro
+784,20-10-2025,18:39,18:46,7,Planning,Repetitive,Hard,Low,Internal,Notification,Internal Worry,High,Stressed,Low,4.6,Hungry,Office,Moderate,Dim,Cold,15,Break,Yes,Moderate,64,35,Major
+785,24-10-2025,18:04,18:13,9,Browsing,Repetitive,Easy,Medium,External,Phone Call,Self-thoughts,High,Neutral,High,6.7,Fasting,Café,Quiet,Dim,Comfortable,10,Break,Yes,Major,0,41,Micro
+786,18-10-2025,14:22,14:42,20,Reading,Repetitive,Hard,High,Internal,Phone Ping,Noise,Low,Anxious,Medium,10.8,Just Ate,Café,Moderate,Bright,Comfortable,3,Break,Yes,None,105,12,Medium
+787,24-10-2025,17:35,17:39,4,Reading,Repetitive,Medium,High,External,Multitasking,Digital,High,Anxious,High,5.4,After Meal,Café,Loud,Dim,Cold,2,Music,Yes,Major,53,23,Medium
+788,15-10-2025,11:14,11:15,1,Meeting,Creative,Easy,High,External,Noise,Internal Worry,Medium,Stressed,Medium,5.8,Just Ate,cafe,Quiet,Dim,Hot,12,Music,Yes,Minor,29,32,Micro
+789,12-10-2025,21:57,22:18,21,Planning,Passive,Easy,High,Internal,Hunger,Digital,Low,Calm,Medium,6.1,Fasting,cafe,Loud,Normal,Cold,11,Break,Yes,Moderate,64,25,Micro
+790,18-10-2025,21:23,21:29,6,Reading,High-Focus,Hard,Medium,External,Fatigue,Self-thoughts,Medium,Neutral,Low,5.7,Normal,Café,Moderate,Bright,Cold,1,Ignored Phone,No,Moderate,65,21,Major
+791,13-10-2025,09:25,09:27,2,Coding,Creative,Hard,High,Internal,Social Media Alert,Self-thoughts,Low,Calm,Low,4.3,Caffeinated,Café,Loud,Normal,Hot,8,Short Walk,No,Major,62,41,Micro
+792,22-10-2025,15:27,15:41,14,Planning,High-Focus,Medium,Low,Internal,Random Thought,Background Music,Medium,Happy,High,10.0,After Meal,Lab,Moderate,Normal,Cold,13,Continued Task,No,Major,57,41,Micro
+793,12-10-2025,14:28,14:30,2,Meeting,High-Focus,Medium,Medium,External,Fatigue,Physical,Low,Neutral,Low,7.2,Hungry,Café,Quiet,Bright,Cold,5,Music,No,Major,87,6,Micro
+794,14-10-2025,11:25,11:34,9,Coding,High-Focus,Medium,High,External,Slack Notification,Physical,Medium,Happy,Medium,5.2,Just Ate,Café,Quiet,Normal,Hot,3,Ignored Phone,Yes,Minor,97,12,Medium
+795,13-10-2025,19:56,20:15,19,Browsing,Repetitive,Medium,Low,External,Notification,Environment,Medium,Tired,Low,8.5,Just Ate,cafe,Loud,Bright,Hot,5,Meditation,Yes,Major,0,42,Major
+796,14-10-2025,13:03,13:13,10,Designing,Creative,Hard,Low,Internal,Notification,Noise,Low,Tired,High,6.6,Caffeinated,Office,Quiet,Dim,Comfortable,8,Coffee,Yes,Major,47,43,Medium
+797,21-10-2025,11:45,12:04,19,Studying,Passive,Hard,High,External,Noise,Colleague,Low,Tired,Medium,7.1,Fasting,Library,Quiet,Normal,Hot,4,Continued Task,Yes,Moderate,26,7,Micro
+798,22-10-2025,14:59,15:06,7,Browsing,High-Focus,Easy,Medium,External,Noise,Environment,Medium,Bored,Medium,5.4,Hungry,Library,Moderate,Dim,Cold,3,Continued Task,Yes,Moderate,71,47,Medium
+799,21-10-2025,20:21,20:44,23,Writing,High-Focus,Hard,High,Internal,Daydreaming,Mental,Medium,Stressed,High,7.0,After Meal,Library,Moderate,Dim,Comfortable,5,Music,No,None,27,62,Medium
+800,21-10-2025,09:10,09:21,11,Writing,High-Focus,Easy,Medium,External,Person Talking,Self-thoughts,High,Anxious,Medium,4.9,Fasting,Lab,Quiet,Normal,Comfortable,12,Short Walk,No,Moderate,51,32,Medium
+801,12-10-2025,22:15,22:16,1,Meeting,Creative,Easy,Medium,Internal,Phone Ping,Mental,Medium,Bored,Low,6.2,Caffeinated,Home,Moderate,Dim,Cold,4,Meditation,Yes,Major,64,56,Medium
+802,15-10-2025,21:40,21:49,9,Studying,Creative,Easy,Medium,Internal,Social Media Alert,Colleague,Medium,Neutral,High,8.3,Hungry,Outdoors,Moderate,Normal,Comfortable,6,Meditation,No,Moderate,18,22,Major
+803,15-10-2025,16:23,16:39,16,Studying,Creative,Medium,Low,External,Multitasking,Self-thoughts,Low,Tired,Low,8.6,Normal,Office,Quiet,Dim,Hot,2,Coffee,Yes,Major,22,47,Micro
+804,25-10-2025,13:25,13:39,14,Writing,Creative,Hard,Medium,Internal,Phone Call,Colleague,Low,Neutral,Low,5.6,Fasting,cafe,Moderate,Bright,Comfortable,1,Break,Yes,Minor,43,35,Major
+805,13-10-2025,08:20,08:28,8,Coding,Passive,Medium,High,Internal,Notification,Internet,Low,Neutral,Low,6.2,Hungry,Outdoors,Loud,Bright,Cold,7,Meditation,Yes,Major,50,47,Major
+806,15-10-2025,10:14,10:17,3,Writing,High-Focus,Easy,High,External,Person Talking,Phone,Medium,Tired,High,7.1,Hungry,cafe,Quiet,Dim,Comfortable,2,Coffee,Yes,Moderate,65,30,Major
+807,16-10-2025,21:00,21:15,15,Designing,Repetitive,Easy,Medium,Internal,Boredom,Pet,Low,Bored,High,7.7,Just Ate,Library,Quiet,Normal,Cold,10,Continued Task,No,Major,47,34,Major
+808,22-10-2025,22:08,22:13,5,Coding,Repetitive,Hard,Low,Internal,Social Media Alert,Roommate Noise,Medium,Calm,Medium,5.9,Just Ate,Library,Quiet,Bright,Cold,4,Short Walk,Yes,Major,65,42,Major
+809,16-10-2025,12:27,12:28,1,Planning,Passive,Hard,High,External,Daydreaming,Roommate Noise,Low,Neutral,Low,5.3,After Meal,Library,Quiet,Dim,Comfortable,1,Coffee,No,None,129,35,Medium
+810,25-10-2025,08:57,09:19,22,Planning,Creative,Medium,High,External,Daydreaming,Pet,Low,Stressed,Low,7.1,Caffeinated,Office,Quiet,Dim,Comfortable,17,Coffee,Yes,Major,35,30,Micro
+811,14-10-2025,15:59,16:04,5,Studying,Creative,Easy,Low,Internal,Social Media,Physical,Low,Happy,High,6.9,Hungry,Café,Loud,Normal,Comfortable,9,Ignored Phone,No,None,65,16,Major
+812,13-10-2025,19:27,19:37,10,Planning,Repetitive,Easy,Low,External,Daydreaming,Pet,Medium,Anxious,High,5.2,After Meal,cafe,Loud,Bright,Comfortable,6,Coffee,Yes,Major,0,49,Major
+813,24-10-2025,09:45,10:01,16,Planning,Repetitive,Medium,Medium,External,Social Media Alert,Internet,Low,Tired,Low,8.7,After Meal,Outdoors,Moderate,Dim,Cold,3,Break,Yes,Major,56,1,Major
+814,16-10-2025,08:13,08:28,15,Coding,Passive,Medium,Medium,External,Slack Notification,Self-thoughts,Low,Bored,Medium,9.3,Normal,Library,Quiet,Bright,Comfortable,8,Break,No,Minor,46,33,Medium
+815,20-10-2025,11:24,11:37,13,Writing,Creative,Easy,Low,Internal,Multitasking,Environment,Medium,Stressed,Medium,6.3,After Meal,Lab,Moderate,Normal,Comfortable,4,Ignored Phone,No,None,0,32,Micro
+816,21-10-2025,09:27,09:28,1,Reading,High-Focus,Hard,High,External,Person Talking,Background Music,High,Bored,Low,7.4,Caffeinated,Outdoors,Moderate,Bright,Comfortable,10,Music,Yes,Minor,94,28,Medium
+817,17-10-2025,19:28,19:41,13,Designing,High-Focus,Easy,Medium,Internal,Phone Call,Environment,Medium,Bored,Low,6.5,Fasting,Café,Loud,Bright,Comfortable,6,Break,No,Major,44,30,Micro
+818,23-10-2025,09:02,09:20,18,Meeting,High-Focus,Hard,Medium,External,Boredom,Noise,High,Anxious,Low,6.4,Hungry,Café,Loud,Normal,Hot,12,Short Walk,Yes,Minor,0,5,Medium
+819,18-10-2025,16:18,16:37,19,Planning,Passive,Easy,Low,Internal,Phone Ping,Roommate Noise,Low,Happy,Medium,5.5,Hungry,Library,Moderate,Bright,Comfortable,1,Meditation,No,None,55,48,Major
+820,15-10-2025,12:04,12:09,5,Writing,High-Focus,Easy,Medium,External,Notification,Mental,High,Anxious,High,6.5,Hungry,Office,Quiet,Bright,Hot,16,Break,No,Minor,0,13,Micro
+821,23-10-2025,22:46,22:54,8,Writing,Repetitive,Hard,High,External,Boredom,Environment,Low,Tired,Low,6.7,Caffeinated,Lab,Loud,Normal,Comfortable,6,Break,Yes,Minor,11,1,Major
+822,20-10-2025,09:54,10:02,8,Reading,High-Focus,Hard,Medium,Internal,Person Talking,Physical,Medium,Calm,Medium,8.6,Caffeinated,cafe,Moderate,Bright,Hot,8,Coffee,Yes,Major,68,24,Major
+823,25-10-2025,22:41,22:43,2,Writing,Passive,Hard,High,Internal,Phone Ping,Colleague Talk,Low,Happy,Medium,7.0,Caffeinated,Outdoor Bench,Loud,Dim,Hot,12,Music,Yes,Major,17,23,Micro
+824,23-10-2025,22:18,22:36,18,Planning,High-Focus,Easy,Low,External,Internet Browsing,Self-thoughts,High,Tired,Low,6.4,Caffeinated,Home,Moderate,Dim,Cold,2,Short Walk,No,Minor,87,32,Micro
+825,30-10-2025,10:52,11:06,14,Reading,High-Focus,Easy,Medium,Internal,Multitasking,Internal Worry,High,Neutral,Medium,8.7,Hungry,Coworking Space,Quiet,Dim,Cold,1,Continued Task,Yes,Moderate,48,7,Micro
+826,20-10-2025,17:38,17:52,14,Reading,Passive,Easy,Medium,External,Social Media Alert,Roommate Noise,High,Happy,High,9.4,Caffeinated,Lab,Moderate,Dim,Hot,6,Continued Task,No,Minor,0,46,Micro
+827,31-10-2025,20:57,21:05,8,Browsing,Creative,Medium,High,External,Fatigue,Mental,High,Neutral,Low,5.0,Hungry,Coworking Space,Quiet,Normal,Hot,1,Music,No,Minor,86,33,Major
+828,18-10-2025,19:27,19:31,4,Researching,High-Focus,Medium,High,External,Multitasking,News Article,Medium,Inspired,High,6.6,Just Ate,Home,Moderate,Dim,Cold,9,Ignored Phone,Yes,Major,41,18,Major
+829,02-11-2025,12:22,12:39,17,Designing,Creative,Easy,High,Internal,Internet Browsing,Colleague,High,Tired,Low,8.6,Normal,Office,Moderate,Dim,Comfortable,8,Continued Task,No,Minor,69,26,Medium
+830,01-11-2025,07:32,07:43,11,Studying,Passive,Easy,Low,Internal,Phone Ping,Internet,Medium,Neutral,Low,4.7,Just Ate,Office,Moderate,Normal,Comfortable,3,Continued Task,Yes,None,37,1,Medium
+831,23-10-2025,23:53,23:56,3,Planning,High-Focus,Medium,Low,External,Phone Ping,Pet Movement,Low,Bored,High,8.1,Fasting,Library,Quiet,Dim,Hot,11,Music,Yes,Moderate,125,40,Medium
+832,23-10-2025,09:07,09:20,13,Writing,Repetitive,Easy,Low,External,Phone Call,Roommate Noise,Low,Bored,Low,6.7,Just Ate,Office,Quiet,Normal,Cold,4,Ignored Phone,Yes,Minor,33,23,Medium
+833,16-10-2025,21:53,22:01,8,Team Discussion,Creative,Easy,Medium,External,Background Chat,Self-thoughts,Medium,Neutral,High,5.9,Just Ate,Café,Moderate,Bright,Cold,12,Coffee,Yes,Moderate,0,62,Medium
+834,31-10-2025,19:38,19:47,9,Browsing,Repetitive,Hard,Low,External,Person Talking,Roommate Noise,High,Stressed,Low,7.8,Caffeinated,Café,Loud,Dim,Comfortable,15,Short Walk,Yes,Minor,81,1,Micro
+835,29-10-2025,19:22,19:31,9,Designing,High-Focus,Easy,Medium,External,Hunger,Background Music,High,Anxious,Medium,6.7,Just Ate,Office,Quiet,Normal,Comfortable,9,Ignored Phone,Yes,Minor,46,46,Major
+836,31-10-2025,18:14,18:25,11,Writing,Creative,Medium,Low,External,Notification,Phone,High,Anxious,Medium,5.5,Caffeinated,Office,Loud,Bright,Comfortable,4,Break,No,Minor,103,10,Major
+837,25-10-2025,13:04,13:29,25,Brainstorming,High-Focus,Medium,Medium,Internal,Social Media,Self-thoughts,Low,Bored,Low,7.5,Just Ate,Outdoor Bench,Loud,Normal,Hot,6,Short Walk,Yes,Moderate,44,23,Medium
+838,16-10-2025,09:25,09:48,23,Designing,Creative,Medium,Medium,Internal,Social Media,Environment,High,Anxious,Low,4.8,Caffeinated,Outdoors,Loud,Dim,Hot,8,Short Walk,No,Major,27,33,Medium
+839,22-10-2025,21:54,21:56,2,Writing,Passive,Medium,Medium,External,Daydreaming,Colleague,High,Stressed,Medium,4.7,Just Ate,Coworking Space,Quiet,Normal,Cold,7,Meditation,No,Moderate,37,21,Medium
+840,26-10-2025,23:40,23:50,10,Planning,Passive,Hard,High,External,Slack Notification,Roommate Noise,Low,Happy,Medium,3.0,Caffeinated,Office,Quiet,Bright,Hot,9,Continued Task,Yes,Moderate,3,9,Micro
+841,27-10-2025,20:42,20:43,1,Online Class,High-Focus,Easy,High,External,Sudden Idea,Environment,High,Relaxed,Low,6.1,After Meal,Café,Moderate,Normal,Comfortable,5,Music,Yes,None,42,15,Medium
+842,28-10-2025,17:37,17:39,2,Browsing,Creative,Easy,High,External,Person Talking,Colleague,Medium,Neutral,High,3.8,Just Ate,cafe,Moderate,Bright,Hot,3,Ignored Phone,Yes,Moderate,30,22,Micro
+843,28-10-2025,14:37,14:49,12,Coding,Creative,Medium,Medium,External,Phone Call,Mental,Medium,Curious,High,5.9,Hungry,Home,Quiet,Normal,Cold,1,Continued Task,Yes,Minor,83,8,Medium
+844,17-10-2025,09:21,09:26,5,Meeting,High-Focus,Medium,Medium,Internal,Fatigue,Mental,High,Neutral,Medium,4.9,Normal,Outdoors,Quiet,Bright,Hot,4,Break,No,Major,119,10,Medium
+845,26-10-2025,07:55,08:00,5,Researching,High-Focus,Medium,Low,Internal,Hunger,Phone,High,Anxious,Low,8.9,Just Ate,Library,Moderate,Dim,Hot,8,Music,Yes,None,112,37,Medium
+846,26-10-2025,07:33,07:53,20,Coding,Passive,Medium,High,Internal,Phone Vibration,Internal Worry,Medium,Tired,High,5.5,Caffeinated,Lab,Moderate,Normal,Cold,6,Music,Yes,Minor,32,49,Major
+847,30-10-2025,17:32,17:33,1,Creative Writing,Creative,Easy,Low,Internal,Multitasking,Environment,High,Bored,High,9.0,Hungry,Library,Quiet,Normal,Hot,1,Coffee,Yes,Major,4,57,Micro
+848,21-10-2025,11:01,11:07,6,Studying,High-Focus,Hard,High,Internal,Background Chat,Colleague,Low,Stressed,Low,5.9,Hungry,Home,Moderate,Dim,Hot,15,Break,No,Major,0,57,Micro
+849,19-10-2025,09:50,09:56,6,Planning,Creative,Medium,Medium,External,Boredom,Pet,Medium,Overwhelmed,Low,3.0,After Meal,Library,Quiet,Normal,Hot,9,Break,Yes,Major,0,29,Micro
+850,01-11-2025,10:49,10:50,1,Browsing,Passive,Medium,High,Internal,Phone Ping,Roommate Noise,Low,Calm,Low,7.0,Just Ate,Outdoors,Moderate,Normal,Cold,3,Ignored Phone,No,Major,8,7,Medium
+851,03-11-2025,15:56,16:07,11,Writing,Creative,Hard,Medium,External,Sudden Idea,Environment,High,Happy,Low,8.1,Just Ate,Outdoors,Quiet,Bright,Cold,7,Music,Yes,Minor,0,16,Medium
+852,16-10-2025,09:08,09:24,16,Meeting,Repetitive,Medium,Medium,External,Sudden Idea,Physical,Medium,Bored,Low,10.0,Hungry,Library,Loud,Normal,Cold,18,Coffee,Yes,Minor,33,45,Micro
+853,26-10-2025,22:40,22:53,13,Writing,High-Focus,Hard,High,External,Fatigue,Colleague,Low,Calm,High,4.8,Hungry,Office,Loud,Normal,Comfortable,1,Meditation,Yes,Minor,17,38,Major
+854,27-10-2025,13:48,13:49,1,Team Discussion,Repetitive,Hard,Medium,External,Noise,News Article,High,Relaxed,High,8.0,Caffeinated,Home,Moderate,Normal,Comfortable,6,Music,Yes,Minor,85,50,Micro
+855,24-10-2025,19:39,19:57,18,Online Class,Repetitive,Easy,Low,Internal,Daydreaming,Mental,Low,Curious,Low,4.2,Hungry,Office,Moderate,Bright,Cold,8,Ignored Phone,Yes,Minor,50,32,Micro
+856,26-10-2025,09:30,09:38,8,Designing,Repetitive,Easy,Medium,External,Background Chat,Phone,Low,Neutral,Low,3.7,Just Ate,Café,Moderate,Dim,Hot,1,Ignored Phone,No,Minor,77,19,Micro
+857,25-10-2025,07:24,07:45,21,Meeting,Creative,Hard,High,External,Sudden Idea,Background Music,High,Bored,Medium,6.2,Hungry,Library,Quiet,Dim,Cold,4,Short Walk,Yes,None,0,24,Medium
+858,28-10-2025,08:46,08:48,2,Planning,Creative,Easy,High,External,Person Talking,Digital,Low,Stressed,Medium,10.2,Just Ate,Library,Moderate,Dim,Comfortable,8,Continued Task,Yes,Major,2,38,Medium
+859,28-10-2025,16:47,16:48,1,Online Class,High-Focus,Hard,Medium,External,Social Media,Phone,High,Relaxed,Low,5.5,Normal,Café,Loud,Dim,Comfortable,15,Meditation,Yes,None,126,43,Major
+860,17-10-2025,10:36,10:51,15,Meeting,High-Focus,Easy,Medium,External,Phone Call,Environment,Low,Tired,High,7.5,Caffeinated,Café,Moderate,Dim,Hot,4,Meditation,Yes,Minor,54,40,Major
+861,22-10-2025,17:45,17:59,14,Email Responding,Passive,Medium,High,External,Hunger,Physical,High,Neutral,High,5.7,After Meal,cafe,Loud,Bright,Comfortable,7,Continued Task,No,Minor,5,51,Medium
+862,18-10-2025,08:25,08:33,8,Planning,Repetitive,Hard,Medium,External,Message Alert,News Article,Medium,Happy,High,4.9,Just Ate,cafe,Quiet,Dim,Cold,1,Music,Yes,Moderate,22,2,Medium
+863,27-10-2025,11:51,11:54,3,Browsing,High-Focus,Easy,Low,External,Person Talking,Pet Movement,Medium,Calm,Low,4.4,Caffeinated,Coworking Space,Loud,Dim,Comfortable,1,Coffee,Yes,None,58,39,Major
+864,25-10-2025,18:31,18:52,21,Writing,Repetitive,Hard,Medium,Internal,Boredom,Environment,High,Bored,Low,3.5,Caffeinated,Café,Loud,Normal,Comfortable,8,Ignored Phone,Yes,Moderate,83,4,Micro
+865,17-10-2025,13:23,13:29,6,Coding,High-Focus,Easy,Medium,Internal,Slack Notification,Environment,Low,Calm,High,6.0,Hungry,Outdoors,Moderate,Dim,Comfortable,12,Continued Task,No,Minor,74,9,Major
+866,22-10-2025,18:47,18:57,10,Designing,Creative,Medium,Medium,Internal,Person Talking,Pet,Medium,Stressed,Medium,3.3,Normal,Outdoors,Quiet,Bright,Hot,3,Short Walk,No,Major,65,28,Medium
+867,02-11-2025,11:31,11:42,11,Reading,Creative,Hard,High,Internal,Boredom,Self-thoughts,Medium,Happy,High,3.6,Just Ate,Outdoors,Quiet,Bright,Cold,1,Continued Task,No,Minor,21,10,Major
+868,01-11-2025,07:46,07:55,9,Browsing,Creative,Easy,High,Internal,Random Thought,Colleague,Low,Anxious,Low,6.4,Fasting,Café,Moderate,Normal,Comfortable,9,Music,No,Major,0,75,Medium
+869,18-10-2025,21:17,21:22,5,Coding,Creative,Easy,Medium,Internal,Social Media Alert,Internet,Low,Overwhelmed,High,7.2,Fasting,Library,Moderate,Dim,Comfortable,5,Break,No,Minor,103,24,Major
+870,28-10-2025,12:47,13:06,19,Coding,Repetitive,Medium,Low,External,Daydreaming,Environment,Medium,Anxious,High,4.9,Just Ate,Office,Loud,Bright,Hot,3,Coffee,No,None,0,62,Micro
+871,23-10-2025,13:30,13:47,17,Coding,High-Focus,Hard,High,Internal,Person Talking,Environment,Medium,Anxious,High,3.8,After Meal,Library,Loud,Normal,Comfortable,5,Ignored Phone,No,Moderate,45,8,Major
+872,20-10-2025,06:24,06:40,16,Coding,Repetitive,Hard,High,External,Background Chat,Self-thoughts,Low,Anxious,High,7.5,Just Ate,Outdoor Bench,Moderate,Dim,Comfortable,15,Continued Task,No,Minor,47,31,Major
+873,19-10-2025,09:01,09:20,19,Reading,Repetitive,Medium,High,Internal,Phone Vibration,Digital,Medium,Anxious,Low,3.7,Normal,Café,Loud,Bright,Cold,3,Break,Yes,Minor,39,5,Medium
+874,01-11-2025,15:14,15:23,9,Designing,High-Focus,Hard,Low,External,Hunger,Colleague Talk,Medium,Neutral,Low,6.3,After Meal,Outdoors,Moderate,Dim,Comfortable,8,Music,Yes,Major,49,32,Medium
+875,27-10-2025,20:28,20:33,5,Designing,Repetitive,Medium,Low,Internal,Boredom,News Article,Medium,Happy,Low,6.3,After Meal,Café,Moderate,Normal,Comfortable,18,Music,Yes,Moderate,61,58,Medium
+876,03-11-2025,08:06,08:16,10,Meeting,Repetitive,Medium,Low,External,Person Talking,Physical,High,Neutral,Low,3.8,Just Ate,Outdoors,Moderate,Dim,Cold,1,Coffee,No,None,27,36,Micro
+877,31-10-2025,17:45,17:54,9,Planning,Passive,Medium,High,External,Internet Browsing,Pet Movement,High,Bored,Low,5.8,Hungry,Home,Quiet,Normal,Comfortable,1,Ignored Phone,Yes,Moderate,18,37,Major
+878,30-10-2025,15:42,15:56,14,Writing,Creative,Hard,Low,External,Fatigue,Roommate Noise,Low,Stressed,High,6.2,Just Ate,Home,Loud,Dim,Cold,9,Short Walk,Yes,Major,73,41,Micro
+879,02-11-2025,15:01,15:10,9,Reading,High-Focus,Hard,Medium,External,Person Talking,Background Music,Low,Stressed,Medium,8.8,Hungry,Office,Quiet,Dim,Hot,4,Coffee,Yes,None,41,52,Medium
+880,27-10-2025,11:01,11:12,11,Planning,Passive,Medium,Low,External,Fatigue,Background Music,Medium,Stressed,High,3.8,Hungry,cafe,Moderate,Dim,Cold,4,Continued Task,No,Major,26,27,Micro
+881,25-10-2025,21:03,21:28,25,Studying,Creative,Easy,Low,Internal,Phone Vibration,Colleague Talk,Low,Bored,High,3.7,Caffeinated,Café,Quiet,Normal,Hot,9,Continued Task,Yes,Minor,64,31,Major
+882,18-10-2025,10:52,11:06,14,Reading,High-Focus,Medium,High,External,Person Talking,Pet,Medium,Bored,Medium,8.3,Caffeinated,Library,Loud,Normal,Cold,13,Coffee,No,None,63,20,Major
+883,02-11-2025,18:28,18:35,7,Reading,Creative,Easy,High,External,Slack Notification,Mental,Medium,Happy,High,5.6,Caffeinated,Study Room,Quiet,Bright,Hot,19,Ignored Phone,Yes,Minor,0,67,Medium
+884,25-10-2025,11:09,11:21,12,Meeting,Passive,Hard,High,External,Background Chat,Colleague Talk,Medium,Neutral,Medium,6.9,Just Ate,Café,Loud,Dim,Cold,1,Continued Task,Yes,Moderate,1,57,Medium
+885,31-10-2025,09:31,09:32,1,Studying,Repetitive,Hard,High,External,Social Media Alert,Social Media Feed,High,Tired,High,4.4,Just Ate,Office,Quiet,Normal,Cold,5,Music,No,Major,46,27,Medium
+886,21-10-2025,06:15,06:32,17,Browsing,High-Focus,Medium,High,Internal,Hunger,Social Media Feed,High,Stressed,Low,4.4,After Meal,Outdoor Bench,Quiet,Bright,Hot,2,Continued Task,No,None,0,17,Major
+887,30-10-2025,14:41,14:49,8,Meeting,High-Focus,Hard,Low,External,Social Media,Phone,High,Bored,High,4.2,Caffeinated,Office,Quiet,Dim,Hot,5,Coffee,Yes,None,71,10,Major
+888,21-10-2025,18:18,18:34,16,Writing,High-Focus,Hard,Low,Internal,Boredom,Pet Movement,Medium,Stressed,Medium,7.4,Normal,Lab,Moderate,Bright,Hot,1,Coffee,No,None,45,33,Micro
+889,27-10-2025,06:05,06:10,5,Writing,High-Focus,Medium,Medium,External,Social Media Alert,Colleague Talk,Low,Inspired,High,5.5,Hungry,Café,Quiet,Dim,Hot,15,Ignored Phone,Yes,Minor,32,32,Medium
+890,19-10-2025,13:22,13:34,12,Studying,Repetitive,Hard,High,External,Hunger,Self-thoughts,High,Neutral,Low,8.1,Just Ate,Lab,Quiet,Normal,Cold,6,Ignored Phone,Yes,Moderate,115,30,Major
+891,01-11-2025,13:45,13:54,9,Writing,Repetitive,Hard,High,External,Sudden Idea,Mental,Medium,Stressed,Medium,7.8,Just Ate,Coworking Space,Quiet,Bright,Comfortable,7,Music,No,Moderate,52,31,Major
+892,25-10-2025,23:19,23:33,14,Writing,Repetitive,Easy,Medium,Internal,Random Thought,Physical,Low,Happy,Low,6.1,Caffeinated,Home,Loud,Normal,Cold,12,Coffee,Yes,Minor,93,43,Micro
+893,18-10-2025,19:52,20:07,15,Studying,Creative,Easy,Low,Internal,Slack Notification,Internal Worry,Low,Happy,Medium,4.4,Just Ate,Office,Loud,Bright,Cold,8,Meditation,No,Major,0,1,Major
+894,01-11-2025,17:22,17:44,22,Meeting,Passive,Medium,Medium,External,Internet Browsing,News Article,Low,Happy,High,6.3,Just Ate,Office,Moderate,Dim,Cold,6,Ignored Phone,No,Minor,17,1,Medium
+895,20-10-2025,22:11,22:22,11,Meeting,Passive,Hard,High,External,Hunger,Self-thoughts,High,Tired,Low,6.2,Hungry,Home,Loud,Bright,Cold,12,Music,No,Minor,6,31,Major
+896,18-10-2025,14:19,14:25,6,Meeting,Creative,Medium,Low,External,Phone Vibration,Background Music,Medium,Neutral,Low,6.5,Fasting,Office,Loud,Normal,Cold,6,Break,Yes,Major,101,60,Major
+897,29-10-2025,21:41,21:51,10,Designing,Creative,Medium,High,External,Social Media,Internal Worry,High,Anxious,Low,7.3,Caffeinated,Home,Loud,Normal,Hot,10,Short Walk,Yes,Moderate,85,39,Major
+898,27-10-2025,21:20,21:36,16,Email Responding,Creative,Easy,Medium,Internal,Phone Ping,Phone,Medium,Happy,High,7.3,Caffeinated,Café,Quiet,Bright,Comfortable,10,Short Walk,No,Minor,56,83,Medium
+899,30-10-2025,14:50,15:12,22,Designing,Repetitive,Medium,High,Internal,Boredom,Background Music,Low,Bored,Low,8.1,Hungry,Office,Quiet,Bright,Cold,1,Ignored Phone,No,None,111,1,Micro
+900,25-10-2025,12:32,12:44,12,Meeting,High-Focus,Hard,High,External,Noise,Pet,High,Bored,Medium,7.8,Caffeinated,cafe,Moderate,Normal,Hot,4,Break,No,Major,30,25,Major
+901,23-10-2025,08:19,08:35,16,Coding,Repetitive,Hard,Medium,External,Phone Vibration,Physical,High,Inspired,High,8.5,After Meal,Home,Moderate,Dim,Hot,1,Short Walk,No,Minor,24,22,Micro
+902,17-10-2025,18:53,19:01,8,Writing,Creative,Easy,High,Internal,Random Thought,Colleague,Low,Neutral,High,6.1,Hungry,cafe,Quiet,Dim,Hot,13,Music,Yes,Minor,0,17,Major
+903,27-10-2025,06:42,06:56,14,Studying,Creative,Easy,Low,Internal,Multitasking,Self-thoughts,High,Relaxed,Medium,4.3,Hungry,Office,Loud,Normal,Comfortable,15,Short Walk,Yes,Major,46,48,Micro
+904,02-11-2025,17:04,17:06,2,Designing,Repetitive,Medium,Low,External,Noise,News Article,High,Happy,Medium,3.9,Just Ate,Café,Loud,Normal,Hot,1,Music,Yes,Moderate,0,62,Major
+905,28-10-2025,14:22,14:23,1,Reading,Creative,Easy,Medium,Internal,Notification,Roommate Noise,Medium,Relaxed,Low,3.6,Just Ate,Lab,Quiet,Normal,Comfortable,13,Coffee,No,Minor,0,71,Major
+906,31-10-2025,19:18,19:23,5,Researching,High-Focus,Medium,High,Internal,Phone Call,Colleague Talk,Medium,Happy,High,3.2,Caffeinated,Café,Quiet,Bright,Hot,1,Coffee,No,None,0,55,Micro
+907,30-10-2025,06:02,06:22,20,Studying,Passive,Medium,Low,External,Internet Browsing,Social Media Feed,Low,Stressed,High,3.7,Just Ate,Café,Quiet,Dim,Cold,1,Ignored Phone,Yes,Minor,23,36,Medium
+908,21-10-2025,06:41,06:52,11,Reading,Creative,Medium,Low,Internal,Boredom,Physical,High,Anxious,Low,9.5,Just Ate,Office,Moderate,Dim,Comfortable,1,Continued Task,Yes,Major,92,42,Medium
+909,31-10-2025,07:06,07:18,12,Designing,Creative,Easy,High,Internal,Phone Ping,Social Media Feed,High,Bored,High,4.7,Hungry,Outdoors,Quiet,Normal,Cold,8,Ignored Phone,No,None,19,29,Micro
+910,01-11-2025,13:33,13:42,9,Studying,Repetitive,Medium,Medium,External,Sudden Idea,Colleague Talk,Medium,Calm,Low,4.4,Just Ate,Office,Quiet,Dim,Hot,3,Short Walk,No,Minor,65,37,Major
+911,24-10-2025,06:56,07:04,8,Designing,Repetitive,Hard,Low,Internal,Person Talking,Internal Worry,Medium,Happy,Low,6.1,Fasting,Home,Loud,Bright,Comfortable,1,Music,Yes,Moderate,13,33,Medium
+912,24-10-2025,16:52,16:58,6,Meeting,Repetitive,Medium,High,Internal,Boredom,Pet Movement,Medium,Bored,Low,7.1,Just Ate,Library,Loud,Bright,Comfortable,6,Music,No,None,48,13,Micro
+913,17-10-2025,08:04,08:07,3,Planning,Creative,Medium,High,External,Social Media Alert,Noise,Medium,Calm,High,8.2,Caffeinated,Lab,Moderate,Normal,Comfortable,11,Ignored Phone,Yes,Minor,47,1,Major
+914,17-10-2025,20:30,20:38,8,Browsing,Repetitive,Easy,High,External,Multitasking,Roommate Noise,Medium,Anxious,High,8.4,Hungry,Café,Moderate,Dim,Comfortable,6,Music,No,Minor,17,4,Major
+915,30-10-2025,06:13,06:29,16,Coding,Creative,Medium,Medium,Internal,Notification,Background Music,Medium,Tired,Low,7.3,Fasting,Café,Moderate,Normal,Comfortable,1,Break,Yes,Major,58,31,Major
+916,29-10-2025,20:09,20:30,21,Coding,Passive,Medium,Medium,External,Sudden Idea,Social Media Feed,High,Neutral,Low,6.8,Normal,Library,Quiet,Dim,Hot,6,Ignored Phone,Yes,None,0,21,Medium
+917,31-10-2025,08:23,08:39,16,Online Class,Repetitive,Hard,High,Internal,Noise,Pet Movement,Medium,Stressed,Low,6.6,Just Ate,Outdoors,Loud,Bright,Comfortable,19,Meditation,Yes,Minor,89,5,Medium
+918,21-10-2025,13:18,13:21,3,Reading,Repetitive,Hard,Medium,External,Noise,Pet Movement,High,Happy,High,7.8,Fasting,cafe,Moderate,Normal,Comfortable,9,Ignored Phone,Yes,None,85,25,Major
+919,17-10-2025,10:45,10:50,5,Reading,Repetitive,Medium,High,Internal,Social Media,Roommate Noise,High,Neutral,Low,6.9,Caffeinated,Library,Quiet,Normal,Cold,7,Short Walk,No,Moderate,36,17,Major
+920,30-10-2025,16:08,16:19,11,Reading,High-Focus,Medium,High,External,Person Talking,Pet Movement,Low,Happy,Medium,7.0,After Meal,Library,Loud,Normal,Comfortable,1,Continued Task,Yes,Minor,81,8,Major
+921,21-10-2025,06:13,06:25,12,Meeting,Passive,Medium,High,Internal,Noise,Environment,Medium,Calm,Medium,9.1,Caffeinated,Library,Moderate,Bright,Cold,2,Music,Yes,Major,30,1,Micro
+922,02-11-2025,21:48,21:55,7,Researching,High-Focus,Medium,Medium,External,Background Chat,Mental,High,Tired,Medium,7.6,Hungry,Office,Loud,Normal,Comfortable,2,Coffee,Yes,Minor,48,30,Major
+923,16-10-2025,16:51,17:01,10,Meeting,Passive,Medium,High,External,Noise,Colleague,High,Stressed,High,3.0,Just Ate,Café,Quiet,Bright,Hot,7,Break,Yes,Minor,41,43,Micro
+924,16-10-2025,22:32,22:45,13,Meeting,Creative,Medium,Low,External,Social Media Alert,Background Music,High,Inspired,Low,5.7,Normal,Study Room,Moderate,Normal,Cold,1,Ignored Phone,No,None,74,4,Micro
+925,01-11-2025,17:06,17:10,4,Studying,Repetitive,Easy,High,Internal,Background Chat,Pet,Low,Overwhelmed,High,5.4,Normal,Outdoor Bench,Moderate,Dim,Comfortable,6,Ignored Phone,Yes,Major,31,36,Medium
+926,27-10-2025,11:48,11:54,6,Reading,High-Focus,Easy,High,Internal,Internet Browsing,Mental,Low,Tired,Low,7.1,Caffeinated,Lab,Loud,Normal,Comfortable,12,Short Walk,Yes,Major,54,62,Micro
+927,03-11-2025,07:15,07:31,16,Meeting,Repetitive,Medium,Medium,Internal,Message Alert,Noise,Medium,Happy,High,6.0,Hungry,Office,Moderate,Dim,Cold,8,Coffee,Yes,Major,70,15,Micro
+928,16-10-2025,12:40,12:58,18,Studying,Creative,Medium,Medium,External,Slack Notification,Colleague,High,Stressed,Medium,7.1,Fasting,Outdoors,Loud,Normal,Comfortable,1,Break,Yes,None,74,24,Medium
+929,03-11-2025,12:04,12:32,28,Studying,Repetitive,Easy,Low,External,Daydreaming,News Article,Medium,Anxious,Low,5.6,Caffeinated,Lab,Loud,Normal,Cold,3,Coffee,No,Minor,0,1,Major
+930,20-10-2025,19:30,19:34,4,Studying,High-Focus,Hard,Low,External,Notification,News Article,High,Stressed,Low,5.6,Fasting,cafe,Loud,Normal,Hot,5,Continued Task,No,Major,76,14,Major
+931,19-10-2025,09:45,09:56,11,Meeting,High-Focus,Hard,Medium,External,Boredom,Colleague Talk,Low,Happy,Medium,6.9,Hungry,cafe,Loud,Bright,Comfortable,11,Music,Yes,None,0,27,Medium
+932,24-10-2025,10:04,10:15,11,Designing,Creative,Medium,Low,Internal,Social Media,Pet Movement,Low,Relaxed,High,3.0,Caffeinated,Outdoors,Quiet,Dim,Hot,1,Music,No,Major,90,1,Medium
+933,29-10-2025,09:01,09:03,2,Reading,Creative,Easy,Medium,External,Boredom,Pet,High,Stressed,High,10.8,After Meal,cafe,Moderate,Dim,Cold,6,Ignored Phone,Yes,Moderate,44,27,Major
+934,25-10-2025,19:34,19:49,15,Planning,Creative,Medium,Low,Internal,Boredom,Pet,Medium,Anxious,Low,7.3,After Meal,Office,Loud,Bright,Cold,10,Continued Task,Yes,Moderate,0,18,Medium
+935,03-11-2025,11:43,12:03,20,Coding,Passive,Easy,High,External,Phone Vibration,Physical,Low,Happy,High,4.1,Just Ate,Office,Moderate,Bright,Cold,10,Music,No,Major,55,17,Micro
+936,22-10-2025,08:27,08:34,7,Studying,Repetitive,Easy,Low,Internal,Multitasking,Social Media Feed,Low,Overwhelmed,Low,8.1,Hungry,cafe,Quiet,Normal,Cold,7,Music,No,None,0,36,Major
+937,01-11-2025,16:33,16:49,16,Writing,Creative,Hard,Medium,External,Notification,Roommate Noise,Low,Neutral,High,4.8,After Meal,Office,Quiet,Dim,Comfortable,4,Ignored Phone,No,None,33,35,Medium
+938,28-10-2025,08:25,08:36,11,Writing,High-Focus,Hard,High,Internal,Message Alert,News Article,Low,Happy,Low,5.1,Caffeinated,Café,Quiet,Normal,Cold,11,Continued Task,Yes,Minor,0,47,Medium
+939,20-10-2025,06:04,06:09,5,Designing,Repetitive,Hard,Medium,External,Random Thought,Noise,High,Happy,Low,6.1,Hungry,Office,Quiet,Bright,Hot,1,Ignored Phone,No,Minor,0,16,Major
+940,28-10-2025,06:24,06:27,3,Planning,Creative,Hard,Medium,Internal,Person Talking,Physical,High,Happy,Medium,7.7,Hungry,Café,Moderate,Bright,Comfortable,8,Continued Task,Yes,Minor,0,31,Micro
+941,16-10-2025,12:00,12:22,22,Browsing,High-Focus,Easy,Low,Internal,Random Thought,Pet,Low,Bored,Low,5.4,Caffeinated,Office,Loud,Dim,Cold,7,Meditation,No,Moderate,94,20,Micro
+942,18-10-2025,11:15,11:19,4,Planning,Passive,Medium,Low,Internal,Social Media Alert,Mental,Low,Calm,Low,7.9,After Meal,Office,Loud,Normal,Hot,5,Continued Task,Yes,Minor,65,53,Micro
+943,24-10-2025,23:32,23:33,1,Meeting,Creative,Medium,High,External,Internet Browsing,Background Music,Low,Stressed,High,6.0,Caffeinated,cafe,Moderate,Normal,Comfortable,3,Ignored Phone,No,Minor,38,5,Medium
+944,28-10-2025,18:32,18:33,1,Browsing,Creative,Medium,Medium,Internal,Social Media Alert,Internal Worry,Low,Calm,High,8.9,After Meal,Outdoors,Loud,Bright,Hot,13,Break,No,Major,0,46,Micro
+945,31-10-2025,23:05,23:15,10,Designing,Repetitive,Easy,Medium,External,Message Alert,Internet,Medium,Stressed,Medium,4.1,After Meal,Café,Loud,Dim,Hot,1,Ignored Phone,Yes,Minor,71,17,Major
+946,27-10-2025,21:27,21:43,16,Coding,Passive,Easy,Medium,External,Multitasking,Roommate Noise,High,Bored,High,5.3,After Meal,Home,Moderate,Dim,Cold,7,Coffee,No,None,0,46,Medium
+947,23-10-2025,17:00,17:07,7,Planning,High-Focus,Easy,Medium,External,Daydreaming,Pet,Low,Tired,High,5.4,Caffeinated,Home,Moderate,Bright,Cold,8,Coffee,No,Minor,108,40,Medium
+948,17-10-2025,21:25,21:49,24,Planning,Creative,Easy,Low,External,Boredom,Noise,Medium,Tired,Low,4.5,Caffeinated,Home,Loud,Dim,Cold,7,Music,Yes,None,77,56,Micro
+949,22-10-2025,08:18,08:22,4,Brainstorming,Creative,Hard,Medium,External,Fatigue,Social Media Feed,Low,Bored,Low,3.4,Just Ate,Office,Moderate,Bright,Cold,8,Music,Yes,Major,0,41,Micro
+950,18-10-2025,20:57,21:13,16,Studying,Passive,Easy,High,Internal,Random Thought,Colleague,Medium,Happy,Medium,7.2,Caffeinated,Study Room,Loud,Dim,Comfortable,12,Music,Yes,Major,30,43,Medium
+951,20-10-2025,15:24,15:35,11,Reading,High-Focus,Easy,Low,Internal,Person Talking,Colleague,High,Stressed,Low,5.5,Fasting,Office,Moderate,Dim,Cold,4,Coffee,No,Minor,96,27,Major
+952,22-10-2025,22:40,22:50,10,Meeting,Creative,Medium,High,External,Fatigue,Internal Worry,Medium,Bored,High,3.2,Caffeinated,Café,Loud,Bright,Cold,4,Continued Task,Yes,Minor,67,45,Micro
+953,30-10-2025,09:14,09:21,7,Browsing,High-Focus,Hard,High,External,Background Chat,Internal Worry,High,Bored,High,3.2,After Meal,Library,Moderate,Normal,Comfortable,7,Music,Yes,Major,8,21,Major
+954,18-10-2025,06:30,06:46,16,Reading,High-Focus,Easy,Low,External,Social Media Alert,Digital,Medium,Happy,Medium,7.8,Normal,Library,Loud,Bright,Hot,9,Music,Yes,Major,123,9,Medium
+955,27-10-2025,17:49,18:05,16,Email Responding,Repetitive,Hard,Medium,External,Notification,Pet Movement,Low,Happy,High,4.5,Fasting,Outdoors,Moderate,Bright,Cold,5,Music,No,Major,0,39,Major
+956,27-10-2025,19:34,19:45,11,Researching,High-Focus,Easy,Medium,Internal,Social Media Alert,Noise,Medium,Neutral,Medium,5.5,Caffeinated,Library,Loud,Dim,Cold,1,Meditation,Yes,Minor,48,19,Micro
+957,22-10-2025,21:03,21:13,10,Meeting,Creative,Easy,Low,External,Phone Call,Physical,Low,Bored,Medium,3.0,Caffeinated,Café,Quiet,Dim,Comfortable,7,Ignored Phone,No,Major,6,14,Micro
+958,21-10-2025,19:21,19:31,10,Coding,High-Focus,Medium,Low,External,Random Thought,Colleague Talk,Low,Bored,Medium,6.6,Fasting,Office,Quiet,Bright,Comfortable,7,Music,Yes,Minor,43,41,Major
+959,17-10-2025,23:50,23:59,9,Writing,Creative,Hard,Medium,Internal,Background Chat,Colleague,High,Neutral,Medium,5.3,Hungry,Outdoor Bench,Quiet,Normal,Hot,9,Ignored Phone,No,None,0,9,Major
+960,23-10-2025,09:08,09:12,4,Browsing,High-Focus,Easy,High,Internal,Hunger,Roommate Noise,Medium,Anxious,Low,7.0,Fasting,Library,Loud,Normal,Cold,2,Break,No,Minor,77,13,Micro
+961,25-10-2025,21:11,21:25,14,Writing,Repetitive,Easy,High,Internal,Notification,Digital,High,Happy,High,7.7,Normal,cafe,Moderate,Bright,Comfortable,6,Meditation,No,Minor,0,27,Micro
+962,21-10-2025,18:49,19:08,19,Coding,Passive,Medium,Low,Internal,Slack Notification,Social Media Feed,Low,Bored,Medium,7.2,Normal,Office,Moderate,Normal,Comfortable,6,Meditation,No,Minor,14,37,Medium
+963,31-10-2025,09:01,09:16,15,Studying,Creative,Easy,Low,Internal,Internet Browsing,Internet,Low,Neutral,High,3.0,Fasting,Office,Moderate,Bright,Comfortable,7,Continued Task,Yes,Major,36,21,Micro
+964,25-10-2025,06:57,06:58,1,Coding,Repetitive,Medium,Low,Internal,Notification,Environment,Low,Calm,Low,5.2,Fasting,Home,Loud,Normal,Cold,9,Ignored Phone,No,Moderate,56,38,Medium
+965,24-10-2025,23:37,23:52,15,Meeting,Passive,Hard,High,External,Social Media,Social Media Feed,High,Neutral,Medium,4.6,Normal,Lab,Loud,Bright,Comfortable,8,Ignored Phone,No,Moderate,0,1,Medium
+966,23-10-2025,07:22,07:33,11,Reading,Passive,Medium,Low,Internal,Sudden Idea,Background Music,Medium,Tired,Low,5.9,Normal,Library,Quiet,Normal,Hot,16,Coffee,Yes,Major,0,29,Major
+967,18-10-2025,20:46,20:47,1,Writing,Repetitive,Medium,Low,External,Hunger,Internet,Medium,Neutral,High,8.0,Hungry,Office,Quiet,Normal,Comfortable,7,Music,No,None,4,38,Medium
+968,30-10-2025,12:47,13:03,16,Reading,Creative,Medium,Medium,Internal,Slack Notification,Colleague Talk,Medium,Neutral,Medium,4.9,Caffeinated,Café,Moderate,Normal,Comfortable,14,Ignored Phone,Yes,Minor,26,30,Medium
+969,22-10-2025,11:53,12:01,8,Planning,Creative,Easy,Low,Internal,Phone Vibration,Phone,Low,Inspired,Low,8.3,After Meal,Home,Loud,Normal,Comfortable,11,Short Walk,Yes,Minor,41,34,Medium
+970,18-10-2025,06:36,06:46,10,Coding,High-Focus,Easy,Medium,External,Notification,Phone,Low,Calm,Medium,6.1,After Meal,Office,Quiet,Bright,Comfortable,1,Break,Yes,Major,57,18,Major
+971,25-10-2025,20:44,20:58,14,Planning,Passive,Medium,Low,External,Social Media Alert,Physical,Low,Tired,High,9.0,Just Ate,Lab,Loud,Bright,Cold,11,Coffee,Yes,Major,75,31,Micro
+972,20-10-2025,22:33,22:40,7,Reading,High-Focus,Easy,Low,External,Sudden Idea,Digital,Medium,Anxious,Low,6.9,Fasting,Library,Moderate,Bright,Hot,10,Short Walk,Yes,None,66,34,Micro
+973,25-10-2025,08:41,08:42,1,Designing,Repetitive,Easy,Medium,External,Background Chat,Pet Movement,Low,Curious,High,3.0,Normal,Outdoors,Quiet,Dim,Hot,10,Continued Task,No,Major,37,11,Major
+974,30-10-2025,16:09,16:22,13,Brainstorming,High-Focus,Hard,High,Internal,Sudden Idea,Self-thoughts,High,Bored,Medium,5.4,After Meal,cafe,Moderate,Bright,Hot,16,Continued Task,Yes,Minor,101,61,Major
+975,17-10-2025,15:40,15:53,13,Reading,High-Focus,Hard,Low,Internal,Background Chat,Roommate Noise,Medium,Relaxed,Medium,4.0,Fasting,Coworking Space,Moderate,Normal,Comfortable,9,Continued Task,Yes,None,20,34,Medium
+976,28-10-2025,11:19,11:22,3,Writing,Repetitive,Easy,High,Internal,Message Alert,Pet,High,Bored,Medium,9.1,After Meal,Library,Moderate,Normal,Comfortable,1,Meditation,Yes,Moderate,43,45,Micro
+977,31-10-2025,14:31,14:32,1,Designing,Repetitive,Hard,Medium,Internal,Phone Call,Background Music,Medium,Neutral,High,7.7,Caffeinated,Library,Loud,Bright,Comfortable,15,Meditation,Yes,Minor,0,39,Major
+978,22-10-2025,23:09,23:18,9,Studying,High-Focus,Hard,Medium,Internal,Multitasking,Social Media Feed,High,Bored,Medium,6.8,Caffeinated,Home,Loud,Dim,Hot,7,Coffee,No,Minor,107,1,Micro
+979,19-10-2025,12:55,12:56,1,Coding,Repetitive,Easy,High,Internal,Fatigue,Internet,Medium,Stressed,High,5.7,Caffeinated,Library,Quiet,Normal,Hot,4,Coffee,No,Major,97,19,Micro
+980,24-10-2025,11:11,11:33,22,Writing,High-Focus,Hard,Low,Internal,Phone Vibration,Internal Worry,Medium,Overwhelmed,Low,6.6,Hungry,Outdoors,Loud,Dim,Cold,5,Continued Task,No,Minor,31,47,Medium
+981,18-10-2025,23:54,00:10,16,Coding,High-Focus,Hard,Low,External,Fatigue,Noise,Medium,Calm,High,7.5,After Meal,Home,Loud,Normal,Cold,1,Music,No,Moderate,0,26,Micro
+982,16-10-2025,08:01,08:12,11,Meeting,Repetitive,Easy,Medium,External,Phone Call,Mental,High,Inspired,Low,6.2,After Meal,Lab,Loud,Dim,Comfortable,8,Ignored Phone,No,Major,61,1,Micro
+983,01-11-2025,12:28,12:38,10,Meeting,Creative,Hard,Low,External,Social Media Alert,Internal Worry,Low,Happy,Medium,7.8,Just Ate,cafe,Moderate,Normal,Comfortable,2,Continued Task,No,Minor,113,43,Major
+984,25-10-2025,10:26,10:40,14,Brainstorming,High-Focus,Hard,Medium,External,Phone Vibration,Internet,Medium,Calm,Low,6.3,Normal,Office,Loud,Bright,Hot,7,Short Walk,No,Minor,7,34,Major
+985,18-10-2025,06:32,06:42,10,Reading,Creative,Hard,Low,Internal,Person Talking,Pet,High,Tired,Medium,3.0,Hungry,Study Room,Loud,Dim,Hot,4,Music,Yes,Major,68,38,Medium
+986,20-10-2025,13:34,13:56,22,Reading,Repetitive,Hard,High,External,Internet Browsing,Pet Movement,Medium,Stressed,High,5.2,Caffeinated,Outdoor Bench,Quiet,Bright,Hot,6,Meditation,Yes,Moderate,28,64,Medium
+987,23-10-2025,12:47,12:48,1,Coding,High-Focus,Hard,Low,Internal,Slack Notification,Environment,Low,Calm,Low,5.1,After Meal,Office,Loud,Dim,Hot,5,Coffee,Yes,Major,19,20,Micro
+988,16-10-2025,15:05,15:24,19,Planning,Creative,Medium,Medium,Internal,Person Talking,Internet,Medium,Neutral,Medium,8.6,Caffeinated,Café,Moderate,Dim,Cold,16,Coffee,Yes,Moderate,66,50,Micro
+989,23-10-2025,20:05,20:17,12,Coding,High-Focus,Hard,High,External,Multitasking,Colleague,Medium,Neutral,Medium,7.7,Hungry,Lab,Quiet,Dim,Hot,8,Short Walk,Yes,Minor,51,16,Micro
+990,17-10-2025,07:41,07:57,16,Team Discussion,Repetitive,Hard,Low,Internal,Notification,Colleague,Medium,Stressed,High,5.7,Just Ate,cafe,Moderate,Normal,Hot,1,Ignored Phone,No,Minor,102,25,Micro
+991,23-10-2025,14:04,14:23,19,Writing,Repetitive,Easy,High,Internal,Multitasking,Mental,Medium,Neutral,Low,7.1,Hungry,cafe,Moderate,Bright,Hot,1,Short Walk,Yes,Minor,118,24,Micro
+992,19-10-2025,20:40,20:55,15,Planning,Passive,Medium,Medium,Internal,Notification,News Article,Low,Stressed,Low,8.6,Normal,cafe,Quiet,Bright,Cold,15,Continued Task,No,Minor,66,50,Major
+993,25-10-2025,20:23,20:31,8,Studying,High-Focus,Easy,High,Internal,Daydreaming,News Article,Low,Stressed,High,6.8,After Meal,Café,Loud,Dim,Comfortable,5,Break,Yes,None,48,15,Major
+994,26-10-2025,08:20,08:32,12,Coding,Repetitive,Medium,Low,Internal,Internet Browsing,Background Music,High,Tired,High,6.0,Hungry,Coworking Space,Loud,Normal,Cold,2,Break,Yes,Minor,44,6,Micro
+995,27-10-2025,09:31,09:37,6,Studying,Repetitive,Hard,Low,Internal,Social Media,Social Media Feed,Low,Overwhelmed,Low,5.0,After Meal,cafe,Moderate,Dim,Cold,1,Continued Task,Yes,None,8,1,Medium
+996,03-11-2025,08:03,08:04,1,Studying,Passive,Easy,High,Internal,Sudden Idea,Phone,Medium,Bored,Low,5.8,Hungry,Café,Moderate,Bright,Hot,1,Continued Task,No,None,41,28,Medium
+997,20-10-2025,14:25,14:33,8,Coding,Repetitive,Hard,Low,External,Noise,Internet,Low,Anxious,High,4.3,Just Ate,Office,Moderate,Normal,Hot,7,Coffee,No,Major,31,31,Medium
+998,22-10-2025,07:55,08:02,7,Designing,Creative,Medium,Medium,External,Phone Call,Digital,Medium,Tired,Low,6.6,Caffeinated,Office,Quiet,Bright,Hot,5,Continued Task,Yes,Minor,41,28,Medium
+999,23-10-2025,11:07,11:15,8,Studying,High-Focus,Hard,Low,External,Multitasking,Social Media Feed,High,Stressed,High,6.1,Just Ate,Library,Quiet,Dim,Hot,1,Ignored Phone,Yes,None,41,28,Micro
+1000,22-10-2025,18:20,18:38,18,Studying,Repetitive,Hard,Low,Internal,Phone Vibration,Colleague,Low,Stressed,High,6.4,Just Ate,Library,Loud,Normal,Comfortable,8,Ignored Phone,Yes,Minor,130,12,Major
+1001,31-10-2025,17:48,18:08,20,Email Responding,Passive,Easy,Medium,Internal,Slack Notification,Social Media Feed,High,Tired,High,7.5,Caffeinated,Café,Loud,Bright,Cold,14,Ignored Phone,No,Moderate,78,34,Medium
+1002,23-10-2025,15:32,15:48,16,Studying,High-Focus,Easy,Low,External,Hunger,Roommate Noise,High,Bored,Low,4.5,Hungry,Lab,Loud,Bright,Cold,3,Music,No,None,69,54,Major
+1003,21-10-2025,11:52,12:05,13,Studying,High-Focus,Easy,High,External,Phone Ping,News Article,Low,Anxious,Low,4.6,After Meal,cafe,Loud,Normal,Comfortable,7,Ignored Phone,No,Major,108,59,Major
+1004,16-10-2025,06:19,06:36,17,Meeting,High-Focus,Medium,Low,External,Phone Ping,Digital,Medium,Calm,High,3.5,Caffeinated,Outdoors,Quiet,Dim,Cold,13,Music,Yes,Minor,63,51,Medium
+1005,25-10-2025,07:43,07:47,4,Studying,High-Focus,Hard,Low,Internal,Phone Vibration,Digital,Medium,Inspired,High,5.8,Normal,Office,Quiet,Dim,Comfortable,4,Meditation,No,Minor,21,67,Medium
+1006,23-10-2025,22:29,22:45,16,Browsing,Passive,Hard,Low,Internal,Random Thought,Pet Movement,Low,Stressed,High,8.5,Hungry,Library,Loud,Dim,Hot,3,Coffee,Yes,Minor,94,72,Micro
+1007,30-10-2025,20:54,20:58,4,Designing,Passive,Hard,Low,External,Phone Call,Colleague,Medium,Stressed,Low,6.3,Caffeinated,Café,Moderate,Bright,Hot,1,Continued Task,No,None,65,25,Micro
+1008,20-10-2025,06:08,06:22,14,Planning,Creative,Medium,Low,Internal,Message Alert,Self-thoughts,Medium,Calm,Medium,3.1,Just Ate,Library,Loud,Dim,Comfortable,6,Meditation,No,Minor,71,48,Medium
+1009,26-10-2025,07:50,07:58,8,Writing,Passive,Hard,Medium,Internal,Phone Call,Colleague Talk,Medium,Anxious,Medium,7.9,Fasting,cafe,Loud,Dim,Hot,9,Ignored Phone,No,Minor,58,1,Major
+1010,22-10-2025,15:47,15:48,1,Meeting,Passive,Hard,High,Internal,Daydreaming,Roommate Noise,Medium,Anxious,Medium,7.2,Hungry,Home,Quiet,Normal,Hot,5,Music,Yes,None,50,17,Major
+1011,20-10-2025,23:53,23:56,3,Coding,Creative,Medium,High,External,Slack Notification,Environment,Low,Neutral,Medium,7.7,Hungry,Home,Loud,Normal,Cold,9,Meditation,No,Major,152,26,Medium
+1012,27-10-2025,21:05,21:15,10,Writing,Passive,Medium,High,Internal,Daydreaming,News Article,High,Bored,High,5.6,Caffeinated,Outdoors,Moderate,Dim,Hot,2,Break,No,Moderate,66,32,Major
+1013,17-10-2025,10:46,11:00,14,Coding,Repetitive,Hard,High,Internal,Noise,Phone,Medium,Bored,Medium,5.4,Normal,cafe,Quiet,Dim,Hot,11,Short Walk,No,None,33,33,Micro
+1014,21-10-2025,18:14,18:15,1,Reading,Repetitive,Hard,Low,External,Person Talking,Roommate Noise,High,Bored,Low,8.3,Caffeinated,Office,Loud,Bright,Cold,5,Music,Yes,Minor,65,43,Major
+1015,28-10-2025,23:10,23:30,20,Researching,High-Focus,Hard,High,Internal,Phone Call,Self-thoughts,Medium,Calm,Medium,6.1,Hungry,Home,Quiet,Dim,Comfortable,7,Continued Task,Yes,Minor,90,1,Medium
+1016,24-10-2025,08:45,08:58,13,Coding,Repetitive,Easy,Medium,External,Sudden Idea,Phone,High,Neutral,Low,3.9,Caffeinated,Outdoors,Loud,Bright,Hot,10,Meditation,Yes,Major,15,6,Medium
+1017,16-10-2025,19:26,19:30,4,Browsing,Repetitive,Hard,Low,External,Person Talking,Environment,High,Anxious,Low,11.0,Caffeinated,Office,Loud,Dim,Cold,7,Continued Task,Yes,Major,11,1,Medium
+1018,22-10-2025,18:19,18:33,14,Studying,High-Focus,Hard,Medium,Internal,Social Media,Mental,Medium,Inspired,Low,6.5,Normal,Office,Moderate,Bright,Comfortable,4,Short Walk,No,Major,4,25,Medium
+1019,21-10-2025,17:33,17:42,9,Writing,High-Focus,Easy,Medium,External,Noise,Digital,Low,Curious,High,4.3,Just Ate,Library,Loud,Bright,Comfortable,3,Music,Yes,None,63,44,Major
+1020,31-10-2025,16:35,16:37,2,Designing,High-Focus,Easy,High,Internal,Hunger,Social Media Feed,Low,Tired,Medium,6.5,Just Ate,Office,Loud,Bright,Cold,10,Coffee,No,Minor,80,11,Medium
